@@ -34,7 +34,42 @@
       "transliteration": "Hee-yah-n-zoh-tahl, bah-rah-tom.",
       "category": "Friendship",
       "generated_at": "2026-06-16T11:41:21.189042"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "hungarian": "Megbocsátok neked, őszintén.",
+      "transliteration": "Meg-bo-chok-tok ne-ked, ö-szin-ten.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-16T11:58:06.173731"
+    },
+    {
+      "english": "Let it go, now.",
+      "hungarian": "Engedd el, most.",
+      "transliteration": "En-gedd el, most.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-16T11:58:06.173740"
+    },
+    {
+      "english": "We can move on, together.",
+      "hungarian": "Tovább tudunk lépni, együtt.",
+      "transliteration": "To-váb-bool tud-unk lep-ni, e-gyüt-t.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-16T11:58:06.173742"
+    },
+    {
+      "english": "No more anger, please.",
+      "hungarian": "Ne haragudj, kérlek.",
+      "transliteration": "Ne ha-ra-gudj, kér-lek.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-16T11:58:06.173743"
+    },
+    {
+      "english": "I choose peace, now.",
+      "hungarian": "A békét választom, most.",
+      "transliteration": "A bé-két vá-lasz-tom, most.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-16T11:58:06.173744"
     }
   ],
-  "last_updated": "2026-06-16T11:41:21.189045"
+  "last_updated": "2026-06-16T11:58:06.173746"
 }
