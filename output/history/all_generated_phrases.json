@@ -69,7 +69,42 @@
       "transliteration": "A bé-két vá-lasz-tom, most.",
       "category": "Forgiveness",
       "generated_at": "2026-06-16T11:58:06.173744"
+    },
+    {
+      "english": "Take it easy, man.",
+      "hungarian": "Nyugi, haver.",
+      "transliteration": "Nyoog-ee, ha-ver.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T16:25:26.218247"
+    },
+    {
+      "english": "Let's grab a bite.",
+      "hungarian": "Együnk valamit.",
+      "transliteration": "Edg-yoong val-a-meet.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T16:25:26.218257"
+    },
+    {
+      "english": "No way, really?",
+      "hungarian": "Nem lehet, komolyan?",
+      "transliteration": "Nem le-het, ko-mo-yan?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T16:25:26.218258"
+    },
+    {
+      "english": "What’s up, dude?",
+      "hungarian": "Mi újság, tesó?",
+      "transliteration": "Mee oo-yshag, tesh-oh?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T16:25:26.218259"
+    },
+    {
+      "english": "Sounds good to me.",
+      "hungarian": "Nekem megfelel.",
+      "transliteration": "Ne-kem meg-fe-lel.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T16:25:26.218260"
     }
   ],
-  "last_updated": "2026-06-16T11:58:06.173746"
+  "last_updated": "2026-06-16T16:25:26.218262"
 }
