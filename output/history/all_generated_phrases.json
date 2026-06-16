@@ -1,0 +1,40 @@
+{
+  "phrases": [
+    {
+      "english": "You are a true friend, always.",
+      "hungarian": "Igaz barát vagy, mindig.",
+      "transliteration": "Ee-gahz bah-rah-t vah-dj, vee-gmeed.",
+      "category": "Friendship",
+      "generated_at": "2026-06-16T11:41:21.189026"
+    },
+    {
+      "english": "Let's meet soon, okay?",
+      "hungarian": "Találkozzunk hamar, rendben?",
+      "transliteration": "Tah-lah-khoz-oonk hah-mahr, reh-nd-beh-n?",
+      "category": "Friendship",
+      "generated_at": "2026-06-16T11:41:21.189036"
+    },
+    {
+      "english": "Thanks for your help, friend.",
+      "hungarian": "Köszönöm a segítséget, barátom.",
+      "transliteration": "Kuh-suh-nuhm ah sheh-geet-shay-get, bah-rah-tom.",
+      "category": "Friendship",
+      "generated_at": "2026-06-16T11:41:21.189038"
+    },
+    {
+      "english": "We have fun together, right?",
+      "hungarian": "Jól érezzük magunkat együtt, ugye?",
+      "transliteration": "Yohl ay-rez-zook mah-goonk-aht eh-gyoot, oo-jeh?",
+      "category": "Friendship",
+      "generated_at": "2026-06-16T11:41:21.189040"
+    },
+    {
+      "english": "I missed you, my friend.",
+      "hungarian": "Hiányoztál, barátom.",
+      "transliteration": "Hee-yah-n-zoh-tahl, bah-rah-tom.",
+      "category": "Friendship",
+      "generated_at": "2026-06-16T11:41:21.189042"
+    }
+  ],
+  "last_updated": "2026-06-16T11:41:21.189045"
+}
