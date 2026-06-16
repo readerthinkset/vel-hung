@@ -1,4 +1,4 @@
-name: VELOCITY HUNGARIAN - Daily 5x Upload
+name: VELOCITY FILIPINO - Daily 5x Upload
 
 on:
   schedule:
@@ -112,9 +112,9 @@ jobs:
           echo "TIMEZONE_OFFSET_HOURS=-5" >> .env
           echo ".env file created"
 
-      - name: Generate Hungarian Learning Reel
+      - name: Generate Filipino Learning Reel
         run: |
-          echo "Starting VELOCITY HUNGARIAN content generation..."
+          echo "Starting VELOCITY FILIPINO content generation..."
           python facebook_reels_automation.py
           echo "Content generation complete!"
           echo ""
@@ -132,7 +132,7 @@ jobs:
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: hungarian-reel-${{ github.run_number }}
+          name: filipino-reel-${{ github.run_number }}
           path: |
             output/video/*/final_reel.mp4
             output/video/*/metadata.json
@@ -167,7 +167,8 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add -f output/history/all_generated_phrases.json output/history/recent_categories.json
           if ! git diff --staged --quiet; then
-            git commit -m "Update phrase history - Run #${{ github.run_number }}"
+            git commit -m "Update phrase history  [skip ci]  - Run #${{ github.run_number }}"
+            git pull --rebase || true
             git push
             echo "Phrase history committed - NO repeats across runs!"
           else
