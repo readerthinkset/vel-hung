@@ -104,7 +104,42 @@
       "transliteration": "Ne-kem meg-fe-lel.",
       "category": "Common Expressions",
       "generated_at": "2026-06-16T16:25:26.218260"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "hungarian": "Belégzés, kilégzés.",
+      "transliteration": "Bel-eg-zés, kil-eg-zés.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-16T18:25:05.585149"
+    },
+    {
+      "english": "Be here, now.",
+      "hungarian": "Légy itt, most.",
+      "transliteration": "Lay eeht, moasht.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-16T18:25:05.585158"
+    },
+    {
+      "english": "Feel the ground, beneath you.",
+      "hungarian": "Érezd a földet, magad alatt.",
+      "transliteration": "Ay-rez-d ah fer-det, mah-gahd ah-laht.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-16T18:25:05.585159"
+    },
+    {
+      "english": "Listen to your heart.",
+      "hungarian": "Hallgasd a szíved.",
+      "transliteration": "Hahl-gahshd ah see-ved.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-16T18:25:05.585161"
+    },
+    {
+      "english": "Observe, without judgment.",
+      "hungarian": "Figyelj, ítélkezés nélkül.",
+      "transliteration": "Fee-yay-y, ee-tayl-kay-zhesh n-ayl-koo-l.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-16T18:25:05.585162"
     }
   ],
-  "last_updated": "2026-06-16T16:25:26.218262"
+  "last_updated": "2026-06-16T18:25:05.585163"
 }
