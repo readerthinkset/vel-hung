@@ -279,7 +279,42 @@
       "transliteration": "O-lyan bol-dog va-gyok, e-ne-kel-nek.",
       "category": "Joy",
       "generated_at": "2026-06-17T14:52:19.622619"
+    },
+    {
+      "english": "I can do this, slowly but surely.",
+      "hungarian": "Ezt meg tudom csinálni, lassan, de biztosan.",
+      "transliteration": "Ezt meg too-doom see-nah-lee, luh-shun, deh bee-zoh-shun.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T16:51:21.279397"
+    },
+    {
+      "english": "Every lesson, I improve.",
+      "hungarian": "Minden órán, fejlődök.",
+      "transliteration": "Mee-den oh-rahn, fay-luh-duh-k.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T16:51:21.279406"
+    },
+    {
+      "english": "Learning Hungarian is fun.",
+      "hungarian": "Magyarul tanulni, szórakoztató.",
+      "transliteration": "Muh-dyuh-rool too-nool-nee, soh-rah-koh-ztuh-toh.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T16:51:21.279410"
+    },
+    {
+      "english": "I understand more, each day.",
+      "hungarian": "Egyre többet értek, minden nap.",
+      "transliteration": "Edge-ray tuhb-bet ayr-tek, mee-den nap.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T16:51:21.279412"
+    },
+    {
+      "english": "My Hungarian gets better, I know it.",
+      "hungarian": "Egyre jobb a magyarom, tudom.",
+      "transliteration": "Edge-ray yop-poh muh-dhyuh-rom, too-dom.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T16:51:21.279413"
     }
   ],
-  "last_updated": "2026-06-17T14:52:19.622620"
+  "last_updated": "2026-06-17T16:51:21.279415"
 }
