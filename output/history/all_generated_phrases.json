@@ -244,7 +244,42 @@
       "transliteration": "Mayg edge-yet, kay-rem.",
       "category": "Numbers",
       "generated_at": "2026-06-17T02:56:58.480997"
+    },
+    {
+      "english": "Pure happiness, my friend.",
+      "hungarian": "Tiszta öröm, barátom.",
+      "transliteration": "Tis-ta o-rom, ba-ra-tom.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T14:52:19.622606"
+    },
+    {
+      "english": "Such a bright day, isn't it?",
+      "hungarian": "Milyen szép nap, nem?",
+      "transliteration": "Mi-lyen szep nap, nem?",
+      "category": "Joy",
+      "generated_at": "2026-06-17T14:52:19.622615"
+    },
+    {
+      "english": "This feels wonderful, truly.",
+      "hungarian": "Csodásan érzem magam, tényleg.",
+      "transliteration": "Cso-da-shan er-zem ma-gam, te-ny-leg.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T14:52:19.622616"
+    },
+    {
+      "english": "A moment of sheer joy.",
+      "hungarian": "Egy tiszta öröm pillanata.",
+      "transliteration": "Edj tis-ta o-rom pil-la-na-ta.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T14:52:19.622617"
+    },
+    {
+      "english": "So happy, I could sing.",
+      "hungarian": "Olyan boldog vagyok, énekelnék.",
+      "transliteration": "O-lyan bol-dog va-gyok, e-ne-kel-nek.",
+      "category": "Joy",
+      "generated_at": "2026-06-17T14:52:19.622619"
     }
   ],
-  "last_updated": "2026-06-17T02:56:58.480999"
+  "last_updated": "2026-06-17T14:52:19.622620"
 }
