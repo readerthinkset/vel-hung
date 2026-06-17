@@ -209,7 +209,42 @@
       "transliteration": "Saa-meet aaz er-o-fes-sees-tay-shed, ne ad fel.",
       "category": "Strength",
       "generated_at": "2026-06-16T22:14:24.668413"
+    },
+    {
+      "english": "One, two, three, let's go!",
+      "hungarian": "Egy, kettő, három, induljunk!",
+      "transliteration": "Edge, kett-oh, harr-om, in-dul-yunk!",
+      "category": "Numbers",
+      "generated_at": "2026-06-17T02:56:58.480984"
+    },
+    {
+      "english": "Four, five, six, more time.",
+      "hungarian": "Négy, öt, hat, még idő.",
+      "transliteration": "Nayg, ut, hat, mayg i-doh.",
+      "category": "Numbers",
+      "generated_at": "2026-06-17T02:56:58.480993"
+    },
+    {
+      "english": "Seven, eight, nine, it's late.",
+      "hungarian": "Hét, nyolc, kilenc, késő van.",
+      "transliteration": "Hayt, nyolts, kil-ents, kay-shoh vahn.",
+      "category": "Numbers",
+      "generated_at": "2026-06-17T02:56:58.480994"
+    },
+    {
+      "english": "Ten, then what?",
+      "hungarian": "Tíz, aztán mi?",
+      "transliteration": "Teaz, az-tahn mee?",
+      "category": "Numbers",
+      "generated_at": "2026-06-17T02:56:58.480996"
+    },
+    {
+      "english": "Just one more, please.",
+      "hungarian": "Még egyet, kérem.",
+      "transliteration": "Mayg edge-yet, kay-rem.",
+      "category": "Numbers",
+      "generated_at": "2026-06-17T02:56:58.480997"
     }
   ],
-  "last_updated": "2026-06-16T22:14:24.668414"
+  "last_updated": "2026-06-17T02:56:58.480999"
 }
