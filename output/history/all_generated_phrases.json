@@ -314,7 +314,42 @@
       "transliteration": "Edge-ray yop-poh muh-dhyuh-rom, too-dom.",
       "category": "Confidence",
       "generated_at": "2026-06-17T16:51:21.279413"
+    },
+    {
+      "english": "Slow and steady, wins the race.",
+      "hungarian": "Lassan, de biztosan, célba ér.",
+      "transliteration": "Las-shon, deh bee-zosh-shon, chel-bo eh-r.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T19:23:48.784123"
+    },
+    {
+      "english": "One step at a time.",
+      "hungarian": "Egy lépés, minden lépés.",
+      "transliteration": "Edj le-pe-sh, min-den le-pe-sh.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T19:23:48.784131"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "hungarian": "Próbálj tovább, ne add fel.",
+      "transliteration": "Pro-ba-yl to-vaab, neh add fel.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T19:23:48.784133"
+    },
+    {
+      "english": "Good things, come to those who wait.",
+      "hungarian": "Jó dolgok, várnak ránk.",
+      "transliteration": "Yo dol-gok, vaar-nok raank.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T19:23:48.784134"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "hungarian": "Türelem, erény.",
+      "transliteration": "Tyoo-reh-lem, eh-reen.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T19:23:48.784135"
     }
   ],
-  "last_updated": "2026-06-17T16:51:21.279415"
+  "last_updated": "2026-06-17T19:23:48.784137"
 }
