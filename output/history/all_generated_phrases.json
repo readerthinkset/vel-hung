@@ -419,7 +419,42 @@
       "transliteration": "Gohn-doh-lohk rahd, min-deeg.",
       "category": "Love",
       "generated_at": "2026-06-18T02:51:42.155770"
+    },
+    {
+      "english": "Hello, good day.",
+      "hungarian": "Jó napot, köszönöm.",
+      "transliteration": "Yoh nah-poht, ker-suh-nuem.",
+      "category": "Travel",
+      "generated_at": "2026-06-18T14:49:17.749432"
+    },
+    {
+      "english": "Where is the train station?",
+      "hungarian": "Hol van a vonatállomás?",
+      "transliteration": "Hohl vahn ah voh-naht-tah-lah-mahs?",
+      "category": "Travel",
+      "generated_at": "2026-06-18T14:49:17.749443"
+    },
+    {
+      "english": "One ticket, please.",
+      "hungarian": "Egy jegyet, kérem.",
+      "transliteration": "Edge yed-yet, kay-rem.",
+      "category": "Travel",
+      "generated_at": "2026-06-18T14:49:17.749445"
+    },
+    {
+      "english": "How much is this?",
+      "hungarian": "Mennyibe kerül ez?",
+      "transliteration": "Men-nee-beh ker-ool ez?",
+      "category": "Travel",
+      "generated_at": "2026-06-18T14:49:17.749447"
+    },
+    {
+      "english": "Can you help me?",
+      "hungarian": "Tudna segíteni?",
+      "transliteration": "Tood-nah sheh-gee-teh-nee?",
+      "category": "Travel",
+      "generated_at": "2026-06-18T14:49:17.749451"
     }
   ],
-  "last_updated": "2026-06-18T02:51:42.155771"
+  "last_updated": "2026-06-18T14:49:17.749453"
 }
