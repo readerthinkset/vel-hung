@@ -454,7 +454,42 @@
       "transliteration": "Tood-nah sheh-gee-teh-nee?",
       "category": "Travel",
       "generated_at": "2026-06-18T14:49:17.749451"
+    },
+    {
+      "english": "Hello there, good day.",
+      "hungarian": "Szia, jó napot.",
+      "transliteration": "See-ah, yoh nah-poht.",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T16:58:01.113685"
+    },
+    {
+      "english": "Hi, how are you?",
+      "hungarian": "Szia, hogy vagy?",
+      "transliteration": "See-ah, hohd vahd?",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T16:58:01.113694"
+    },
+    {
+      "english": "Good morning, friend.",
+      "hungarian": "Jó reggelt, barátom.",
+      "transliteration": "Yoh reg-gelt, bah-rah-tom.",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T16:58:01.113696"
+    },
+    {
+      "english": "Welcome, please sit.",
+      "hungarian": "Üdvözöllek, ülj le.",
+      "transliteration": "Euv-veh-zoh-llek, eu-lj leh.",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T16:58:01.113697"
+    },
+    {
+      "english": "Hey, what's new?",
+      "hungarian": "Szia, mi újság?",
+      "transliteration": "See-ah, mee oo-shag?",
+      "category": "Greetings",
+      "generated_at": "2026-06-18T16:58:01.113698"
     }
   ],
-  "last_updated": "2026-06-18T14:49:17.749453"
+  "last_updated": "2026-06-18T16:58:01.113700"
 }
