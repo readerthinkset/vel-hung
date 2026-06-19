@@ -629,7 +629,42 @@
       "transliteration": "Fog-god el a peel-la-na-tot, mo-sht.",
       "category": "Positive Life",
       "generated_at": "2026-06-19T14:43:47.443104"
+    },
+    {
+      "english": "My mother, she cooks well.",
+      "hungarian": "Anyám, jól főz.",
+      "transliteration": "Ah-nyam, yohl fohz.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T16:27:39.746145"
+    },
+    {
+      "english": "My father, he is strong.",
+      "hungarian": "Apám, erős.",
+      "transliteration": "Ah-pahm, eh-rosh.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T16:27:39.746156"
+    },
+    {
+      "english": "My sister, she is funny.",
+      "hungarian": "A húgom, vicces.",
+      "transliteration": "Ah hoo-gohm, veet-tses.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T16:27:39.746158"
+    },
+    {
+      "english": "My brother, he is tall.",
+      "hungarian": "A bátyám, magas.",
+      "transliteration": "Ah bah-tyahm, moh-gosh.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T16:27:39.746159"
+    },
+    {
+      "english": "My grandmother, she is kind.",
+      "hungarian": "A nagymamám, kedves.",
+      "transliteration": "Ah nodj-mah-mahm, ked-vesh.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T16:27:39.746160"
     }
   ],
-  "last_updated": "2026-06-19T14:43:47.443106"
+  "last_updated": "2026-06-19T16:27:39.746162"
 }
