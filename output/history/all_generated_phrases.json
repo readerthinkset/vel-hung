@@ -594,7 +594,42 @@
       "transliteration": "Pont idöben.",
       "category": "Time",
       "generated_at": "2026-06-19T03:37:38.738286"
+    },
+    {
+      "english": "Shine bright, always.",
+      "hungarian": "Ragyogj, mindig.",
+      "transliteration": "Rodyog-y, meend-ig.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-19T14:43:47.443091"
+    },
+    {
+      "english": "Be kind, spread joy.",
+      "hungarian": "Légy kedves, ossz örömet.",
+      "transliteration": "Lay kayd-vesh, oshh oh-ro-met.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-19T14:43:47.443100"
+    },
+    {
+      "english": "Learn more, grow strong.",
+      "hungarian": "Tanulj többet, fejlődj erősen.",
+      "transliteration": "Ta-nool-y tewb-bet, fay-lohd-y eh-ruh-shen.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-19T14:43:47.443102"
+    },
+    {
+      "english": "Believe in yourself, truly.",
+      "hungarian": "Higgy magadban, igazán.",
+      "transliteration": "Heeg-y ma-god-ban, ee-ga-zaan.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-19T14:43:47.443103"
+    },
+    {
+      "english": "Embrace the moment, now.",
+      "hungarian": "Fogadd el a pillanatot, most.",
+      "transliteration": "Fog-god el a peel-la-na-tot, mo-sht.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-19T14:43:47.443104"
     }
   ],
-  "last_updated": "2026-06-19T03:37:38.738287"
+  "last_updated": "2026-06-19T14:43:47.443106"
 }
