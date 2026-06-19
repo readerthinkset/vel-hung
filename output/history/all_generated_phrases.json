@@ -664,7 +664,42 @@
       "transliteration": "Ah nodj-mah-mahm, ked-vesh.",
       "category": "Family Terms",
       "generated_at": "2026-06-19T16:27:39.746160"
+    },
+    {
+      "english": "Just chilling out.",
+      "hungarian": "Csak pihengetek.",
+      "transliteration": "Chak pee-hen-ge-tek.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T18:52:28.156137"
+    },
+    {
+      "english": "See you later.",
+      "hungarian": "Szia, majd később.",
+      "transliteration": "See-ya, modj kesh-shob.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T18:52:28.156145"
+    },
+    {
+      "english": "That’s a shame.",
+      "hungarian": "Milyen kár.",
+      "transliteration": "Mee-yen kar.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T18:52:28.156147"
+    },
+    {
+      "english": "Hang in there.",
+      "hungarian": "Tarts ki.",
+      "transliteration": "Tarts kee.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T18:52:28.156148"
+    },
+    {
+      "english": "Got it, thanks.",
+      "hungarian": "Értem, köszi.",
+      "transliteration": "Er-tem, kuss-ee.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T18:52:28.156149"
     }
   ],
-  "last_updated": "2026-06-19T16:27:39.746162"
+  "last_updated": "2026-06-19T18:52:28.156151"
 }
