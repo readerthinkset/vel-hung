@@ -559,7 +559,42 @@
       "transliteration": "Ayly tel-yesh-en, sa-resh may-en.",
       "category": "Happiness",
       "generated_at": "2026-06-19T00:09:45.792291"
+    },
+    {
+      "english": "Soon, very soon.",
+      "hungarian": "Hamarosan, nagyon hamar.",
+      "transliteration": "Hamaroshan, nagyon hamar.",
+      "category": "Time",
+      "generated_at": "2026-06-19T03:37:38.738268"
+    },
+    {
+      "english": "What time is it?",
+      "hungarian": "Hány óra van?",
+      "transliteration": "Haany ora van?",
+      "category": "Time",
+      "generated_at": "2026-06-19T03:37:38.738278"
+    },
+    {
+      "english": "In a little while.",
+      "hungarian": "Kis idő múlva.",
+      "transliteration": "Kish idö muulva.",
+      "category": "Time",
+      "generated_at": "2026-06-19T03:37:38.738280"
+    },
+    {
+      "english": "Later, maybe later.",
+      "hungarian": "Később, talán később.",
+      "transliteration": "Késöbb, talaan késöbb.",
+      "category": "Time",
+      "generated_at": "2026-06-19T03:37:38.738281"
+    },
+    {
+      "english": "Just in time.",
+      "hungarian": "Pont időben.",
+      "transliteration": "Pont idöben.",
+      "category": "Time",
+      "generated_at": "2026-06-19T03:37:38.738286"
     }
   ],
-  "last_updated": "2026-06-19T00:09:45.792293"
+  "last_updated": "2026-06-19T03:37:38.738287"
 }
