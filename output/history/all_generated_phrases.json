@@ -804,7 +804,42 @@
       "transliteration": "Vuzet, kayrem, menteshet.",
       "category": "Restaurant",
       "generated_at": "2026-06-20T13:28:42.462813"
+    },
+    {
+      "english": "Be kind, always.",
+      "hungarian": "Légy kedves, mindig.",
+      "transliteration": "Lej kedves, mindig.",
+      "category": "Kindness",
+      "generated_at": "2026-06-20T15:28:38.215124"
+    },
+    {
+      "english": "Help others, often.",
+      "hungarian": "Segíts másoknak, gyakran.",
+      "transliteration": "Shegitch mashoknak, gyakran.",
+      "category": "Kindness",
+      "generated_at": "2026-06-20T15:28:38.215130"
+    },
+    {
+      "english": "Share joy, freely.",
+      "hungarian": "Oszd meg az örömöt, bátran.",
+      "transliteration": "Osd meg az örömöt, bahran.",
+      "category": "Kindness",
+      "generated_at": "2026-06-20T15:28:38.215132"
+    },
+    {
+      "english": "Listen well, deeply.",
+      "hungarian": "Hallgass jól, mélyen.",
+      "transliteration": "Hallgatch johl, mélyen.",
+      "category": "Kindness",
+      "generated_at": "2026-06-20T15:28:38.215133"
+    },
+    {
+      "english": "Offer a smile, gently.",
+      "hungarian": "Adj egy mosolyt, kedvesen.",
+      "transliteration": "Adj egy mosholyt, kedvesen.",
+      "category": "Kindness",
+      "generated_at": "2026-06-20T15:28:38.215134"
     }
   ],
-  "last_updated": "2026-06-20T13:28:42.462815"
+  "last_updated": "2026-06-20T15:28:38.215136"
 }
