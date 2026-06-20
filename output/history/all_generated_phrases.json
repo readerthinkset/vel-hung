@@ -769,7 +769,42 @@
       "transliteration": "Bahl-shoh chend, er-rot tol-laals.",
       "category": "Inner Peace",
       "generated_at": "2026-06-20T02:41:29.895817"
+    },
+    {
+      "english": "Table for two, please.",
+      "hungarian": "Asztalt két főre, kérem.",
+      "transliteration": "Astalt kayt ferre, kayrem.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-20T13:28:42.462801"
+    },
+    {
+      "english": "Can I see the menu?",
+      "hungarian": "Megnézhetném az étlapot?",
+      "transliteration": "Megnayzhetmaym az aytlapot?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-20T13:28:42.462809"
+    },
+    {
+      "english": "What do you recommend?",
+      "hungarian": "Mit ajánl Ön?",
+      "transliteration": "Mit ayanl On?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-20T13:28:42.462811"
+    },
+    {
+      "english": "I'd like a glass of wine.",
+      "hungarian": "Kérek egy pohár bort.",
+      "transliteration": "Kayrek ay pohar bort.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-20T13:28:42.462812"
+    },
+    {
+      "english": "Water, please, still.",
+      "hungarian": "Vizet, kérem, menteset.",
+      "transliteration": "Vuzet, kayrem, menteshet.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-20T13:28:42.462813"
     }
   ],
-  "last_updated": "2026-06-20T02:41:29.895819"
+  "last_updated": "2026-06-20T13:28:42.462815"
 }
