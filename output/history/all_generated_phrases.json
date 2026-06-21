@@ -1014,7 +1014,42 @@
       "transliteration": "Sho-kaht je-lent, koe-shoe-neum.",
       "category": "Gratitude",
       "generated_at": "2026-06-21T15:45:06.873311"
+    },
+    {
+      "english": "This is delightful, absolutely.",
+      "hungarian": "Ez remek, egészen biztosan.",
+      "transliteration": "Ez re-mek, e-ge-szen biz-tos-an.",
+      "category": "Joy",
+      "generated_at": "2026-06-21T18:17:07.715504"
+    },
+    {
+      "english": "What a lovely surprise!",
+      "hungarian": "Micsoda kedves meglepetés!",
+      "transliteration": "Mi-cso-da ked-ves me-gle-pe-tes!",
+      "category": "Joy",
+      "generated_at": "2026-06-21T18:17:07.715516"
+    },
+    {
+      "english": "Feeling great, feeling free.",
+      "hungarian": "Jól érzem magam, szabadon.",
+      "transliteration": "Yol er-zem ma-gam, sa-ba-don.",
+      "category": "Joy",
+      "generated_at": "2026-06-21T18:17:07.715517"
+    },
+    {
+      "english": "Joy fills my heart.",
+      "hungarian": "Öröm tölti be szívemet.",
+      "transliteration": "O-rom tol-ti be siz-ve-met.",
+      "category": "Joy",
+      "generated_at": "2026-06-21T18:17:07.715519"
+    },
+    {
+      "english": "This makes me smile, always.",
+      "hungarian": "Ez mindig megmosolyogtat.",
+      "transliteration": "Ez min-dig meg-mo-so-lyog-tat.",
+      "category": "Joy",
+      "generated_at": "2026-06-21T18:17:07.715520"
     }
   ],
-  "last_updated": "2026-06-21T15:45:06.873313"
+  "last_updated": "2026-06-21T18:17:07.715522"
 }
