@@ -944,7 +944,42 @@
       "transliteration": "Eed-yoonk mehg ed-j kah-vay-t.",
       "category": "Friendship",
       "generated_at": "2026-06-21T02:57:40.257896"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "hungarian": "Remekül csinálod, csak így tovább.",
+      "transliteration": "REH-mek-yool CH-i-nah-lod, CHOK ee-gy TAW-bahb.",
+      "category": "Success",
+      "generated_at": "2026-06-21T13:49:06.316843"
+    },
+    {
+      "english": "Each word counts, little by little.",
+      "hungarian": "Minden szó számít, apránként.",
+      "transliteration": "MIN-den SOO SAH-meet, AH-prahn-kaynt.",
+      "category": "Success",
+      "generated_at": "2026-06-21T13:49:06.316853"
+    },
+    {
+      "english": "You understand more, every day.",
+      "hungarian": "Többet értesz, minden nap.",
+      "transliteration": "TEB-bet EER-tes, MIN-den NAHP.",
+      "category": "Success",
+      "generated_at": "2026-06-21T13:49:06.316854"
+    },
+    {
+      "english": "Progress is visible, well done!",
+      "hungarian": "Látszik a fejlődés, ügyes vagy!",
+      "transliteration": "LAH-tsik AH FAY-luh-day-sh, OO-yesh VODJ!",
+      "category": "Success",
+      "generated_at": "2026-06-21T13:49:06.316856"
+    },
+    {
+      "english": "Speak out loud, practice makes perfect.",
+      "hungarian": "Beszélj hangosan, gyakorlat tesz mesterré.",
+      "transliteration": "BEH-sayl HANG-goh-shahn, GODJ-or-laht TESH MESH-teh-ray.",
+      "category": "Success",
+      "generated_at": "2026-06-21T13:49:06.316857"
     }
   ],
-  "last_updated": "2026-06-21T02:57:40.257898"
+  "last_updated": "2026-06-21T13:49:06.316859"
 }
