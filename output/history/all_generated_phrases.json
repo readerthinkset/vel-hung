@@ -979,7 +979,42 @@
       "transliteration": "BEH-sayl HANG-goh-shahn, GODJ-or-laht TESH MESH-teh-ray.",
       "category": "Success",
       "generated_at": "2026-06-21T13:49:06.316857"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "hungarian": "Köszönöm, mindent.",
+      "transliteration": "Koe-shoe-neum, mind-ent.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T15:45:06.873299"
+    },
+    {
+      "english": "I am grateful, for your help.",
+      "hungarian": "Hálás vagyok, segítségedért.",
+      "transliteration": "Haa-laash va-gyok, she-geet-shay-geh-dehrt.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T15:45:06.873307"
+    },
+    {
+      "english": "So thankful, for this moment.",
+      "hungarian": "Nagyon hálás, ezért a pillanatért.",
+      "transliteration": "Na-gyon haa-laash, eh-zehrt ah pil-la-naht-ahrt.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T15:45:06.873309"
+    },
+    {
+      "english": "Deeply appreciate, your kindness.",
+      "hungarian": "Mélyen értékelem, a kedvességed.",
+      "transliteration": "May-eh-lyen ehr-tay-ke-lem, ah ked-vesh-shay-ged.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T15:45:06.873310"
+    },
+    {
+      "english": "It means a lot, thank you.",
+      "hungarian": "Sokat jelent, köszönöm.",
+      "transliteration": "Sho-kaht je-lent, koe-shoe-neum.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T15:45:06.873311"
     }
   ],
-  "last_updated": "2026-06-21T13:49:06.316859"
+  "last_updated": "2026-06-21T15:45:06.873313"
 }
