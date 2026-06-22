@@ -1154,7 +1154,42 @@
       "transliteration": "Maradj pozitív, légy bátor.",
       "category": "Hope",
       "generated_at": "2026-06-22T16:29:59.028901"
+    },
+    {
+      "english": "I am brave, to speak out.",
+      "hungarian": "Bátor vagyok, kimondani.",
+      "transliteration": "Bah-tor vuh-yok, kee-mon-duh-nee.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T18:11:18.294750"
+    },
+    {
+      "english": "Mistakes are okay, they teach.",
+      "hungarian": "Hibák rendben vannak, tanítanak.",
+      "transliteration": "Hee-bahk rend-ben von-nok, tuh-nee-tuh-nok.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T18:11:18.294759"
+    },
+    {
+      "english": "I can speak, even a little.",
+      "hungarian": "Tudok beszélni, akár keveset is.",
+      "transliteration": "Too-dok beh-say-lee-nee, ah-kahr keh-veh-shet eesh.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T18:11:18.294761"
+    },
+    {
+      "english": "This challenge, I will conquer.",
+      "hungarian": "Ezt a kihívást, legyőzöm.",
+      "transliteration": "Ezt ah kee-hee-vahsh-t, led-yuh-zuhm.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T18:11:18.294762"
+    },
+    {
+      "english": "My progress is visible.",
+      "hungarian": "Látható a fejlődésem.",
+      "transliteration": "Lah-tuh-hoh ah fay-luh-day-shem.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T18:11:18.294763"
     }
   ],
-  "last_updated": "2026-06-22T16:29:59.028903"
+  "last_updated": "2026-06-22T18:11:18.294765"
 }
