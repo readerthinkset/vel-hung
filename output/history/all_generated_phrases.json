@@ -1084,7 +1084,42 @@
       "transliteration": "Kish laypeshehk, nogh oot.",
       "category": "Motivation",
       "generated_at": "2026-06-21T21:17:27.742820"
+    },
+    {
+      "english": "Learn Hungarian, for fun.",
+      "hungarian": "Tanulj magyarul, mert jó.",
+      "transliteration": "Tanul' mah-yar-ool, mer-t yoh.",
+      "category": "Purpose",
+      "generated_at": "2026-06-22T03:00:40.261774"
+    },
+    {
+      "english": "Practice speaking, often.",
+      "hungarian": "Gyakorolj beszélni, gyakran.",
+      "transliteration": "Jah-koh-rol' beh-say-lnee, jah-kran.",
+      "category": "Purpose",
+      "generated_at": "2026-06-22T03:00:40.261782"
+    },
+    {
+      "english": "Understand quickly, then speak.",
+      "hungarian": "Értsd meg gyorsan, aztán beszélj.",
+      "transliteration": "Ayrtshd meg dyohr-shan, aht-tahn beh-sayl'.",
+      "category": "Purpose",
+      "generated_at": "2026-06-22T03:00:40.261784"
+    },
+    {
+      "english": "Listen well, to learn.",
+      "hungarian": "Figyelj jól, hogy tanulj.",
+      "transliteration": "Fee-dyel' yohl, ho-d tee-ah-nooj'.",
+      "category": "Purpose",
+      "generated_at": "2026-06-22T03:00:40.261785"
+    },
+    {
+      "english": "Make mistakes, it's okay.",
+      "hungarian": "Hibázz nyugodtan, rendben van.",
+      "transliteration": "Hee-bahz nyoo-god-tahn, rend-ben vahn.",
+      "category": "Purpose",
+      "generated_at": "2026-06-22T03:00:40.261786"
     }
   ],
-  "last_updated": "2026-06-21T21:17:27.742821"
+  "last_updated": "2026-06-22T03:00:40.261791"
 }
