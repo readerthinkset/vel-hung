@@ -1189,7 +1189,42 @@
       "transliteration": "Lah-tuh-hoh ah fay-luh-day-shem.",
       "category": "Confidence",
       "generated_at": "2026-06-22T18:11:18.294763"
+    },
+    {
+      "english": "Seek adventure, find wonder.",
+      "hungarian": "Keress kalandot, találj csodát.",
+      "transliteration": "Ke-resh ka-lan-dot, ta-laay-j cho-daat.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-22T20:08:26.619421"
+    },
+    {
+      "english": "Listen deeply, understand.",
+      "hungarian": "Hallgass mélyen, érts.",
+      "transliteration": "Hol-gash may-yen, ayrtsh.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-22T20:08:26.619431"
+    },
+    {
+      "english": "Create beauty, share it.",
+      "hungarian": "Alkoss szépet, oszd meg.",
+      "transliteration": "Ol-kosh say-pet, oshd meg.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-22T20:08:26.619433"
+    },
+    {
+      "english": "Live fully, with passion.",
+      "hungarian": "Élj teljesen, szenvedéllyel.",
+      "transliteration": "Ay-l tee-ye-sh-en, sen-ve-dayl-lyel.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-22T20:08:26.619435"
+    },
+    {
+      "english": "Hope is a spark.",
+      "hungarian": "A remény egy szikra.",
+      "transliteration": "A reh-may-ny edge see-kra.",
+      "category": "Positive Life",
+      "generated_at": "2026-06-22T20:08:26.619436"
     }
   ],
-  "last_updated": "2026-06-22T18:11:18.294765"
+  "last_updated": "2026-06-22T20:08:26.619438"
 }
