@@ -1399,7 +1399,42 @@
       "transliteration": "Bahl-shoh nyoo-go-lom, koo-l-shoh keh-yeh-lem.",
       "category": "Inner Peace",
       "generated_at": "2026-06-23T19:12:04.677129"
+    },
+    {
+      "english": "This is delicious, thank you.",
+      "hungarian": "Nagyon finom, köszönöm.",
+      "transliteration": "Nadyon finom, kesonom.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T21:44:53.980011"
+    },
+    {
+      "english": "The bill, please.",
+      "hungarian": "A számlát, kérem.",
+      "transliteration": "A samlat, kayrem.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T21:44:53.980020"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "hungarian": "Van vegetáriánus étel?",
+      "transliteration": "Van vegetaryanush aythel?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T21:44:53.980022"
+    },
+    {
+      "english": "We are ready to order.",
+      "hungarian": "Készen állunk rendelni.",
+      "transliteration": "Kazen allunk rendelni.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T21:44:53.980023"
+    },
+    {
+      "english": "Could we have a doggy bag?",
+      "hungarian": "Kérhetünk elviteles dobozt?",
+      "transliteration": "Kayerhetunk elviteles dobozt?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-23T21:44:53.980024"
     }
   ],
-  "last_updated": "2026-06-23T19:12:04.677130"
+  "last_updated": "2026-06-23T21:44:53.980025"
 }
