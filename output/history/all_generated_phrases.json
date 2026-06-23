@@ -1294,7 +1294,42 @@
       "transliteration": "Fee-nohm ahz ay-tel, ker-suh-nuem.",
       "category": "Travel",
       "generated_at": "2026-06-23T02:35:12.278454"
+    },
+    {
+      "english": "Hello there, how are you?",
+      "hungarian": "Szia, hogy vagy?",
+      "transliteration": "See-ah, how-dy vo-dy?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T14:28:44.390008"
+    },
+    {
+      "english": "Good morning, have a nice day.",
+      "hungarian": "Jó reggelt, szép napot!",
+      "transliteration": "Yo reg-gelt, sayp no-pot!",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T14:28:44.390016"
+    },
+    {
+      "english": "Thank you very much, indeed.",
+      "hungarian": "Nagyon szépen köszönöm, tényleg.",
+      "transliteration": "Nod-yon say-pen koe-soe-noem, tayn-leg.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T14:28:44.390018"
+    },
+    {
+      "english": "Excuse me, can you help?",
+      "hungarian": "Elnézést, tudsz segíteni?",
+      "transliteration": "El-nay-zaysht, toodz sed-yee-ten-yee?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T14:28:44.390019"
+    },
+    {
+      "english": "I don't understand, sorry.",
+      "hungarian": "Nem értem, bocsánat.",
+      "transliteration": "Nem ert-em, botch-ah-not.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T14:28:44.390020"
     }
   ],
-  "last_updated": "2026-06-23T02:35:12.278456"
+  "last_updated": "2026-06-23T14:28:44.390026"
 }
