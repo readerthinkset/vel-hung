@@ -1259,7 +1259,42 @@
       "transliteration": "El-en-ge-dem eszt, most.",
       "category": "Forgiveness",
       "generated_at": "2026-06-22T22:05:30.893779"
+    },
+    {
+      "english": "Where can I find a taxi?",
+      "hungarian": "Hol találok taxit?",
+      "transliteration": "Hohl tah-lah-lohk tahx-eet?",
+      "category": "Travel",
+      "generated_at": "2026-06-23T02:35:12.278439"
+    },
+    {
+      "english": "I need a map.",
+      "hungarian": "Szükségem van egy térképre.",
+      "transliteration": "Sooek-shay-gem vahn edge tayr-kayp-reh.",
+      "category": "Travel",
+      "generated_at": "2026-06-23T02:35:12.278450"
+    },
+    {
+      "english": "Do you speak English?",
+      "hungarian": "Beszél angolul?",
+      "transliteration": "Beh-sail ahn-goh-lool?",
+      "category": "Travel",
+      "generated_at": "2026-06-23T02:35:12.278452"
+    },
+    {
+      "english": "Thank you, goodbye.",
+      "hungarian": "Köszönöm, viszontlátásra.",
+      "transliteration": "Ker-suh-nuem, vee-sohnt-lah-tahsh-rah.",
+      "category": "Travel",
+      "generated_at": "2026-06-23T02:35:12.278453"
+    },
+    {
+      "english": "Delicious food, thank you.",
+      "hungarian": "Finom az étel, köszönöm.",
+      "transliteration": "Fee-nohm ahz ay-tel, ker-suh-nuem.",
+      "category": "Travel",
+      "generated_at": "2026-06-23T02:35:12.278454"
     }
   ],
-  "last_updated": "2026-06-22T22:05:30.893780"
+  "last_updated": "2026-06-23T02:35:12.278456"
 }
