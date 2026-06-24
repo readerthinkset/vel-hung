@@ -1434,7 +1434,42 @@
       "transliteration": "Kayerhetunk elviteles dobozt?",
       "category": "Restaurant",
       "generated_at": "2026-06-23T21:44:53.980024"
+    },
+    {
+      "english": "Help me, please.",
+      "hungarian": "Segítség, kérem.",
+      "transliteration": "SHEG-eet-sheg, KAY-rem.",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T02:36:23.955400"
+    },
+    {
+      "english": "I need a doctor.",
+      "hungarian": "Orvosra van szükségem.",
+      "transliteration": "OR-vosh-ra vahn SOOK-shag-em.",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T02:36:23.955408"
+    },
+    {
+      "english": "Call the police!",
+      "hungarian": "Hívják a rendőrséget!",
+      "transliteration": "HIV-yahk ah REN-der-shay-get!",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T02:36:23.955410"
+    },
+    {
+      "english": "Where is the hospital?",
+      "hungarian": "Hol van a kórház?",
+      "transliteration": "Hol vahn ah KOR-haaz?",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T02:36:23.955411"
+    },
+    {
+      "english": "I am lost.",
+      "hungarian": "Elvesztem.",
+      "transliteration": "EL-vesh-tem.",
+      "category": "Emergency",
+      "generated_at": "2026-06-24T02:36:23.955412"
     }
   ],
-  "last_updated": "2026-06-23T21:44:53.980025"
+  "last_updated": "2026-06-24T02:36:23.955414"
 }
