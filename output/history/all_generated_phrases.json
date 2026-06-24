@@ -1539,7 +1539,42 @@
       "transliteration": "Tegyél egy joh dolgot, mah.",
       "category": "Kindness",
       "generated_at": "2026-06-24T18:48:33.882824"
+    },
+    {
+      "english": "You're unlocking new skills, amazing!",
+      "hungarian": "Új készségeket nyitsz meg, fantasztikus!",
+      "transliteration": "OOY KESH-shay-geh-ket NEECH MEG, FON-tahs-ti-kush!",
+      "category": "Success",
+      "generated_at": "2026-06-24T21:25:01.605749"
+    },
+    {
+      "english": "Your effort shows, keep pushing.",
+      "hungarian": "Megmutatkozik az erőfeszítésed, hajrá!",
+      "transliteration": "MEG-moo-taht-koh-zik AHZ EH-ruh-feh-szeet-tay-shed, HOY-rah!",
+      "category": "Success",
+      "generated_at": "2026-06-24T21:25:01.605758"
+    },
+    {
+      "english": "Learning flows, you've got this.",
+      "hungarian": "Áramlik a tanulás, menni fog.",
+      "transliteration": "AH-rahm-lik AH TAH-noo-lahsh, MEN-nee FOG.",
+      "category": "Success",
+      "generated_at": "2026-06-24T21:25:01.605760"
+    },
+    {
+      "english": "You are building fluency, fantastic!",
+      "hungarian": "Építed a folyékonyságot, remek!",
+      "transliteration": "AY-pee-teed AH FOL-yay-koh-nyah-goh-baht, REH-mek!",
+      "category": "Success",
+      "generated_at": "2026-06-24T21:25:01.605761"
+    },
+    {
+      "english": "Success is near, believe it.",
+      "hungarian": "Közel a siker, higgy benne.",
+      "transliteration": "KOH-zel AH SIK-er, HIG BEN-neh.",
+      "category": "Success",
+      "generated_at": "2026-06-24T21:25:01.605762"
     }
   ],
-  "last_updated": "2026-06-24T18:48:33.882825"
+  "last_updated": "2026-06-24T21:25:01.605764"
 }
