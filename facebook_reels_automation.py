@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Köszöntések",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "hu-HU-TamasNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Hungarian.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Hungarian.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Hungarian text should be CLEAN - use standard Hungarian script
 7. Do NOT include multiple versions or slashes - just ONE clean Hungarian translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Hungarian text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Hungarian teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Hungarian teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Hungarian text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Hungarian text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "hungarian": "[HU] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "hungarian": "[HU] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "hungarian": "[HU] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "hungarian": "[HU] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "hungarian": "[HU] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "hungarian": "[HU] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "hungarian": "[HU] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "hungarian": "[HU] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "hungarian": "[HU] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "hungarian": "[HU] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "hungarian": "Szia, \u00f6r\u00fcl\u00f6k, hogy megismertelek.", "transliteration": "Szia, \u00f6r\u00fcl\u00f6k, hogy megismertelek."},
+        {"english": "Thank you very much.", "hungarian": "Nagyon sz\u00e9pen k\u00f6sz\u00f6n\u00f6m.", "transliteration": "Nagyon sz\u00e9pen k\u00f6sz\u00f6n\u00f6m."},
+        {"english": "Good morning, have a great day.", "hungarian": "J\u00f3 reggelt, sz\u00e9p napot k\u00edv\u00e1nok.", "transliteration": "J\u00f3 reggelt, sz\u00e9p napot k\u00edv\u00e1nok."},
+        {"english": "I love learning new languages.", "hungarian": "Szeretek \u00faj nyelveket tanulni.", "transliteration": "Szeretek \u00faj nyelveket tanulni."},
+        {"english": "Never give up on your dreams.", "hungarian": "Soha ne add fel az \u00e1lmaidat.", "transliteration": "Soha ne add fel az \u00e1lmaidat."},
+        {"english": "Every day is a fresh start.", "hungarian": "Minden nap egy \u00faj kezdet.", "transliteration": "Minden nap egy \u00faj kezdet."},
+        {"english": "Believe in yourself always.", "hungarian": "Mindig higgy magadban.", "transliteration": "Mindig higgy magadban."},
+        {"english": "Small steps lead to big changes.", "hungarian": "A kis l\u00e9p\u00e9sek nagy v\u00e1ltoz\u00e1sokhoz vezetnek.", "transliteration": "A kis l\u00e9p\u00e9sek nagy v\u00e1ltoz\u00e1sokhoz vezetnek."},
+        {"english": "You are stronger than you think.", "hungarian": "Er\u0151sebb vagy, mint gondoln\u00e1d.", "transliteration": "Er\u0151sebb vagy, mint gondoln\u00e1d."},
+        {"english": "Happiness is a choice, choose it.", "hungarian": "A boldogs\u00e1g v\u00e1laszt\u00e1s k\u00e9rd\u00e9se, v\u00e1laszd azt.", "transliteration": "A boldogs\u00e1g v\u00e1laszt\u00e1s k\u00e9rd\u00e9se, v\u00e1laszd azt."},
+        {"english": "What time is it please.", "hungarian": "H\u00e1ny \u00f3ra van, k\u00e9rem?", "transliteration": "H\u00e1ny \u00f3ra van, k\u00e9rem?"},
+        {"english": "Where is the train station.", "hungarian": "Hol van a p\u00e1lyaudvar?", "transliteration": "Hol van a p\u00e1lyaudvar?"},
+        {"english": "How much does this cost.", "hungarian": "Mennyibe ker\u00fcl ez?", "transliteration": "Mennyibe ker\u00fcl ez?"},
+        {"english": "Can you help me please.", "hungarian": "Tudna seg\u00edteni, k\u00e9rem?", "transliteration": "Tudna seg\u00edteni, k\u00e9rem?"},
+        {"english": "I would like a coffee please.", "hungarian": "Szeretn\u00e9k egy k\u00e1v\u00e9t, k\u00e9rem.", "transliteration": "Szeretn\u00e9k egy k\u00e1v\u00e9t, k\u00e9rem."},
+        {"english": "The food is delicious today.", "hungarian": "Az \u00e9tel finom ma.", "transliteration": "Az \u00e9tel finom ma."},
+        {"english": "Have a wonderful weekend.", "hungarian": "Kellemes h\u00e9tv\u00e9g\u00e9t!", "transliteration": "Kellemes h\u00e9tv\u00e9g\u00e9t!"},
+        {"english": "Take care of yourself.", "hungarian": "Vigy\u00e1zz magadra.", "transliteration": "Vigy\u00e1zz magadra."},
+        {"english": "See you tomorrow my friend.", "hungarian": "Viszl\u00e1t holnap, bar\u00e1tom.", "transliteration": "Viszl\u00e1t holnap, bar\u00e1tom."},
+        {"english": "The weather is beautiful outside.", "hungarian": "Gy\u00f6ny\u00f6r\u0171 az id\u0151 odakint.", "transliteration": "Gy\u00f6ny\u00f6r\u0171 az id\u0151 odakint."},
+        {"english": "I am very happy today.", "hungarian": "Nagyon boldog vagyok ma.", "transliteration": "Nagyon boldog vagyok ma."},
+        {"english": "Learning a language opens new doors.", "hungarian": "Egy nyelv tanul\u00e1sa \u00faj ajt\u00f3kat nyit meg.", "transliteration": "Egy nyelv tanul\u00e1sa \u00faj ajt\u00f3kat nyit meg."},
+        {"english": "Keep practicing every single day.", "hungarian": "Gyakorolj minden egyes nap.", "transliteration": "Gyakorolj minden egyes nap."},
+        {"english": "You can achieve anything you want.", "hungarian": "B\u00e1rmit el\u00e9rhetsz, amit csak akarsz.", "transliteration": "B\u00e1rmit el\u00e9rhetsz, amit csak akarsz."},
+        {"english": "Rest when you are tired.", "hungarian": "Pihenj, amikor f\u00e1radt vagy.", "transliteration": "Pihenj, amikor f\u00e1radt vagy."},
+        {"english": "Focus on the positive things.", "hungarian": "Koncentr\u00e1lj a pozit\u00edv dolgokra.", "transliteration": "Koncentr\u00e1lj a pozit\u00edv dolgokra."},
+        {"english": "Learn from your mistakes.", "hungarian": "Tanulj a hib\u00e1idb\u00f3l.", "transliteration": "Tanulj a hib\u00e1idb\u00f3l."},
+        {"english": "Trust the process completely.", "hungarian": "Teljesen b\u00edzz a folyamatban.", "transliteration": "Teljesen b\u00edzz a folyamatban."},
+        {"english": "Breathe deeply and stay calm.", "hungarian": "L\u00e9legezz m\u00e9lyeket \u00e9s maradj nyugodt.", "transliteration": "L\u00e9legezz m\u00e9lyeket \u00e9s maradj nyugodt."},
+        {"english": "Enjoy the little moments in life.", "hungarian": "\u00c9lvezd az \u00e9let apr\u00f3 pillanatait.", "transliteration": "\u00c9lvezd az \u00e9let apr\u00f3 pillanatait."},
+        {"english": "Smile more, worry less.", "hungarian": "Mosolyogj t\u00f6bbet, agg\u00f3dj kevesebbet.", "transliteration": "Mosolyogj t\u00f6bbet, agg\u00f3dj kevesebbet."},
+        {"english": "Be kind to everyone you meet.", "hungarian": "L\u00e9gy kedves mindenkihez, akivel tal\u00e1lkozol.", "transliteration": "L\u00e9gy kedves mindenkihez, akivel tal\u00e1lkozol."},
+        {"english": "Help others without expecting anything back.", "hungarian": "Seg\u00edts m\u00e1soknak an\u00e9lk\u00fcl, hogy b\u00e1rmit is v\u00e1rn\u00e1l cser\u00e9be.", "transliteration": "Seg\u00edts m\u00e1soknak an\u00e9lk\u00fcl, hogy b\u00e1rmit is v\u00e1rn\u00e1l cser\u00e9be."},
+        {"english": "Forgive yourself and move forward.", "hungarian": "Bocs\u00e1ss meg magadnak \u00e9s l\u00e9pj tov\u00e1bb.", "transliteration": "Bocs\u00e1ss meg magadnak \u00e9s l\u00e9pj tov\u00e1bb."},
+        {"english": "Stay strong in difficult times.", "hungarian": "Maradj er\u0151s a neh\u00e9z id\u0151kben.", "transliteration": "Maradj er\u0151s a neh\u00e9z id\u0151kben."},
+        {"english": "Every moment is a new beginning.", "hungarian": "Minden pillanat egy \u00faj kezdet.", "transliteration": "Minden pillanat egy \u00faj kezdet."},
+        {"english": "Listen to your heart always.", "hungarian": "Mindig hallgass a sz\u00edvedre.", "transliteration": "Mindig hallgass a sz\u00edvedre."},
+        {"english": "Do what makes you happy.", "hungarian": "Tedd azt, amit\u0151l boldog vagy.", "transliteration": "Tedd azt, amit\u0151l boldog vagy."},
+        {"english": "Your potential is unlimited.", "hungarian": "A potenci\u00e1lod korl\u00e1tlan.", "transliteration": "A potenci\u00e1lod korl\u00e1tlan."},
+        {"english": "Be brave and take risks.", "hungarian": "L\u00e9gy b\u00e1tor \u00e9s v\u00e1llalj kock\u00e1zatot.", "transliteration": "L\u00e9gy b\u00e1tor \u00e9s v\u00e1llalj kock\u00e1zatot."},
+        {"english": "Celebrate your progress every day.", "hungarian": "\u00dcnnepeld a fejl\u0151d\u00e9sedet minden nap.", "transliteration": "\u00dcnnepeld a fejl\u0151d\u00e9sedet minden nap."},
+        {"english": "Surround yourself with good people.", "hungarian": "Vedd k\u00f6r\u00fcl magad j\u00f3 emberekkel.", "transliteration": "Vedd k\u00f6r\u00fcl magad j\u00f3 emberekkel."},
+        {"english": "Read books and grow your mind.", "hungarian": "Olvass k\u00f6nyveket \u00e9s fejleszd az elm\u00e9d.", "transliteration": "Olvass k\u00f6nyveket \u00e9s fejleszd az elm\u00e9d."},
+        {"english": "Travel and discover new places.", "hungarian": "Utazz \u00e9s fedezz fel \u00faj helyeket.", "transliteration": "Utazz \u00e9s fedezz fel \u00faj helyeket."},
+        {"english": "Appreciate what you already have.", "hungarian": "Becs\u00fcld meg, amid m\u00e1r van.", "transliteration": "Becs\u00fcld meg, amid m\u00e1r van."},
+        {"english": "Dance like nobody is watching.", "hungarian": "T\u00e1ncolj \u00fagy, mintha senki sem figyelne.", "transliteration": "T\u00e1ncolj \u00fagy, mintha senki sem figyelne."},
+        {"english": "Sing from your heart out loud.", "hungarian": "\u00c9nekelj a sz\u00edvedb\u0151l hangosan.", "transliteration": "\u00c9nekelj a sz\u00edvedb\u0151l hangosan."},
+        {"english": "Plant seeds of kindness everywhere.", "hungarian": "\u00dcltess kedvess\u00e9g magokat mindenhol.", "transliteration": "\u00dcltess kedvess\u00e9g magokat mindenhol."},
+        {"english": "Let go of what you cannot control.", "hungarian": "Engedd el azt, amit nem tudsz ir\u00e1ny\u00edtani.", "transliteration": "Engedd el azt, amit nem tudsz ir\u00e1ny\u00edtani."},
+        {"english": "Be present in the here and now.", "hungarian": "L\u00e9gy jelen itt \u00e9s most.", "transliteration": "L\u00e9gy jelen itt \u00e9s most."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "hungarian"
-    for p in fresh:
-        p[lang_key] = p.pop("hungarian")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
@@ -1389,7 +1459,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         b = draw.textbbox((0, 0), "Ag", font=font)
         return b[3] - b[1]
 
-    max_text_w = VIDEO_WIDTH - 180
+    max_text_w = VIDEO_WIDTH - 140
     cat_native = CATEGORIES_NATIVE.get(category_english, category_english)
 
     nat_font, nat_lines = pick_native_font(native, max_text_w - 40)
@@ -1426,7 +1496,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy = start_y
 
     # Category bar (rounded)
-    cat_text = cat_native
+    cat_text = category_english
     cat_bb = draw.textbbox((0, 0), cat_text, font=font_category)
     cat_tw = cat_bb[2] - cat_bb[0]
     cat_th = cat_bb[3] - cat_bb[1]
@@ -1446,7 +1516,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += gap_cat_nat
 
     # English phrase (top)
-    en_margin = 50
+    en_margin = 60
     rounded_rect(draw, (en_margin, cy, VIDEO_WIDTH - en_margin, cy + en_box_h), 28,
                  fill=(20, 40, 100, 220))
     for i, line in enumerate(en_lines):
@@ -1458,7 +1528,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += en_box_h + gap_nat_en
 
     # Native phrase (below English)
-    nat_margin = 70
+    nat_margin = 50
     rounded_rect(draw, (nat_margin, cy, VIDEO_WIDTH - nat_margin, cy + nat_box_h), 24,
                  fill=(139, 0, 0, 220))
     for i, line in enumerate(nat_lines):
@@ -1471,7 +1541,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     # Transliteration
     if trans_lines:
-        trans_margin = 90
+        trans_margin = 70
         rounded_rect(draw, (trans_margin, cy, VIDEO_WIDTH - trans_margin, cy + trans_box_h), 18,
                      fill=(40, 40, 40, 220))
         for i, line in enumerate(trans_lines):
