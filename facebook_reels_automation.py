@@ -77,8 +77,7 @@ CATEGORIES_ENGLISH = [
     "Balance",
     "Growth",
     "Purpose",
-    "Mindfulness"
-
+    "Mindfulness",
     "Daily Routine",
     "Weather",
     "Feelings",
@@ -135,7 +134,27 @@ CATEGORIES_NATIVE = {
     "Balance": "Egyensúly",
     "Growth": "Növekedés",
     "Purpose": "Cél",
-    "Mindfulness": "Tudatos Jelenlét"
+    "Mindfulness": "Tudatos Jelenlét",
+    "Daily Routine": "Napi rutin",
+    "Weather": "Időjárás",
+    "Feelings": "Érzések",
+    "Food": "Étel",
+    "Health": "Egészség",
+    "Work": "Munka",
+    "Technology": "Technológia",
+    "Nature": "Természet",
+    "Animals": "Állatok",
+    "Colors": "Színek",
+    "Directions": "Irányok",
+    "Body Parts": "Testrészek",
+    "Clothes": "Ruházat",
+    "Music": "Zene",
+    "Sports": "Sport",
+    "Holidays": "Ünnepek",
+    "Education": "Oktatás",
+    "Culture": "Kultúra",
+    "Finance": "Pénzügyek",
+    "Relationships": "Kapcsolatok"
 }
 
 ENGLISH_VOICE = "en-US-GuyNeural"
