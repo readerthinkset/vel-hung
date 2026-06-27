@@ -1609,7 +1609,42 @@
       "transliteration": "A-ra-molj a var-to-zas-sal, mar-adj e-roes.",
       "category": "Balance",
       "generated_at": "2026-06-25T02:37:42.032804"
+    },
+    {
+      "english": "Happy, quiet moment.",
+      "hungarian": "Boldog, csendes pillanat.",
+      "transliteration": "Boldog, csendes pillanat.",
+      "category": "Feelings",
+      "generated_at": "2026-06-27T13:10:26.508249"
+    },
+    {
+      "english": "Feeling a bit tired.",
+      "hungarian": "Kicsit fáradtnak érzem magam.",
+      "transliteration": "Kicsit fáradtnak érzem magam.",
+      "category": "Feelings",
+      "generated_at": "2026-06-27T13:10:26.508258"
+    },
+    {
+      "english": "So excited, can't wait!",
+      "hungarian": "Nagyon izgatott, alig várom!",
+      "transliteration": "Nagyon izgatott, alig várom!",
+      "category": "Feelings",
+      "generated_at": "2026-06-27T13:10:26.508260"
+    },
+    {
+      "english": "A little bit sad.",
+      "hungarian": "Egy kicsit szomorú vagyok.",
+      "transliteration": "Egy kicsit szomorú vagyok.",
+      "category": "Feelings",
+      "generated_at": "2026-06-27T13:10:26.508261"
+    },
+    {
+      "english": "Surprised, really?",
+      "hungarian": "Meglepődött, tényleg?",
+      "transliteration": "Meglepődött, tényleg?",
+      "category": "Feelings",
+      "generated_at": "2026-06-27T13:10:26.508263"
     }
   ],
-  "last_updated": "2026-06-25T02:37:42.032805"
+  "last_updated": "2026-06-27T13:10:26.508264"
 }
