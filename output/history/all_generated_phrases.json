@@ -1644,7 +1644,42 @@
       "transliteration": "Meglepődött, tényleg?",
       "category": "Feelings",
       "generated_at": "2026-06-27T13:10:26.508263"
+    },
+    {
+      "english": "Greetings, traveler, may your journey be bright.",
+      "hungarian": "Üdvözlet, utazó, legyen fényes az útja.",
+      "transliteration": "Ud-vez-let, oo-tah-zo, leh-dyen fyey-nesh az oot-yah.",
+      "category": "Greetings",
+      "generated_at": "2026-06-27T15:07:33.855153"
+    },
+    {
+      "english": "A warm hello, new acquaintance.",
+      "hungarian": "Meleg üdvözlet, új ismerős.",
+      "transliteration": "Meh-leg ud-vez-let, oo-yee ish-meh-roesh.",
+      "category": "Greetings",
+      "generated_at": "2026-06-27T15:07:33.855163"
+    },
+    {
+      "english": "Salutations, may your day unfold beautifully.",
+      "hungarian": "Köszöntés, bontakozzon szépen a napja.",
+      "transliteration": "Koe-soen-teesh, bohn-tah-koz-zon sey-pen ah nahp-yah.",
+      "category": "Greetings",
+      "generated_at": "2026-06-27T15:07:33.855165"
+    },
+    {
+      "english": "A pleasant morning, to you.",
+      "hungarian": "Kellemes reggelt, neked.",
+      "transliteration": "Keh-leh-mesh reg-gelt, neh-ked.",
+      "category": "Greetings",
+      "generated_at": "2026-06-27T15:07:33.855166"
+    },
+    {
+      "english": "Joyful meeting, stranger.",
+      "hungarian": "Örömteli találkozás, idegen.",
+      "transliteration": "Oe-roem-teh-lee tah-lah-ko-zahsh, ee-deh-gen.",
+      "category": "Greetings",
+      "generated_at": "2026-06-27T15:07:33.855167"
     }
   ],
-  "last_updated": "2026-06-27T13:10:26.508264"
+  "last_updated": "2026-06-27T15:07:33.855169"
 }
