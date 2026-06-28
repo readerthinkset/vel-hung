@@ -1819,7 +1819,42 @@
       "transliteration": "Gon-doh-lah-tihm, mind-eeg hohz-zahd shoh-droh-dnahk.",
       "category": "Love",
       "generated_at": "2026-06-28T13:17:57.874302"
+    },
+    {
+      "english": "This shirt, it's too tight.",
+      "hungarian": "Ez az ing, túl szoros.",
+      "transliteration": "Ez az ing, tool so-rosh.",
+      "category": "Clothes",
+      "generated_at": "2026-06-28T15:10:30.097885"
+    },
+    {
+      "english": "Where are my socks?",
+      "hungarian": "Hol vannak a zoknijaim?",
+      "transliteration": "Hol-van-nok a zok-nee-yem?",
+      "category": "Clothes",
+      "generated_at": "2026-06-28T15:10:30.097893"
+    },
+    {
+      "english": "I need new shoes.",
+      "hungarian": "Új cipőre van szükségem.",
+      "transliteration": "Oo-sh tsee-po-reh von shook-se-gem.",
+      "category": "Clothes",
+      "generated_at": "2026-06-28T15:10:30.097895"
+    },
+    {
+      "english": "This dress, feels nice.",
+      "hungarian": "Ez a ruha, kellemes érzés.",
+      "transliteration": "Ez a roo-ha, kel-le-mesh air-zesh.",
+      "category": "Clothes",
+      "generated_at": "2026-06-28T15:10:30.097896"
+    },
+    {
+      "english": "My favorite sweater, is blue.",
+      "hungarian": "A kedvenc pulóverem, kék.",
+      "transliteration": "A ked-vents poo-lo-veh-rem, kayk.",
+      "category": "Clothes",
+      "generated_at": "2026-06-28T15:10:30.097898"
     }
   ],
-  "last_updated": "2026-06-28T13:17:57.874304"
+  "last_updated": "2026-06-28T15:10:30.097900"
 }
