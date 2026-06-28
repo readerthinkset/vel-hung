@@ -1889,7 +1889,42 @@
       "transliteration": "Eh-rosh kahr, eh-meh-lehsh-reh.",
       "category": "Body Parts",
       "generated_at": "2026-06-28T18:02:30.183375"
+    },
+    {
+      "english": "Every moment counts, truly.",
+      "hungarian": "Minden pillanat számít, igazán.",
+      "transliteration": "Mind-en pil-la-nat sam-it, i-ra-zan.",
+      "category": "Time",
+      "generated_at": "2026-06-28T21:04:26.993182"
+    },
+    {
+      "english": "Sunrise is coming, watch for it.",
+      "hungarian": "Jön a napkelte, figyeld.",
+      "transliteration": "Yön a nap-kel-te, fi-gyeld.",
+      "category": "Time",
+      "generated_at": "2026-06-28T21:04:26.993191"
+    },
+    {
+      "english": "The old clock ticks, slowly.",
+      "hungarian": "Az öreg óra ketyeg, lassan.",
+      "transliteration": "Az ö-reg ó-ra ket-tyeg, las-san.",
+      "category": "Time",
+      "generated_at": "2026-06-28T21:04:26.993193"
+    },
+    {
+      "english": "Nightfall approaches, quickly.",
+      "hungarian": "Közeledik az est, gyorsan.",
+      "transliteration": "Kö-ze-le-dik az est, gyor-shan.",
+      "category": "Time",
+      "generated_at": "2026-06-28T21:04:26.993194"
+    },
+    {
+      "english": "We have patience, for now.",
+      "hungarian": "Van türelmünk, egyelőre.",
+      "transliteration": "Van tü-rel-münk, e-gye-lö-re.",
+      "category": "Time",
+      "generated_at": "2026-06-28T21:04:26.993195"
     }
   ],
-  "last_updated": "2026-06-28T18:02:30.183377"
+  "last_updated": "2026-06-28T21:04:26.993197"
 }
