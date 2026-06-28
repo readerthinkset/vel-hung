@@ -1854,7 +1854,42 @@
       "transliteration": "A ked-vents poo-lo-veh-rem, kayk.",
       "category": "Clothes",
       "generated_at": "2026-06-28T15:10:30.097898"
+    },
+    {
+      "english": "My left hand, feels tired.",
+      "hungarian": "A bal kezem, fáradt.",
+      "transliteration": "Ah bal keh-zem, fah-rahdt.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T18:02:30.183361"
+    },
+    {
+      "english": "Touch your nose, gently.",
+      "hungarian": "Érintsd meg az orrod, finoman.",
+      "transliteration": "Eh-rintzd meg ahz oh-rohd, fee-noh-mahn.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T18:02:30.183371"
+    },
+    {
+      "english": "His right foot, it hurts.",
+      "hungarian": "A jobb lába, fáj.",
+      "transliteration": "Ah yohb lah-bah, fah-ee.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T18:02:30.183373"
+    },
+    {
+      "english": "Her shiny eyes, sparkle.",
+      "hungarian": "Csillogó szemei, csillognak.",
+      "transliteration": "Chil-loh-goh seh-meh-ee, chil-log-nahk.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T18:02:30.183374"
+    },
+    {
+      "english": "A strong arm, for lifting.",
+      "hungarian": "Erős kar, emelésre.",
+      "transliteration": "Eh-rosh kahr, eh-meh-lehsh-reh.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T18:02:30.183375"
     }
   ],
-  "last_updated": "2026-06-28T15:10:30.097900"
+  "last_updated": "2026-06-28T18:02:30.183377"
 }
