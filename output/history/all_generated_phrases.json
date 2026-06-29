@@ -1994,7 +1994,42 @@
       "transliteration": "Ez ah peel-loh-naht, tuh-kay-leh-tesh.",
       "category": "Joy",
       "generated_at": "2026-06-29T15:31:27.789733"
+    },
+    {
+      "english": "Just one, maybe two.",
+      "hungarian": "Csak egy, talán kettő.",
+      "transliteration": "Chak ay, talan kay-tuh.",
+      "category": "Numbers",
+      "generated_at": "2026-06-29T16:49:16.618321"
+    },
+    {
+      "english": "Three friends, four dreams.",
+      "hungarian": "Három barát, négy álom.",
+      "transliteration": "Ha-rom ba-raht, naydy ah-lom.",
+      "category": "Numbers",
+      "generated_at": "2026-06-29T16:49:16.618333"
+    },
+    {
+      "english": "Five fingers, one hand.",
+      "hungarian": "Öt ujj, egy kéz.",
+      "transliteration": "Ut ujj, ay kayz.",
+      "category": "Numbers",
+      "generated_at": "2026-06-29T16:49:16.618335"
+    },
+    {
+      "english": "Six eggs, a dozen.",
+      "hungarian": "Hat tojás, egy tucat.",
+      "transliteration": "Haht toy-yash, ay too-chaht.",
+      "category": "Numbers",
+      "generated_at": "2026-06-29T16:49:16.618336"
+    },
+    {
+      "english": "Seven days, a whole week.",
+      "hungarian": "Hét nap, egy egész hét.",
+      "transliteration": "Hayt nahp, ay ay-geez hayt.",
+      "category": "Numbers",
+      "generated_at": "2026-06-29T16:49:16.618337"
     }
   ],
-  "last_updated": "2026-06-29T15:31:27.789734"
+  "last_updated": "2026-06-29T16:49:16.618339"
 }
