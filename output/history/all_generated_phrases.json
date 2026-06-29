@@ -1959,7 +1959,42 @@
       "transliteration": "Edj seh-leed, sel-lō leh-gen-dehz.",
       "category": "Weather",
       "generated_at": "2026-06-29T02:46:19.150439"
+    },
+    {
+      "english": "Sunshine on my face, yes.",
+      "hungarian": "Napfény az arcomon, igen.",
+      "transliteration": "Nnap-feh-ny ahz ahr-tsoh-mon, ee-gen.",
+      "category": "Joy",
+      "generated_at": "2026-06-29T15:31:27.789718"
+    },
+    {
+      "english": "This is good, really good.",
+      "hungarian": "Ez jó, nagyon jó.",
+      "transliteration": "Ez yoh, noh-dyon yoh.",
+      "category": "Joy",
+      "generated_at": "2026-06-29T15:31:27.789728"
+    },
+    {
+      "english": "Feeling light, like a feather.",
+      "hungarian": "Könnyűnek érzem magam, mint egy toll.",
+      "transliteration": "Kuh-nyoo-neek ehr-zem moh-gom, mint edge toll.",
+      "category": "Joy",
+      "generated_at": "2026-06-29T15:31:27.789730"
+    },
+    {
+      "english": "A pleasant surprise, indeed.",
+      "hungarian": "Kellemes meglepetés, valóban.",
+      "transliteration": "Keh-leh-mesh meh-gleh-peh-taysh, voh-loh-bahn.",
+      "category": "Joy",
+      "generated_at": "2026-06-29T15:31:27.789732"
+    },
+    {
+      "english": "This moment, perfect.",
+      "hungarian": "Ez a pillanat, tökéletes.",
+      "transliteration": "Ez ah peel-loh-naht, tuh-kay-leh-tesh.",
+      "category": "Joy",
+      "generated_at": "2026-06-29T15:31:27.789733"
     }
   ],
-  "last_updated": "2026-06-29T02:46:19.150441"
+  "last_updated": "2026-06-29T15:31:27.789734"
 }
