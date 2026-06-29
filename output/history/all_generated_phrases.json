@@ -1924,7 +1924,42 @@
       "transliteration": "Van tü-rel-münk, e-gye-lö-re.",
       "category": "Time",
       "generated_at": "2026-06-28T21:04:26.993195"
+    },
+    {
+      "english": "The sun shines brightly.",
+      "hungarian": "A nap, ragyogóan süt.",
+      "transliteration": "Ah nap, ra-goh-yah-oh-gahn shüt.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T02:46:19.150424"
+    },
+    {
+      "english": "It's a bit windy today.",
+      "hungarian": "Egy kicsit, fúj a szél.",
+      "transliteration": "Edj kitch-it, fūh ah sayl.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T02:46:19.150435"
+    },
+    {
+      "english": "Rain is coming soon.",
+      "hungarian": "Az eső, hamarosan jön.",
+      "transliteration": "Ahz esh-uh, hah-mah-roh-shahn yuhn.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T02:46:19.150437"
+    },
+    {
+      "english": "Clouds are gathering now.",
+      "hungarian": "A felhők, gyülekeznek most.",
+      "transliteration": "Ah feh-hōk, dyoo-leh-kez-nek mosht.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T02:46:19.150438"
+    },
+    {
+      "english": "A gentle breeze blows.",
+      "hungarian": "Egy szelíd, szellő lengedez.",
+      "transliteration": "Edj seh-leed, sel-lō leh-gen-dehz.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T02:46:19.150439"
     }
   ],
-  "last_updated": "2026-06-28T21:04:26.993197"
+  "last_updated": "2026-06-29T02:46:19.150441"
 }
