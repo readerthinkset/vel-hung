@@ -2169,7 +2169,42 @@
       "transliteration": "Gondolok raad, szeretettel!",
       "category": "Holidays",
       "generated_at": "2026-06-30T13:57:30.509468"
+    },
+    {
+      "english": "Breathe deep, feel calm.",
+      "hungarian": "Lélegezz mélyen, érezd a nyugalmat.",
+      "transliteration": "Lay-leg-zesh may-lyen, ay-rezd ah nyoo-gah-lmot.",
+      "category": "Health",
+      "generated_at": "2026-06-30T16:15:17.809715"
+    },
+    {
+      "english": "Hydrate well, stay energized.",
+      "hungarian": "Igyál sokat, maradj energikus.",
+      "transliteration": "Eeg-yahl shok-at, mar-raj ay-ner-gee-koosh.",
+      "category": "Health",
+      "generated_at": "2026-06-30T16:15:17.809725"
+    },
+    {
+      "english": "Move your body, feel alive.",
+      "hungarian": "Mozgasd a tested, érezd magad élőnek.",
+      "transliteration": "Mohz-goshd ah tes-ted, ay-rezd mah-god ay-lay-oh-nek.",
+      "category": "Health",
+      "generated_at": "2026-06-30T16:15:17.809727"
+    },
+    {
+      "english": "Eat mindfully, savor each bite.",
+      "hungarian": "Egyél tudatosan, élvezd minden falatot.",
+      "transliteration": "Edj-ayl too-dah-tosh-ahn, ay-lvezd min-den fahl-ah-tot.",
+      "category": "Health",
+      "generated_at": "2026-06-30T16:15:17.809728"
+    },
+    {
+      "english": "Sleep soundly, recharge your spirit.",
+      "hungarian": "Aludj jól, töltsd fel a lelked.",
+      "transliteration": "Ah-lood yohl, tyl-d fel ah lehl-ked.",
+      "category": "Health",
+      "generated_at": "2026-06-30T16:15:17.809729"
     }
   ],
-  "last_updated": "2026-06-30T13:57:30.509470"
+  "last_updated": "2026-06-30T16:15:17.809731"
 }
