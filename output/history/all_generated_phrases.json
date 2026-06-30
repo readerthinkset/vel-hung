@@ -2204,7 +2204,42 @@
       "transliteration": "Ah-lood yohl, tyl-d fel ah lehl-ked.",
       "category": "Health",
       "generated_at": "2026-06-30T16:15:17.809729"
+    },
+    {
+      "english": "A whisper of light, breaks the dark.",
+      "hungarian": "Fény suhogása, töri a sötétet.",
+      "transliteration": "Fehnj shoh-oh-ga-sha, tew-rih ah shoh-deh-tet.",
+      "category": "Hope",
+      "generated_at": "2026-06-30T18:55:39.306773"
+    },
+    {
+      "english": "Seeds of joy, will surely bloom.",
+      "hungarian": "Öröm magvai, biztosan kivirulnak.",
+      "transliteration": "Eur-uhm mahg-vai, bee-shohsh-shahn kee-vee-roo-luhnk.",
+      "category": "Hope",
+      "generated_at": "2026-06-30T18:55:39.306783"
+    },
+    {
+      "english": "The path may twist, but leads to sun.",
+      "hungarian": "Az út kanyaroghat, de naphoz vezet.",
+      "transliteration": "Ahz oot kah-nyah-roh-gaht, deh nahp-hohz veh-zet.",
+      "category": "Hope",
+      "generated_at": "2026-06-30T18:55:39.306785"
+    },
+    {
+      "english": "Courage finds its voice, when needed.",
+      "hungarian": "Az bátorság megtalálja hangját, ha kell.",
+      "transliteration": "Ahz bah-tohr-shahg mehgt-tah-lah-yah hahng-yaht, hah kell.",
+      "category": "Hope",
+      "generated_at": "2026-06-30T18:55:39.306786"
+    },
+    {
+      "english": "A tiny spark, ignites great fires.",
+      "hungarian": "Apró szikra, nagy tüzeket gyújt.",
+      "transliteration": "Ahp-poh see-krah, nahdj tyoo-zeh-ket dyoo-yoot.",
+      "category": "Hope",
+      "generated_at": "2026-06-30T18:55:39.306787"
     }
   ],
-  "last_updated": "2026-06-30T16:15:17.809731"
+  "last_updated": "2026-06-30T18:55:39.306788"
 }
