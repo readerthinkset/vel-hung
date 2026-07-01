@@ -2274,7 +2274,42 @@
       "transliteration": "Ahl kee moh-gahd-ayrt, heed el moh-gahd-bahn.",
       "category": "Courage",
       "generated_at": "2026-06-30T21:41:08.914065"
+    },
+    {
+      "english": "Download, then install.",
+      "hungarian": "Töltsd le, majd telepítsd.",
+      "transliteration": "Told-d leh, moyd tel-lep-eet-d.",
+      "category": "Technology",
+      "generated_at": "2026-07-01T02:46:43.165177"
+    },
+    {
+      "english": "Connect, and share.",
+      "hungarian": "Csatlakozz, és ossz meg.",
+      "transliteration": "Chat-lat-koz, ay-sh oss meg.",
+      "category": "Technology",
+      "generated_at": "2026-07-01T02:46:43.165186"
+    },
+    {
+      "english": "Code, and create.",
+      "hungarian": "Kódolj, és alkoss.",
+      "transliteration": "Ko-dolj, ay-sh al-kosh.",
+      "category": "Technology",
+      "generated_at": "2026-07-01T02:46:43.165188"
+    },
+    {
+      "english": "Debug, find the error.",
+      "hungarian": "Hibakeresés, találd meg a hibát.",
+      "transliteration": "Hee-ba-keh-reh-shaysh, tal-lod meg ah hee-baht.",
+      "category": "Technology",
+      "generated_at": "2026-07-01T02:46:43.165190"
+    },
+    {
+      "english": "Update, stay current.",
+      "hungarian": "Frissíts, maradj naprakész.",
+      "transliteration": "Friss-eetsh, mar-rodj nap-rah-kayz.",
+      "category": "Technology",
+      "generated_at": "2026-07-01T02:46:43.165191"
     }
   ],
-  "last_updated": "2026-06-30T21:41:08.914067"
+  "last_updated": "2026-07-01T02:46:43.165192"
 }
