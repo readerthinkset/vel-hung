@@ -2379,7 +2379,42 @@
       "transliteration": "Nagyim, bölcsessége, vezet.",
       "category": "Family Terms",
       "generated_at": "2026-07-01T16:15:32.784428"
+    },
+    {
+      "english": "This is an emergency, understand?",
+      "hungarian": "Ez sürgős, érti?",
+      "transliteration": "Ez shir-gosh, ert-ee?",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T18:58:05.866056"
+    },
+    {
+      "english": "I need immediate assistance, now.",
+      "hungarian": "Azonnali segítség kell, most.",
+      "transliteration": "A-zon-na-lee shig-eet-seg kell, mo-sht.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T18:58:05.866066"
+    },
+    {
+      "english": "Can you help me, quickly?",
+      "hungarian": "Tudna segíteni, gyorsan?",
+      "transliteration": "Tood-na shig-eet-tuh-nee, shor-shon?",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T18:58:05.866068"
+    },
+    {
+      "english": "My situation is critical, please.",
+      "hungarian": "A helyzetem kritikus, kérem.",
+      "transliteration": "Ah heh-yet-em kree-tee-kush, kay-rem.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T18:58:05.866069"
+    },
+    {
+      "english": "Someone is hurt, badly.",
+      "hungarian": "Valaki megsérült, nagyon.",
+      "transliteration": "Vo-la-kee meg-shay-rult, na-dyon.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T18:58:05.866070"
     }
   ],
-  "last_updated": "2026-07-01T16:15:32.784430"
+  "last_updated": "2026-07-01T18:58:05.866072"
 }
