@@ -2449,7 +2449,42 @@
       "transliteration": "Ked-ves-sheg aa-yanl-va, ked-ves-sheg kap-va.",
       "category": "Inner Peace",
       "generated_at": "2026-07-01T21:40:25.583309"
+    },
+    {
+      "english": "Listen closely, then speak.",
+      "hungarian": "Figyelj jól, aztán beszélj.",
+      "transliteration": "Fig-yel-y jol, otz-on be-shel-y.",
+      "category": "Directions",
+      "generated_at": "2026-07-02T02:36:23.624347"
+    },
+    {
+      "english": "Try again, slowly this time.",
+      "hungarian": "Próbáld újra, lassan most.",
+      "transliteration": "Pro-bahd oo-y-rah, lo-shon mo-sh-t.",
+      "category": "Directions",
+      "generated_at": "2026-07-02T02:36:23.624355"
+    },
+    {
+      "english": "Repeat after me, please.",
+      "hungarian": "Ismételd utánam, kérlek.",
+      "transliteration": "Ish-may-tel oo-tah-nahm, kair-lek.",
+      "category": "Directions",
+      "generated_at": "2026-07-02T02:36:23.624357"
+    },
+    {
+      "english": "Read this sentence out loud.",
+      "hungarian": "Olvasd fel ezt a mondatot.",
+      "transliteration": "Ol-vahd fel esht ah mon-dah-tot.",
+      "category": "Directions",
+      "generated_at": "2026-07-02T02:36:23.624358"
+    },
+    {
+      "english": "Don't be afraid, just ask.",
+      "hungarian": "Ne félj, csak kérdezz.",
+      "transliteration": "Ne fair-y, chok kair-desz.",
+      "category": "Directions",
+      "generated_at": "2026-07-02T02:36:23.624360"
     }
   ],
-  "last_updated": "2026-07-01T21:40:25.583310"
+  "last_updated": "2026-07-02T02:36:23.624361"
 }
