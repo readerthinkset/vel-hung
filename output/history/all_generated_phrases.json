@@ -2484,7 +2484,42 @@
       "transliteration": "Ne fair-y, chok kair-desz.",
       "category": "Directions",
       "generated_at": "2026-07-02T02:36:23.624360"
+    },
+    {
+      "english": "Sunrise, new day.",
+      "hungarian": "Napkelte, új nap.",
+      "transliteration": "Nap-kel-teh, oo-y nap.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-02T13:30:45.307966"
+    },
+    {
+      "english": "Coffee first, then talk.",
+      "hungarian": "Kávé előbb, aztán beszélj.",
+      "transliteration": "Ka-vay eh-luhb, azt-tan beh-say-ly.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-02T13:30:45.307977"
+    },
+    {
+      "english": "Brush teeth, feel fresh.",
+      "hungarian": "Fogat mos, érezd magad frissnek.",
+      "transliteration": "Fog-at mosh, ay-rezd mag-od friss-nek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-02T13:30:45.307979"
+    },
+    {
+      "english": "Quick shower, get ready.",
+      "hungarian": "Gyors zuhany, készülj.",
+      "transliteration": "Dyor-shoo-vany, kesh-shooly.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-02T13:30:45.307980"
+    },
+    {
+      "english": "Dress smart, feel good.",
+      "hungarian": "Öltözz okosan, érezd jól magad.",
+      "transliteration": "Ul-tuhz oh-koh-shan, ay-rezd yohl mag-od.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-02T13:30:45.307981"
     }
   ],
-  "last_updated": "2026-07-02T02:36:23.624361"
+  "last_updated": "2026-07-02T13:30:45.307983"
 }
