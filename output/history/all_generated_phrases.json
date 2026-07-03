@@ -2729,7 +2729,42 @@
       "transliteration": "Ez a keh-nyair, friss?",
       "category": "Restaurant",
       "generated_at": "2026-07-03T15:48:26.869976"
+    },
+    {
+      "english": "Just looking, thanks.",
+      "hungarian": "Csak nézelődöm, köszönöm.",
+      "transliteration": "Chak nay-ze-lo-doh-m, keh-soh-nom.",
+      "category": "Shopping",
+      "generated_at": "2026-07-03T21:10:33.365636"
+    },
+    {
+      "english": "Can I help you?",
+      "hungarian": "Tudok segíteni?",
+      "transliteration": "Too-dok sheh-gee-teh-nee?",
+      "category": "Shopping",
+      "generated_at": "2026-07-03T21:10:33.365646"
+    },
+    {
+      "english": "Where is the fitting room?",
+      "hungarian": "Hol van a próbafülke?",
+      "transliteration": "Hol van ah proh-bah-fyool-keh?",
+      "category": "Shopping",
+      "generated_at": "2026-07-03T21:10:33.365647"
+    },
+    {
+      "english": "How much does this cost?",
+      "hungarian": "Mennyibe kerül ez?",
+      "transliteration": "Men-nee-beh keh-rool ez?",
+      "category": "Shopping",
+      "generated_at": "2026-07-03T21:10:33.365648"
+    },
+    {
+      "english": "I'm looking for a gift.",
+      "hungarian": "Ajándékot keresek.",
+      "transliteration": "Ah-jan-day-kot keh-reh-shek.",
+      "category": "Shopping",
+      "generated_at": "2026-07-03T21:10:33.365649"
     }
   ],
-  "last_updated": "2026-07-03T15:48:26.869978"
+  "last_updated": "2026-07-03T21:10:33.365651"
 }
