@@ -2694,7 +2694,42 @@
       "transliteration": "Ezh ah KEE-lah-tahsh CHOH-dah-lah-tosh.",
       "category": "Travel",
       "generated_at": "2026-07-03T13:45:21.183015"
+    },
+    {
+      "english": "Just browsing, for now.",
+      "hungarian": "Csak nézelődök, egyelőre.",
+      "transliteration": "Chok nay-zeh-loo-dek, eg-yeh-loh-reh.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-03T15:48:26.869962"
+    },
+    {
+      "english": "A table for three, later?",
+      "hungarian": "Egy asztal, háromnak, később?",
+      "transliteration": "Edg as-tal, hah-rom-nak, kesh-shoebp?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-03T15:48:26.869971"
+    },
+    {
+      "english": "Can we sit, by the window?",
+      "hungarian": "Leülhetünk, az ablaknál?",
+      "transliteration": "Leh-oo-le-he-toonk, az ab-lak-naal?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-03T15:48:26.869973"
+    },
+    {
+      "english": "Something light, maybe soup?",
+      "hungarian": "Valami könnyű, talán leves?",
+      "transliteration": "Val-a-mee kohn-yoo, ta-laan leh-vesh?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-03T15:48:26.869975"
+    },
+    {
+      "english": "This bread, is it fresh?",
+      "hungarian": "Ez a kenyér, friss?",
+      "transliteration": "Ez a keh-nyair, friss?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-03T15:48:26.869976"
     }
   ],
-  "last_updated": "2026-07-03T13:45:21.183017"
+  "last_updated": "2026-07-03T15:48:26.869978"
 }
