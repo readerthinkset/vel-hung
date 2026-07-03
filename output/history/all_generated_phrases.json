@@ -2659,7 +2659,42 @@
       "transliteration": "Ee-gahz eh-ruh, behn-ned vahn.",
       "category": "Wisdom",
       "generated_at": "2026-07-03T02:11:36.742567"
+    },
+    {
+      "english": "Excuse me, what's this building?",
+      "hungarian": "Elnézést, mi ez az épület?",
+      "transliteration": "El-NEEZ-esht, mee ezh ahz AY-pee-leht?",
+      "category": "Travel",
+      "generated_at": "2026-07-03T13:45:21.183002"
+    },
+    {
+      "english": "I'm looking for a quiet cafe.",
+      "hungarian": "Csendes kávézót keresek.",
+      "transliteration": "CHEND-esh KAH-vay-zoht keh-resh-ek.",
+      "category": "Travel",
+      "generated_at": "2026-07-03T13:45:21.183010"
+    },
+    {
+      "english": "Could I have a glass of water?",
+      "hungarian": "Kaphatnék egy pohár vizet?",
+      "transliteration": "KAH-phah-tnekh edge POH-har VEE-zet?",
+      "category": "Travel",
+      "generated_at": "2026-07-03T13:45:21.183012"
+    },
+    {
+      "english": "Where do locals eat?",
+      "hungarian": "Hol esznek a helyiek?",
+      "transliteration": "Hohl ES-nekh ah HEH-yee-ek?",
+      "category": "Travel",
+      "generated_at": "2026-07-03T13:45:21.183014"
+    },
+    {
+      "english": "This view is amazing.",
+      "hungarian": "Ez a kilátás csodálatos.",
+      "transliteration": "Ezh ah KEE-lah-tahsh CHOH-dah-lah-tosh.",
+      "category": "Travel",
+      "generated_at": "2026-07-03T13:45:21.183015"
     }
   ],
-  "last_updated": "2026-07-03T02:11:36.742569"
+  "last_updated": "2026-07-03T13:45:21.183017"
 }
