@@ -2799,7 +2799,42 @@
       "transliteration": "Mon-d ki hah-ngoh-shahn, eh-nge-dd el.",
       "category": "Strength",
       "generated_at": "2026-07-04T02:10:28.534044"
+    },
+    {
+      "english": "Her quick mind, races ahead.",
+      "hungarian": "Gyors elméje, szárnyal előre.",
+      "transliteration": "Djaw-yor shiel-may-eh, saar-nyal el-oh-ray.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-04T13:01:07.002596"
+    },
+    {
+      "english": "His warm smile, brightens the room.",
+      "hungarian": "Meleg mosolya, beragyogja a szobát.",
+      "transliteration": "Meh-leg mo-sho-ya, beh-ra-dyo-dja a so-baat.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-04T13:01:07.002609"
+    },
+    {
+      "english": "My tired legs, need a rest.",
+      "hungarian": "Fáradt lábaim, pihenést kívánnak.",
+      "transliteration": "Faa-raat laa-ba-im, pee-hen-esht kee-vaan-nak.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-04T13:01:07.002611"
+    },
+    {
+      "english": "Your tiny hands, build wonders.",
+      "hungarian": "Apró kezeid, csodákat alkotnak.",
+      "transliteration": "Ah-proh keh-zeh-eed, cho-daa-kat ol-ko-tnaak.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-04T13:01:07.002613"
+    },
+    {
+      "english": "The child's soft hair, so gentle.",
+      "hungarian": "Gyermek puha haja, oly szelíd.",
+      "transliteration": "Djer-mekk poo-ha ha-ya, oy seh-leed.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-04T13:01:07.002614"
     }
   ],
-  "last_updated": "2026-07-04T02:10:28.534045"
+  "last_updated": "2026-07-04T13:01:07.002615"
 }
