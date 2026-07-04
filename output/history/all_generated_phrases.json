@@ -2834,7 +2834,42 @@
       "transliteration": "Djer-mekk poo-ha ha-ya, oy seh-leed.",
       "category": "Body Parts",
       "generated_at": "2026-07-04T13:01:07.002614"
+    },
+    {
+      "english": "That chord, it lingers.",
+      "hungarian": "Akkord, az megmarad.",
+      "transliteration": "Aw-kord, awz mehg-mah-rawd.",
+      "category": "Music",
+      "generated_at": "2026-07-04T14:57:41.157593"
+    },
+    {
+      "english": "Rhythm flows, freely.",
+      "hungarian": "Ritmus árad, szabadon.",
+      "transliteration": "Rit-moos aa-rawd, sah-bah-don.",
+      "category": "Music",
+      "generated_at": "2026-07-04T14:57:41.157605"
+    },
+    {
+      "english": "Hear that harmony, beautiful.",
+      "hungarian": "Hallod a harmóniát, gyönyörű.",
+      "transliteration": "Hall-od aw har-moh-nee-awt, dyuhn-yuh-rew.",
+      "category": "Music",
+      "generated_at": "2026-07-04T14:57:41.157607"
+    },
+    {
+      "english": "This tempo, lively.",
+      "hungarian": "Ez a tempó, élénk.",
+      "transliteration": "Ez aw tem-poh, ay-laynk.",
+      "category": "Music",
+      "generated_at": "2026-07-04T14:57:41.157608"
+    },
+    {
+      "english": "A quiet note, then loud.",
+      "hungarian": "Egy halk hang, aztán hangos.",
+      "transliteration": "Edg halk hang, aaz-taan hang-gosh.",
+      "category": "Music",
+      "generated_at": "2026-07-04T14:57:41.157609"
     }
   ],
-  "last_updated": "2026-07-04T13:01:07.002615"
+  "last_updated": "2026-07-04T14:57:41.157611"
 }
