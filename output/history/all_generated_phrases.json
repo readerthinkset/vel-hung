@@ -2974,7 +2974,42 @@
       "transliteration": "Edj shoott-o-gaash-boal, dal.",
       "category": "Creativity",
       "generated_at": "2026-07-05T02:25:42.724298"
+    },
+    {
+      "english": "The little bird, sang a sweet song.",
+      "hungarian": "A kis madár, édes dalt zengett.",
+      "transliteration": "A kis madar, edesh dalt zenget.",
+      "category": "Animals",
+      "generated_at": "2026-07-05T13:08:54.567121"
+    },
+    {
+      "english": "A fluffy cat, naps in the sun.",
+      "hungarian": "A bolyhos macska, napozik a napon.",
+      "transliteration": "A bolyosh macska, napozik a napon.",
+      "category": "Animals",
+      "generated_at": "2026-07-05T13:08:54.567129"
+    },
+    {
+      "english": "The big dog, barked at the mailman.",
+      "hungarian": "A nagy kutya, odabukott a postásnak.",
+      "transliteration": "A nagy kutya, odabukott a postashnak.",
+      "category": "Animals",
+      "generated_at": "2026-07-05T13:08:54.567131"
+    },
+    {
+      "english": "Fish swim, in the clear water.",
+      "hungarian": "A halak úsznak, a tiszta vízben.",
+      "transliteration": "A halak usznak, a tiszta vizben.",
+      "category": "Animals",
+      "generated_at": "2026-07-05T13:08:54.567132"
+    },
+    {
+      "english": "Butterflies flutter, among the flowers.",
+      "hungarian": "A pillangók röpködnek, a virágok között.",
+      "transliteration": "A pillangok ropkodnek, a viragok kozott.",
+      "category": "Animals",
+      "generated_at": "2026-07-05T13:08:54.567134"
     }
   ],
-  "last_updated": "2026-07-05T02:25:42.724300"
+  "last_updated": "2026-07-05T13:08:54.567135"
 }
