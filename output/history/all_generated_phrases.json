@@ -3114,7 +3114,42 @@
       "transliteration": "Ah ko-teh-lay-koonk, el-sah-kee-hah-tah-tlahn.",
       "category": "Friendship",
       "generated_at": "2026-07-05T21:03:48.913206"
+    },
+    {
+      "english": "The sky, is a deep blue.",
+      "hungarian": "Az ég, mély kék.",
+      "transliteration": "oz ayg, mayj kayk.",
+      "category": "Weather",
+      "generated_at": "2026-07-06T02:30:03.140078"
+    },
+    {
+      "english": "Sunbeams, warm my face.",
+      "hungarian": "A napsugarak, melegítik arcom.",
+      "transliteration": "a nap-soo-ga-rak, meh-leh-geet-teek ar-com.",
+      "category": "Weather",
+      "generated_at": "2026-07-06T02:30:03.140090"
+    },
+    {
+      "english": "A light mist, is forming.",
+      "hungarian": "Könnyű pára, száll fel.",
+      "transliteration": "kayn-yoo pah-ra, sahl fel.",
+      "category": "Weather",
+      "generated_at": "2026-07-06T02:30:03.140092"
+    },
+    {
+      "english": "Thunder rumbles, far away.",
+      "hungarian": "A dörgés, messziről jön.",
+      "transliteration": "a dyer-geesh, mess-see-rohl yon.",
+      "category": "Weather",
+      "generated_at": "2026-07-06T02:30:03.140094"
+    },
+    {
+      "english": "Snowflakes, dance down gently.",
+      "hungarian": "Hópihék, táncolnak lágyan.",
+      "transliteration": "hoh-pee-hayk, taan-tsol-nak laah-dyan.",
+      "category": "Weather",
+      "generated_at": "2026-07-06T02:30:03.140096"
     }
   ],
-  "last_updated": "2026-07-05T21:03:48.913208"
+  "last_updated": "2026-07-06T02:30:03.140098"
 }
