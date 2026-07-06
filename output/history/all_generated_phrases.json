@@ -3219,7 +3219,42 @@
       "transliteration": "Öt érzék, tapasztal, a világot.",
       "category": "Numbers",
       "generated_at": "2026-07-06T16:47:32.080978"
+    },
+    {
+      "english": "Game on, let's play!",
+      "hungarian": "Meccs van, hajrá!",
+      "transliteration": "Metsh von, hoj-ro!",
+      "category": "Sports",
+      "generated_at": "2026-07-06T18:52:45.073386"
+    },
+    {
+      "english": "Score a goal, cheer loud!",
+      "hungarian": "Gólt rúgj, ordíts!",
+      "transliteration": "Goalt rooj, or-deetsh!",
+      "category": "Sports",
+      "generated_at": "2026-07-06T18:52:45.073395"
+    },
+    {
+      "english": "Run fast, feel the wind.",
+      "hungarian": "Fuss gyorsan, érezd a szelet.",
+      "transliteration": "Foosh dyorsh-on, ay-rezd oh sel-et.",
+      "category": "Sports",
+      "generated_at": "2026-07-06T18:52:45.073397"
+    },
+    {
+      "english": "Jump high, touch the sky.",
+      "hungarian": "Ugass magasra, érj az égig.",
+      "transliteration": "Oo-gosh moh-go-shro, ayrj oz ay-geeg.",
+      "category": "Sports",
+      "generated_at": "2026-07-06T18:52:45.073398"
+    },
+    {
+      "english": "Train hard, win easy.",
+      "hungarian": "Edzz keményen, nyerj könnyen.",
+      "transliteration": "Edz keh-may-nyen, nyery kohn-nyen.",
+      "category": "Sports",
+      "generated_at": "2026-07-06T18:52:45.073399"
     }
   ],
-  "last_updated": "2026-07-06T16:47:32.080980"
+  "last_updated": "2026-07-06T18:52:45.073401"
 }
