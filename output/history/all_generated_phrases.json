@@ -3254,7 +3254,42 @@
       "transliteration": "Edz keh-may-nyen, nyery kohn-nyen.",
       "category": "Sports",
       "generated_at": "2026-07-06T18:52:45.073399"
+    },
+    {
+      "english": "Danger here, move away.",
+      "hungarian": "Veszély, tessék, távolodjon.",
+      "transliteration": "Ves-ay, tes-shay, taa-vol-o-jon.",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T21:38:54.329896"
+    },
+    {
+      "english": "I need water, urgently.",
+      "hungarian": "Szomjas vagyok, sürgősen.",
+      "transliteration": "Som-yos vo-dyok, shur-go-shen.",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T21:38:54.329906"
+    },
+    {
+      "english": "Fire, over there!",
+      "hungarian": "Tűz van, ott!",
+      "transliteration": "Tuez van, ott!",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T21:38:54.329908"
+    },
+    {
+      "english": "Someone fell, help!",
+      "hungarian": "Valaki elesett, segíts!",
+      "transliteration": "Vol-o-ki el-esh-et, she-geets!",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T21:38:54.329909"
+    },
+    {
+      "english": "My leg hurts, badly.",
+      "hungarian": "Fáj a lábam, nagyon.",
+      "transliteration": "Fa-i a laa-bom, no-dyon.",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T21:38:54.329910"
     }
   ],
-  "last_updated": "2026-07-06T18:52:45.073401"
+  "last_updated": "2026-07-06T21:38:54.329912"
 }
