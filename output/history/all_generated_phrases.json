@@ -3149,7 +3149,42 @@
       "transliteration": "hoh-pee-hayk, taan-tsol-nak laah-dyan.",
       "category": "Weather",
       "generated_at": "2026-07-06T02:30:03.140096"
+    },
+    {
+      "english": "Learn a word, a day.",
+      "hungarian": "Tanulj, egy szót, naponta.",
+      "transliteration": "Ta-yooly, eg syoht, na-pon-ta.",
+      "category": "Education",
+      "generated_at": "2026-07-06T15:00:18.033825"
+    },
+    {
+      "english": "Practice makes, perfect.",
+      "hungarian": "Gyakorlás, tesz, tökéletessé.",
+      "transliteration": "Dyak-or-lash, tes, to-kay-le-tess-esh.",
+      "category": "Education",
+      "generated_at": "2026-07-06T15:00:18.033835"
+    },
+    {
+      "english": "Open a book, open your mind.",
+      "hungarian": "Nyiss, egy könyvet, nyiss, elmédet.",
+      "transliteration": "Neesh, eg kohn-yet, neesh, el-may-det.",
+      "category": "Education",
+      "generated_at": "2026-07-06T15:00:18.033837"
+    },
+    {
+      "english": "Listen closely, speak clearly.",
+      "hungarian": "Figyelj, pontosan, beszélj, tisztán.",
+      "transliteration": "Fee-gyal, pon-to-shan, besh-ayl, teesh-tan.",
+      "category": "Education",
+      "generated_at": "2026-07-06T15:00:18.033838"
+    },
+    {
+      "english": "New language, new world.",
+      "hungarian": "Új nyelv, új világ.",
+      "transliteration": "Ooh nyelv, ooh vee-lag.",
+      "category": "Education",
+      "generated_at": "2026-07-06T15:00:18.033839"
     }
   ],
-  "last_updated": "2026-07-06T02:30:03.140098"
+  "last_updated": "2026-07-06T15:00:18.033841"
 }
