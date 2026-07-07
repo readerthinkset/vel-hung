@@ -3289,7 +3289,42 @@
       "transliteration": "Fa-i a laa-bom, no-dyon.",
       "category": "Emergency",
       "generated_at": "2026-07-06T21:38:54.329910"
+    },
+    {
+      "english": "Listen to the wind, feel the trees.",
+      "hungarian": "Hallgasd a szelet, érezd a fákat.",
+      "transliteration": "Hall-gasd a se-let, e-rezd a faa-kat.",
+      "category": "Nature",
+      "generated_at": "2026-07-07T02:25:57.654038"
+    },
+    {
+      "english": "Sunlight on my face, warm and bright.",
+      "hungarian": "Napfény az arcomon, meleg, fényes.",
+      "transliteration": "Nap-fény az ar-co-mon, me-leg, fé-nyes.",
+      "category": "Nature",
+      "generated_at": "2026-07-07T02:25:57.654047"
+    },
+    {
+      "english": "River flows gently, towards the sea.",
+      "hungarian": "Folyó lassan csorog, a tenger felé.",
+      "transliteration": "Fo-yó las-san cso-rog, a ten-ger fe-lé.",
+      "category": "Nature",
+      "generated_at": "2026-07-07T02:25:57.654049"
+    },
+    {
+      "english": "Birds sing their songs, in the morning.",
+      "hungarian": "Madarak dalolnak, reggelente.",
+      "transliteration": "Ma-da-rok da-lol-nak, reg-ge-len-te.",
+      "category": "Nature",
+      "generated_at": "2026-07-07T02:25:57.654051"
+    },
+    {
+      "english": "Green grass underfoot, soft and cool.",
+      "hungarian": "Zöld fű a talpam alatt, puha, hűvös.",
+      "transliteration": "Zöld fű az tal-pam a-latt, pu-ha, hű-vös.",
+      "category": "Nature",
+      "generated_at": "2026-07-07T02:25:57.654052"
     }
   ],
-  "last_updated": "2026-07-06T21:38:54.329912"
+  "last_updated": "2026-07-07T02:25:57.654053"
 }
