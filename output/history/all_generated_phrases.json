@@ -3324,7 +3324,42 @@
       "transliteration": "Zöld fű az tal-pam a-latt, pu-ha, hű-vös.",
       "category": "Nature",
       "generated_at": "2026-07-07T02:25:57.654052"
+    },
+    {
+      "english": "These pants, are surprisingly comfortable.",
+      "hungarian": "Ez a nadrág, meglepően kényelmes.",
+      "transliteration": "Ez a nadrág, meglepően kényelmes.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:08:31.986282"
+    },
+    {
+      "english": "My scarf, is a vibrant red.",
+      "hungarian": "A sálom, élénk piros.",
+      "transliteration": "A sálom, élénk piros.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:08:31.986293"
+    },
+    {
+      "english": "I like this jacket's, unique pattern.",
+      "hungarian": "Tetszik ez a dzseki, egyedi mintája.",
+      "transliteration": "Tetszik ez a dzseki, egyedi mintája.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:08:31.986295"
+    },
+    {
+      "english": "Do you have, a lighter shade?",
+      "hungarian": "Van, világosabb árnyalatban?",
+      "transliteration": "Van, világosabb árnyalatban?",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:08:31.986296"
+    },
+    {
+      "english": "This hat, keeps my head warm.",
+      "hungarian": "Ez a kalap, melegen tartja a fejem.",
+      "transliteration": "Ez a kalap, melegen tartja a fejem.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:08:31.986297"
     }
   ],
-  "last_updated": "2026-07-07T02:25:57.654053"
+  "last_updated": "2026-07-07T14:08:31.986299"
 }
