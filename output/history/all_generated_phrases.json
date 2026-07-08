@@ -3429,7 +3429,42 @@
       "transliteration": "Hal-gasd meg sa-jaat bol-cses-se-ged.",
       "category": "Positive Life",
       "generated_at": "2026-07-08T01:59:38.231304"
+    },
+    {
+      "english": "Go for it, friend.",
+      "hungarian": "Hajrá, barátom.",
+      "transliteration": "High-rah, bah-raht-om.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-08T13:41:31.149299"
+    },
+    {
+      "english": "That's brilliant, truly.",
+      "hungarian": "Micsoda zseniális, tényleg.",
+      "transliteration": "Mee-cho-dah zheh-nee-ah-leesh, teh-nyeleg.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-08T13:41:31.149312"
+    },
+    {
+      "english": "I'm here for you.",
+      "hungarian": "Veled vagyok, itt.",
+      "transliteration": "Veh-led vah-yok, eet.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-08T13:41:31.149314"
+    },
+    {
+      "english": "Let's get started, now.",
+      "hungarian": "Kezdjük el, most.",
+      "transliteration": "Kehd-zhyook el, moasht.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-08T13:41:31.149315"
+    },
+    {
+      "english": "It's a good idea.",
+      "hungarian": "Ez jó ötlet.",
+      "transliteration": "Ez yoh oet-let.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-08T13:41:31.149317"
     }
   ],
-  "last_updated": "2026-07-08T01:59:38.231306"
+  "last_updated": "2026-07-08T13:41:31.149319"
 }
