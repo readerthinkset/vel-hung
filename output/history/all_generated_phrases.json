@@ -3744,7 +3744,42 @@
       "transliteration": "Ot-let-el-y-oonk, mo-sht.",
       "category": "Work",
       "generated_at": "2026-07-09T21:25:42.376890"
+    },
+    {
+      "english": "This app, is quite clever.",
+      "hungarian": "Ez az alkalmazás, elég okos.",
+      "transliteration": "Ez az alkalmazás, eléj okos.",
+      "category": "Technology",
+      "generated_at": "2026-07-10T02:11:41.008936"
+    },
+    {
+      "english": "Our server, is humming along.",
+      "hungarian": "A szerverünk, szépen muzsikál.",
+      "transliteration": "A szerverünk, sépy-en muzsikál.",
+      "category": "Technology",
+      "generated_at": "2026-07-10T02:11:41.008943"
+    },
+    {
+      "english": "The network, feels faster.",
+      "hungarian": "A hálózat, gyorsabbnak tűnik.",
+      "transliteration": "A hálózat, gyorssabb-nak tűnik.",
+      "category": "Technology",
+      "generated_at": "2026-07-10T02:11:41.008945"
+    },
+    {
+      "english": "Upload the file, quickly.",
+      "hungarian": "Töltsd fel a fájlt, gyorsan.",
+      "transliteration": "Töltj fel a fájlt, gyorssahn.",
+      "category": "Technology",
+      "generated_at": "2026-07-10T02:11:41.008947"
+    },
+    {
+      "english": "Explore the interface, with curiosity.",
+      "hungarian": "Fedezd fel a felületet, kíváncsian.",
+      "transliteration": "Fedezdj fel a felület-et, kíváncsi-ahn.",
+      "category": "Technology",
+      "generated_at": "2026-07-10T02:11:41.008948"
     }
   ],
-  "last_updated": "2026-07-09T21:25:42.376892"
+  "last_updated": "2026-07-10T02:11:41.008949"
 }
