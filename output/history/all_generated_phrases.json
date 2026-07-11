@@ -3989,7 +3989,42 @@
       "transliteration": "Ez az ut-ca, o-yan bah-yosh.",
       "category": "Travel",
       "generated_at": "2026-07-11T12:56:17.842402"
+    },
+    {
+      "english": "A wise old owl, watches silently.",
+      "hungarian": "Egy bölcs öreg bagoly, csendben figyel.",
+      "transliteration": "Edj bölch öreg bágoly, csendben fidjel.",
+      "category": "Animals",
+      "generated_at": "2026-07-11T14:43:43.401537"
+    },
+    {
+      "english": "The busy bee, collects nectar.",
+      "hungarian": "A szorgos méh, gyűjti a nektárt.",
+      "transliteration": "A szorgos méh, gyűjti a nektárt.",
+      "category": "Animals",
+      "generated_at": "2026-07-11T14:43:43.401544"
+    },
+    {
+      "english": "A sleek black panther, stalks its prey.",
+      "hungarian": "Egy karcsú fekete párduc, lopakodik.",
+      "transliteration": "Edj karcsú fekete párduc, lopakodik.",
+      "category": "Animals",
+      "generated_at": "2026-07-11T14:43:43.401546"
+    },
+    {
+      "english": "The playful dolphin, leaps from the waves.",
+      "hungarian": "A játékos delfin, ugrál a hullámokból.",
+      "transliteration": "A játékos delfin, ugrál a hullámokból.",
+      "category": "Animals",
+      "generated_at": "2026-07-11T14:43:43.401547"
+    },
+    {
+      "english": "A majestic eagle, soars in the sky.",
+      "hungarian": "Egy fenséges sas, szárnyal az égen.",
+      "transliteration": "Edj fenséges sás, szárnyal az égen.",
+      "category": "Animals",
+      "generated_at": "2026-07-11T14:43:43.401548"
     }
   ],
-  "last_updated": "2026-07-11T12:56:17.842404"
+  "last_updated": "2026-07-11T14:43:43.401550"
 }
