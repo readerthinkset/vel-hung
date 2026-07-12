@@ -4199,7 +4199,42 @@
       "transliteration": "Fogadd el a pillanatot, teljesen.",
       "category": "Wisdom",
       "generated_at": "2026-07-12T17:57:01.483061"
+    },
+    {
+      "english": "The air, feels crisp now.",
+      "hungarian": "A levegő, most hűvös.",
+      "transliteration": "Ah leh-veh-goh, mosht h(y)oo-vush.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:53:26.436095"
+    },
+    {
+      "english": "Warm sunshine, on my skin.",
+      "hungarian": "Meleg napsugár, bőrömön.",
+      "transliteration": "Meh-leg nap-shoo-gahr, b(y)oe-r(y)om-on.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:53:26.436107"
+    },
+    {
+      "english": "Fog creeps, slowly in.",
+      "hungarian": "A köd kúszik, lassan.",
+      "transliteration": "Ah k(y)oe-d koo-seek, lash-shawn.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:53:26.436108"
+    },
+    {
+      "english": "A sudden gust, arrived.",
+      "hungarian": "Hirtelen széllökés, jött.",
+      "transliteration": "Her-teh-len say-l(y)oh-kay-sh, j(y)oet.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:53:26.436110"
+    },
+    {
+      "english": "Grey skies, overhead.",
+      "hungarian": "Szürke ég, felettünk.",
+      "transliteration": "Soor-keh ayg, feh-let-toonk.",
+      "category": "Weather",
+      "generated_at": "2026-07-12T20:53:26.436110"
     }
   ],
-  "last_updated": "2026-07-12T17:57:01.483063"
+  "last_updated": "2026-07-12T20:53:26.436112"
 }
