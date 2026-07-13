@@ -4234,7 +4234,42 @@
       "transliteration": "Soor-keh ayg, feh-let-toonk.",
       "category": "Weather",
       "generated_at": "2026-07-12T20:53:26.436110"
+    },
+    {
+      "english": "The whistle blows, the action starts.",
+      "hungarian": "Fúj a síp, kezdődik a küzdelem.",
+      "transliteration": "Foo-y o sheep, ker-doh-dih-k o kooz-deh-lem.",
+      "category": "Sports",
+      "generated_at": "2026-07-13T02:02:49.201576"
+    },
+    {
+      "english": "Focus now, give your all.",
+      "hungarian": "Koncentrálj most, tedd bele magad.",
+      "transliteration": "Kon-tsen-trahlj most, ted-doh beh-leh mah-god.",
+      "category": "Sports",
+      "generated_at": "2026-07-13T02:02:49.201586"
+    },
+    {
+      "english": "Strategy, skill, victory's path.",
+      "hungarian": "Taktika, ügyesség, győzelem útja.",
+      "transliteration": "Takt-ee-k-o, ood-yesh-shag, gyoh-zeh-lem oot-y-o.",
+      "category": "Sports",
+      "generated_at": "2026-07-13T02:02:49.201588"
+    },
+    {
+      "english": "Heart pounding, spirit strong.",
+      "hungarian": "Dobog a szív, erős a lélek.",
+      "transliteration": "Doh-boh-g o seev, eh-rsh o lay-lek.",
+      "category": "Sports",
+      "generated_at": "2026-07-13T02:02:49.201589"
+    },
+    {
+      "english": "Through the finish line, exhaustion fades.",
+      "hungarian": "A célvonalon át, elfáradás múlik.",
+      "transliteration": "O sayl-voh-nahl-on aht, elf-ah-rah-dash moo-lik.",
+      "category": "Sports",
+      "generated_at": "2026-07-13T02:02:49.201591"
     }
   ],
-  "last_updated": "2026-07-12T20:53:26.436112"
+  "last_updated": "2026-07-13T02:02:49.201592"
 }
