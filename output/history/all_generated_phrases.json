@@ -4339,7 +4339,42 @@
       "transliteration": "Oromteli pillanatok, neked.",
       "category": "Holidays",
       "generated_at": "2026-07-13T16:20:03.662888"
+    },
+    {
+      "english": "Stars twinkle, sky is vast.",
+      "hungarian": "Csillagok csillognak, égbolt tágas.",
+      "transliteration": "Chil-la-gok chil-log-nak, aeg-bolt ta-gash.",
+      "category": "Nature",
+      "generated_at": "2026-07-13T18:40:31.284442"
+    },
+    {
+      "english": "Mountain peaks, touch the clouds.",
+      "hungarian": "Hegycsúcsok, felhőket érnek.",
+      "transliteration": "Hedge-choo-chok, fel-hő-ket aer-nek.",
+      "category": "Nature",
+      "generated_at": "2026-07-13T18:40:31.284452"
+    },
+    {
+      "english": "Forest whispers, secrets deep.",
+      "hungarian": "Erdő suttog, titkok mélyen.",
+      "transliteration": "Err-dő sutt-tog, tit-kok may-lyen.",
+      "category": "Nature",
+      "generated_at": "2026-07-13T18:40:31.284453"
+    },
+    {
+      "english": "Ocean roars, waves crash.",
+      "hungarian": "Óceán morog, hullámok csapnak.",
+      "transliteration": "O-tse-an mo-rog, hull-lam-ok chap-nak.",
+      "category": "Nature",
+      "generated_at": "2026-07-13T18:40:31.284455"
+    },
+    {
+      "english": "Desert sands, shift and drift.",
+      "hungarian": "Sivatagi homok, mozog, sodródik.",
+      "transliteration": "Shi-va-ta-gi ho-mok, mo-zog, sho-dro-dik.",
+      "category": "Nature",
+      "generated_at": "2026-07-13T18:40:31.284456"
     }
   ],
-  "last_updated": "2026-07-13T16:20:03.662890"
+  "last_updated": "2026-07-13T18:40:31.284458"
 }
