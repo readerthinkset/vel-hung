@@ -4549,7 +4549,42 @@
       "transliteration": "Edg CHEND-esh PIL-lah-naht, MAYY GON-doh-laht.",
       "category": "Culture",
       "generated_at": "2026-07-14T17:59:10.350885"
+    },
+    {
+      "english": "This is, unexpected.",
+      "hungarian": "Ez, váratlan.",
+      "transliteration": "Ez, var-at-lan.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-14T21:02:55.940356"
+    },
+    {
+      "english": "What a, surprise!",
+      "hungarian": "Micsoda, meglepetés!",
+      "transliteration": "Mitch-o-da, megle-pe-tés!",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-14T21:02:55.940367"
+    },
+    {
+      "english": "Let's, explore.",
+      "hungarian": "Fedezzük, fel.",
+      "transliteration": "Fe-dez-zük, fel.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-14T21:02:55.940368"
+    },
+    {
+      "english": "This feels, right.",
+      "hungarian": "Ez így, jó.",
+      "transliteration": "Ez így, jó.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-14T21:02:55.940369"
+    },
+    {
+      "english": "A moment, please.",
+      "hungarian": "Egy pillanat, kérem.",
+      "transliteration": "Edj pil-la-nat, ké-rem.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-14T21:02:55.940370"
     }
   ],
-  "last_updated": "2026-07-14T17:59:10.350887"
+  "last_updated": "2026-07-14T21:02:55.940371"
 }
