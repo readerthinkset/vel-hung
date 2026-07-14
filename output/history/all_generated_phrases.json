@@ -4479,7 +4479,42 @@
       "transliteration": "Ah neh-veh-teh-shed, ked-vents hahng-om.",
       "category": "Relationships",
       "generated_at": "2026-07-14T13:09:26.214707"
+    },
+    {
+      "english": "Sweet pastry, with jam.",
+      "hungarian": "Édes süti, lekvárral.",
+      "transliteration": "Ay-desh shoo-tsee, lek-var-ral.",
+      "category": "Food",
+      "generated_at": "2026-07-14T15:16:43.465595"
+    },
+    {
+      "english": "Spicy soup, very hot.",
+      "hungarian": "Csípős leves, nagyon forró.",
+      "transliteration": "Cheep-posh leh-vesh, nod-yon for-roh.",
+      "category": "Food",
+      "generated_at": "2026-07-14T15:16:43.465607"
+    },
+    {
+      "english": "Crispy bread, with butter.",
+      "hungarian": "Ropogós kenyér, vajjal.",
+      "transliteration": "Ro-po-gosh ken-yayr, voy-yol.",
+      "category": "Food",
+      "generated_at": "2026-07-14T15:16:43.465609"
+    },
+    {
+      "english": "Juicy fruit, so fresh.",
+      "hungarian": "Lédús gyümölcs, olyan friss.",
+      "transliteration": "Lay-doosh dyoo-moolch, o-yon frish.",
+      "category": "Food",
+      "generated_at": "2026-07-14T15:16:43.465610"
+    },
+    {
+      "english": "Savory stew, slow-cooked.",
+      "hungarian": "Ízletes pörkölt, lassan főtt.",
+      "transliteration": "Eez-tle-tesh per-koolt, losh-shon futt.",
+      "category": "Food",
+      "generated_at": "2026-07-14T15:16:43.465611"
     }
   ],
-  "last_updated": "2026-07-14T13:09:26.214709"
+  "last_updated": "2026-07-14T15:16:43.465613"
 }
