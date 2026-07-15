@@ -4619,7 +4619,42 @@
       "transliteration": "Ő egy tiszta len inget választott, nyárra.",
       "category": "Clothes",
       "generated_at": "2026-07-15T01:45:12.959133"
+    },
+    {
+      "english": "Next step, please. Let's move.",
+      "hungarian": "Következő lépés, tessék. Haladjunk.",
+      "transliteration": "Kuvetkezo leps, tessik. Haladjunk.",
+      "category": "Work",
+      "generated_at": "2026-07-15T13:13:41.673562"
+    },
+    {
+      "english": "Great work, everyone. Truly.",
+      "hungarian": "Remek munka, mindenkinek. Tényleg.",
+      "transliteration": "Remek munka, mindenkinek. Tenyleg.",
+      "category": "Work",
+      "generated_at": "2026-07-15T13:13:41.673572"
+    },
+    {
+      "english": "Let's refine this. A bit.",
+      "hungarian": "Finomítsuk ezt. Kicsit.",
+      "transliteration": "Finomitsuk ezt. Kicsit.",
+      "category": "Work",
+      "generated_at": "2026-07-15T13:13:41.673573"
+    },
+    {
+      "english": "Progress is good. Keep going.",
+      "hungarian": "A haladás jó. Tartsanak vele.",
+      "transliteration": "A haladas yo. Tartsanak vele.",
+      "category": "Work",
+      "generated_at": "2026-07-15T13:13:41.673574"
+    },
+    {
+      "english": "What's our priority? Now.",
+      "hungarian": "Mi a prioritásunk? Most.",
+      "transliteration": "Mi a prioritasunk? Most.",
+      "category": "Work",
+      "generated_at": "2026-07-15T13:13:41.673574"
     }
   ],
-  "last_updated": "2026-07-15T01:45:12.959135"
+  "last_updated": "2026-07-15T13:13:41.673575"
 }
