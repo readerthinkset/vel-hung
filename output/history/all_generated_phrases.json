@@ -4794,7 +4794,42 @@
       "transliteration": "Edj ap-roh sik-ra, joot o-ro-met.",
       "category": "Joy",
       "generated_at": "2026-07-16T01:55:43.079180"
+    },
+    {
+      "english": "Rose petal pink, gentle whisper.",
+      "hungarian": "Rózsaszirom rózsaszín, szelíd suttogás.",
+      "transliteration": "ROH-zhah-si-rom ROH-zhah-seen, SEH-leed SHOOT-toh-gahsh.",
+      "category": "Colors",
+      "generated_at": "2026-07-16T13:21:10.582095"
+    },
+    {
+      "english": "Midnight black, endless night.",
+      "hungarian": "Éjfekete, végtelen éjszaka.",
+      "transliteration": "AY-feh-keh-teh, VEHG-teh-len AY-shuh-kuh.",
+      "category": "Colors",
+      "generated_at": "2026-07-16T13:21:10.582103"
+    },
+    {
+      "english": "Forest emerald, hidden depths.",
+      "hungarian": "Erdő smaragd, rejtett mélységek.",
+      "transliteration": "ER-doh SHMUH-rahgd, REHJT-teht MAY-shag-ek.",
+      "category": "Colors",
+      "generated_at": "2026-07-16T13:21:10.582105"
+    },
+    {
+      "english": "Citrus orange, zesty surprise.",
+      "hungarian": "Cirtus narancs, fűszeres meglepetés.",
+      "transliteration": "TSEET-roosh NAH-rahnch, FOO-seh-resh MEHG-leh-peh-taysh.",
+      "category": "Colors",
+      "generated_at": "2026-07-16T13:21:10.582106"
+    },
+    {
+      "english": "Lavender haze, dreamy thoughts.",
+      "hungarian": "Levendula köd, álmodozó gondolatok.",
+      "transliteration": "LEH-vuhn-doo-luh KUD, AHL-moh-doh-zoh GON-doh-lohtok.",
+      "category": "Colors",
+      "generated_at": "2026-07-16T13:21:10.582107"
     }
   ],
-  "last_updated": "2026-07-16T01:55:43.079182"
+  "last_updated": "2026-07-16T13:21:10.582109"
 }
