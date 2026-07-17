@@ -4969,7 +4969,42 @@
       "transliteration": "Lay-ee a rem-ay-ny fa-kya-ha, ma-shok-nak.",
       "category": "Kindness",
       "generated_at": "2026-07-17T01:59:39.629747"
+    },
+    {
+      "english": "What a lovely day, isn't it?",
+      "hungarian": "Milyen szép nap, ugye?",
+      "transliteration": "Mee-yen sayp nahp, oo-yeh?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-17T13:06:51.342059"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "hungarian": "Megismételné, kérem?",
+      "transliteration": "Meg-eesh-may-tel-nay, kay-rem?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-17T13:06:51.342069"
+    },
+    {
+      "english": "This is quite interesting, wow.",
+      "hungarian": "Ez aztán érdekes, hűha.",
+      "transliteration": "Ez aht-ahn ayr-deh-kesh, hoo-hah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-17T13:06:51.342071"
+    },
+    {
+      "english": "Where is the nearest station?",
+      "hungarian": "Merre van a legközelebbi állomás?",
+      "transliteration": "Mair-reh vahn ah leg-koh-zeh-leb-bee ah-lah-mahsh?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-17T13:06:51.342073"
+    },
+    {
+      "english": "I'm looking for this address.",
+      "hungarian": "Ezt a címet keresem.",
+      "transliteration": "Ezst ah tsee-met keh-reh-shem.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-17T13:06:51.342074"
     }
   ],
-  "last_updated": "2026-07-17T01:59:39.629749"
+  "last_updated": "2026-07-17T13:06:51.342075"
 }
