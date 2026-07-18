@@ -5144,7 +5144,42 @@
       "transliteration": "Hol-god-hd a zeh-neh, a nyel-veh-t.",
       "category": "Strength",
       "generated_at": "2026-07-18T12:53:33.287039"
+    },
+    {
+      "english": "My father, a true craftsman.",
+      "hungarian": "Apám, igazi mester.",
+      "transliteration": "Aapahm, eezaa-ghee meh-stair.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-18T14:43:35.963982"
+    },
+    {
+      "english": "My mother, her garden, blooms brightly.",
+      "hungarian": "Anyám, kertje, ragyogóan virágzik.",
+      "transliteration": "Ahn-yaam, kair-tjeh, rah-djo-gah-ohn vee-raahg-zeek.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-18T14:43:35.963993"
+    },
+    {
+      "english": "My brother, he builds amazing things.",
+      "hungarian": "Bátyám, csodás dolgokat épít.",
+      "transliteration": "Baa-tyaam, cho-daash dol-go-kaht eh-peet.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-18T14:43:35.963995"
+    },
+    {
+      "english": "My sister, a quiet observer.",
+      "hungarian": "Nővérem, csendes szemlélő.",
+      "transliteration": "Noh-vay-rehm, chend-esh seym-lay-loh.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-18T14:43:35.963996"
+    },
+    {
+      "english": "My grandmother, her knitting, keeps me warm.",
+      "hungarian": "Nagymamám, kötése, melegen tart.",
+      "transliteration": "Nuhdj-mah-naam, kuh-tay-sheh, meh-leh-gehn tahrt.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-18T14:43:35.963997"
     }
   ],
-  "last_updated": "2026-07-18T12:53:33.287041"
+  "last_updated": "2026-07-18T14:43:35.963999"
 }
