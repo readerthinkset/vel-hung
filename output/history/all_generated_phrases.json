@@ -5214,7 +5214,42 @@
       "transliteration": "Fah-radt ah lah-bahm, ah shok dyah-log-laht-tohl.",
       "category": "Travel",
       "generated_at": "2026-07-18T17:53:38.986821"
+    },
+    {
+      "english": "The moment arrives, now.",
+      "hungarian": "Az a pillanat megérkezik, most.",
+      "transliteration": "Oz ah pillanat meg-eh-ree-kez-ik, mohst.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:52:33.916758"
+    },
+    {
+      "english": "Wait a bit, please.",
+      "hungarian": "Várj egy kicsit, kérlek.",
+      "transliteration": "Vahrj edj kitchit, kair-lek.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:52:33.916770"
+    },
+    {
+      "english": "After the rain, sunshine.",
+      "hungarian": "Az eső után, napfény.",
+      "transliteration": "Oz esh-uh oo-tahn, nahp-fayny.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:52:33.916772"
+    },
+    {
+      "english": "A new day dawns, gently.",
+      "hungarian": "Egy új nap virrad, gyengéden.",
+      "transliteration": "Edj ooh nahp veer-rahd, dyen-gay-den.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:52:33.916773"
+    },
+    {
+      "english": "This hour is ours.",
+      "hungarian": "Ez az óra a miénk.",
+      "transliteration": "Ez oz oh-rah ah mee-enk.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:52:33.916774"
     }
   ],
-  "last_updated": "2026-07-18T17:53:38.986823"
+  "last_updated": "2026-07-18T20:52:33.916776"
 }
