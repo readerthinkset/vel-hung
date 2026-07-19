@@ -5249,7 +5249,42 @@
       "transliteration": "Ez oz oh-rah ah mee-enk.",
       "category": "Time",
       "generated_at": "2026-07-18T20:52:33.916774"
+    },
+    {
+      "english": "Morning dew, glistens softly.",
+      "hungarian": "Hajnali harmat, csillan lágyan.",
+      "transliteration": "Haj-na-lee har-mat, chill-an ladj-an.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T01:58:34.450304"
+    },
+    {
+      "english": "The heat, is quite intense.",
+      "hungarian": "A hőség, bizony erős.",
+      "transliteration": "A ho-shesh, bee-zon er-oesh.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T01:58:34.450314"
+    },
+    {
+      "english": "A chilly evening, descends.",
+      "hungarian": "Hűvös este, ereszkedik.",
+      "transliteration": "Hoo-voesh esh-teh, eh-resh-keh-deek.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T01:58:34.450316"
+    },
+    {
+      "english": "Sudden downpour, drenched everything.",
+      "hungarian": "Hirtelen zápor, mindent eláztatott.",
+      "transliteration": "Hirt-eh-len za-por, mind-ent eh-la-zat-ott.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T01:58:34.450317"
+    },
+    {
+      "english": "Frost, paints the windows.",
+      "hungarian": "A dér, az ablakokat festi.",
+      "transliteration": "A deer, az ab-la-ko-kat fesh-tee.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T01:58:34.450318"
     }
   ],
-  "last_updated": "2026-07-18T20:52:33.916776"
+  "last_updated": "2026-07-19T01:58:34.450320"
 }
