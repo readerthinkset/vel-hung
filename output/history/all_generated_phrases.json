@@ -5529,7 +5529,42 @@
       "transliteration": "Tuh-megh ü-volt, eh-neh-ree-ah ah-rahd.",
       "category": "Sports",
       "generated_at": "2026-07-20T15:43:57.302776"
+    },
+    {
+      "english": "Walk this way, please.",
+      "hungarian": "Jöjjön, erre, kérem.",
+      "transliteration": "Juh-yun, err-eh, keh-rem.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-20T18:51:35.201457"
+    },
+    {
+      "english": "That’s, quite enough.",
+      "hungarian": "Ez, már, elég.",
+      "transliteration": "Ez, maar, eh-leg.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-20T18:51:35.201468"
+    },
+    {
+      "english": "A little, bit more.",
+      "hungarian": "Még, egy, kicsit.",
+      "transliteration": "Mayg, ehdj, kee-chit.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-20T18:51:35.201470"
+    },
+    {
+      "english": "Hold on, just a second.",
+      "hungarian": "Várjon, csak, egy pillanatot.",
+      "transliteration": "Vaaar-yohn, chok, ehdj pil-lah-naht-ot.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-20T18:51:35.201471"
+    },
+    {
+      "english": "That makes, sense now.",
+      "hungarian": "Most, már, értem.",
+      "transliteration": "Mosht, maar, ehr-tem.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-20T18:51:35.201472"
     }
   ],
-  "last_updated": "2026-07-20T15:43:57.302778"
+  "last_updated": "2026-07-20T18:51:35.201474"
 }
