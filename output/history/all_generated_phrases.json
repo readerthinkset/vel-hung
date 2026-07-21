@@ -5599,7 +5599,42 @@
       "transliteration": "Nyeeesh oo-ee nay-zoh-pon-to-kat, na-pon-ta.",
       "category": "Purpose",
       "generated_at": "2026-07-20T21:14:22.986654"
+    },
+    {
+      "english": "Misty morning, quiet dawn.",
+      "hungarian": "Párás reggel, csendes hajnal.",
+      "transliteration": "Paaraash reggel, csendes hajnal.",
+      "category": "Nature",
+      "generated_at": "2026-07-21T01:57:40.181823"
+    },
+    {
+      "english": "Dewdrops sparkle, on the leaves.",
+      "hungarian": "Harmatcseppek csillognak, a leveleken.",
+      "transliteration": "Harmat-cheppek chillog-nak, a le-ve-le-ken.",
+      "category": "Nature",
+      "generated_at": "2026-07-21T01:57:40.181836"
+    },
+    {
+      "english": "Wildflowers bloom, bright colors.",
+      "hungarian": "Vadvirágok nyílnak, élénk színek.",
+      "transliteration": "Vadvirag-ok nyil-nak, e-leenk see-nek.",
+      "category": "Nature",
+      "generated_at": "2026-07-21T01:57:40.181838"
+    },
+    {
+      "english": "Ancient trees, stand so tall.",
+      "hungarian": "Ősi fák, állnak oly magas.",
+      "transliteration": "O-shee faak, aal-nak oly ma-gash.",
+      "category": "Nature",
+      "generated_at": "2026-07-21T01:57:40.181839"
+    },
+    {
+      "english": "Brook babbles, over stones.",
+      "hungarian": "Csobogó patak, kövek felett.",
+      "transliteration": "Cho-bo-go patak, ko-vek fe-lett.",
+      "category": "Nature",
+      "generated_at": "2026-07-21T01:57:40.181840"
     }
   ],
-  "last_updated": "2026-07-20T21:14:22.986655"
+  "last_updated": "2026-07-21T01:57:40.181842"
 }
