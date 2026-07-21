@@ -5634,7 +5634,42 @@
       "transliteration": "Cho-bo-go patak, ko-vek fe-lett.",
       "category": "Nature",
       "generated_at": "2026-07-21T01:57:40.181840"
+    },
+    {
+      "english": "Open the gate, a new world awaits.",
+      "hungarian": "Nyisd ki a kaput, új világ vár.",
+      "transliteration": "Nyisd ki a kaput, u-y vee-lahg vahr.",
+      "category": "Culture",
+      "generated_at": "2026-07-21T13:18:44.946890"
+    },
+    {
+      "english": "The river flows, carrying secrets.",
+      "hungarian": "A folyó hömpölyög, titkokat hoz.",
+      "transliteration": "A fo-yo hoem-poe-lyoeg, tee-tok-aht hoz.",
+      "category": "Culture",
+      "generated_at": "2026-07-21T13:18:44.946901"
+    },
+    {
+      "english": "Sunlight paints, the ancient rooftops.",
+      "hungarian": "Napfény festi, az ősi tetőket.",
+      "transliteration": "Nap-fay-ny feh-shti, ahz oe-shee teh-toe-keht.",
+      "category": "Culture",
+      "generated_at": "2026-07-21T13:18:44.946903"
+    },
+    {
+      "english": "A warm welcome, fills the air.",
+      "hungarian": "Meleg fogadtatás, tölti a levegőt.",
+      "transliteration": "Meh-lehg fo-ga-dta-tahsh, toe-l-ti a leh-veh-goet.",
+      "category": "Culture",
+      "generated_at": "2026-07-21T13:18:44.946904"
+    },
+    {
+      "english": "Taste the chimney cake, sweet delight.",
+      "hungarian": "Kóstold a kürtőskalácsot, édes élvezet.",
+      "transliteration": "Koosh-tol-d a koor-toe-shka-la-chaht, ay-desh ay-leh-zhet.",
+      "category": "Culture",
+      "generated_at": "2026-07-21T13:18:44.946905"
     }
   ],
-  "last_updated": "2026-07-21T01:57:40.181842"
+  "last_updated": "2026-07-21T13:18:44.946907"
 }
