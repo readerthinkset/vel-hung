@@ -5739,7 +5739,42 @@
       "transliteration": "A see-vem, an-nyee-ra teh-leh.",
       "category": "Feelings",
       "generated_at": "2026-07-21T18:13:59.766230"
+    },
+    {
+      "english": "Morning stretch, wake up slowly.",
+      "hungarian": "Reggeli nyújtózás, ébredj lassan.",
+      "transliteration": "Reg-ghel-yi nyuj-tzo-zhash, eh-bredj lash-shawn.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-21T21:12:50.129658"
+    },
+    {
+      "english": "Sunlight streams, a quiet moment.",
+      "hungarian": "Napfény szűrődik, csendes pillanat.",
+      "transliteration": "Nap-fay-ny seu-ree-dyik, chen-desh pill-ah-nat.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-21T21:12:50.129667"
+    },
+    {
+      "english": "Gentle breeze, open the window.",
+      "hungarian": "Szelíd szellő, nyisd ki az ablakot.",
+      "transliteration": "Se-leed sel-luh, nyish-d kee az ab-lah-kot.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-21T21:12:50.129669"
+    },
+    {
+      "english": "Warm tea, a comforting sip.",
+      "hungarian": "Meleg tea, megnyugtató korty.",
+      "transliteration": "Meh-leg teh-ah, mehg-nyug-tah-toh korty.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-21T21:12:50.129670"
+    },
+    {
+      "english": "Newspaper read, catch up briefly.",
+      "hungarian": "Újságolvasás, röviden tájékozódj.",
+      "transliteration": "Uj-shahg-ol-vah-shash, ruh-vee-den tay-eh-koh-zohd-j.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-21T21:12:50.129671"
     }
   ],
-  "last_updated": "2026-07-21T18:13:59.766231"
+  "last_updated": "2026-07-21T21:12:50.129673"
 }
