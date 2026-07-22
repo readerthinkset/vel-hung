@@ -5809,7 +5809,42 @@
       "transliteration": "Ez a nyakkendő, meglehetősen elegáns.",
       "category": "Clothes",
       "generated_at": "2026-07-22T01:56:28.820610"
+    },
+    {
+      "english": "Imagine the sound, then say it.",
+      "hungarian": "Képzeld el a hangot, majd mondd ki.",
+      "transliteration": "Kepzeld el a hangot, majd mondd ki.",
+      "category": "Directions",
+      "generated_at": "2026-07-22T13:22:25.351442"
+    },
+    {
+      "english": "Feel the rhythm, find the words.",
+      "hungarian": "Érezd a ritmust, keresd a szavakat.",
+      "transliteration": "Erezd a ritmust, keresd a szavakat.",
+      "category": "Directions",
+      "generated_at": "2026-07-22T13:22:25.351453"
+    },
+    {
+      "english": "Connect the letters, build the word.",
+      "hungarian": "Kösd össze a betűket, építsd a szót.",
+      "transliteration": "Köd ossze a betuket, epitsd a szot.",
+      "category": "Directions",
+      "generated_at": "2026-07-22T13:22:25.351455"
+    },
+    {
+      "english": "Listen to the flow, join the conversation.",
+      "hungarian": "Figyeld az áramlást, csatlakozz a beszélgetéshez.",
+      "transliteration": "Figyeld az aramlàst, csatlakozozz a beszelgeteshez.",
+      "category": "Directions",
+      "generated_at": "2026-07-22T13:22:25.351457"
+    },
+    {
+      "english": "Think of the meaning, then pronounce.",
+      "hungarian": "Gondolj a jelentésre, majd ejtsd ki.",
+      "transliteration": "Gondolj a jelentese, majd ejtsd ki.",
+      "category": "Directions",
+      "generated_at": "2026-07-22T13:22:25.351458"
     }
   ],
-  "last_updated": "2026-07-22T01:56:28.820612"
+  "last_updated": "2026-07-22T13:22:25.351459"
 }
