@@ -6054,7 +6054,42 @@
       "transliteration": "Yoh tarshashag, yaviteeya a kaydaylt.",
       "category": "Health",
       "generated_at": "2026-07-23T16:17:27.333012"
+    },
+    {
+      "english": "New doors, opening now.",
+      "hungarian": "Új ajtók, nyílnak most.",
+      "transliteration": "Oo-yoy-took, nee-lun-ock most.",
+      "category": "Success",
+      "generated_at": "2026-07-23T18:58:14.366151"
+    },
+    {
+      "english": "Listen closely, the language sings.",
+      "hungarian": "Figyelj jól, a nyelv énekel.",
+      "transliteration": "Fee-yel yohl, uh nyelv ay-neh-kel.",
+      "category": "Success",
+      "generated_at": "2026-07-23T18:58:14.366160"
+    },
+    {
+      "english": "You're catching the accent, nicely.",
+      "hungarian": "Elkapod a hangsúlyt, ügyesen.",
+      "transliteration": "El-kap-od uh hong-shoo-y-t, oo-yeh-shen.",
+      "category": "Success",
+      "generated_at": "2026-07-23T18:58:14.366162"
+    },
+    {
+      "english": "This is your moment, shine bright.",
+      "hungarian": "Ez a te pillanata, ragyogjál.",
+      "transliteration": "Ez uh teh pill-an-uh-tuh, ruh-dohg-yal.",
+      "category": "Success",
+      "generated_at": "2026-07-23T18:58:14.366163"
+    },
+    {
+      "english": "The grammar clicks, finally.",
+      "hungarian": "A nyelvtan érthető, végre.",
+      "transliteration": "Uh nyelv-tan ayr-heh-tuh, vay-g-reh.",
+      "category": "Success",
+      "generated_at": "2026-07-23T18:58:14.366164"
     }
   ],
-  "last_updated": "2026-07-23T16:17:27.333014"
+  "last_updated": "2026-07-23T18:58:14.366166"
 }
