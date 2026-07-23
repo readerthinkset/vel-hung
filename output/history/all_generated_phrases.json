@@ -6019,7 +6019,42 @@
       "transliteration": "A moagyar bátorságom, erősödik.",
       "category": "Confidence",
       "generated_at": "2026-07-23T13:25:09.300977"
+    },
+    {
+      "english": "Sunshine, on your face, feels good.",
+      "hungarian": "Napfény, az arcodon, jó érzés.",
+      "transliteration": "Napfayny, az arcodon, yoh ayrzaysh.",
+      "category": "Health",
+      "generated_at": "2026-07-23T16:17:27.332998"
+    },
+    {
+      "english": "A quiet walk, clears the mind.",
+      "hungarian": "Csendes séta, tisztítja az elmét.",
+      "transliteration": "Chayndespay shayta, tisteeetya az aylmayt.",
+      "category": "Health",
+      "generated_at": "2026-07-23T16:17:27.333008"
+    },
+    {
+      "english": "Fresh air, fills your lungs.",
+      "hungarian": "Friss levegő, tölti a tüdőt.",
+      "transliteration": "Friss layvago, tildeeti a tudeut.",
+      "category": "Health",
+      "generated_at": "2026-07-23T16:17:27.333010"
+    },
+    {
+      "english": "Nature's sounds, soothe the soul.",
+      "hungarian": "Természet hangjai, megnyugtatják a lelket.",
+      "transliteration": "Tairzaytsayt hangyai, maygnyugtattyak a laylkayt.",
+      "category": "Health",
+      "generated_at": "2026-07-23T16:17:27.333011"
+    },
+    {
+      "english": "Good company, lifts your spirits.",
+      "hungarian": "Jó társaság, javítja a kedélyt.",
+      "transliteration": "Yoh tarshashag, yaviteeya a kaydaylt.",
+      "category": "Health",
+      "generated_at": "2026-07-23T16:17:27.333012"
     }
   ],
-  "last_updated": "2026-07-23T13:25:09.300978"
+  "last_updated": "2026-07-23T16:17:27.333014"
 }
