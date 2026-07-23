@@ -6089,7 +6089,42 @@
       "transliteration": "Uh nyelv-tan ayr-heh-tuh, vay-g-reh.",
       "category": "Success",
       "generated_at": "2026-07-23T18:58:14.366164"
+    },
+    {
+      "english": "A tiny mouse, scurries so fast.",
+      "hungarian": "Apró egér, szalad nagyon gyorsan.",
+      "transliteration": "Ah-poh eh-gehr, sah-lahd nah-gohn joar-shahn.",
+      "category": "Animals",
+      "generated_at": "2026-07-23T21:06:41.608763"
+    },
+    {
+      "english": "The curious fox, explored the woods.",
+      "hungarian": "Kíváncsi róka, felfedezte az erdőt.",
+      "transliteration": "Kee-vahnt-shee roh-kah,fehl-feh-dehz-teh ahz ehr-duhht.",
+      "category": "Animals",
+      "generated_at": "2026-07-23T21:06:41.608772"
+    },
+    {
+      "english": "An old tortoise, moves with great care.",
+      "hungarian": "Öreg teknős, nagy óvatossággal mozog.",
+      "transliteration": "Uh-reg tehkh-nuhsh, nahdj oh-vah-toh-shag-gahl moh-zohg.",
+      "category": "Animals",
+      "generated_at": "2026-07-23T21:06:41.608773"
+    },
+    {
+      "english": "The proud lion, ruled his domain.",
+      "hungarian": "Büszke oroszlán, uralkodott birodalmán.",
+      "transliteration": "Buez-keh oh-rohs-lahn, oo-rahl-koh-doht bee-roh-dahhl-mahn.",
+      "category": "Animals",
+      "generated_at": "2026-07-23T21:06:41.608775"
+    },
+    {
+      "english": "A striped zebra, grazed on the plain.",
+      "hungarian": "Csíkos zebra, legelt a síkságon.",
+      "transliteration": "Chee-kohsh zeh-brah, leh-gelt ah sheek-shah-gohn.",
+      "category": "Animals",
+      "generated_at": "2026-07-23T21:06:41.608776"
     }
   ],
-  "last_updated": "2026-07-23T18:58:14.366166"
+  "last_updated": "2026-07-23T21:06:41.608778"
 }
