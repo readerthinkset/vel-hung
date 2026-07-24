@@ -6194,7 +6194,42 @@
       "transliteration": "O szél, sutog.",
       "category": "Weather",
       "generated_at": "2026-07-24T07:20:31.886246"
+    },
+    {
+      "english": "My parents, their love, is endless.",
+      "hungarian": "Szüleim, szeretetük, határtalan.",
+      "transliteration": "Soo-laym, seh-reh-teh-ook, hot-ah-r-tol-on.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-24T13:18:17.043728"
+    },
+    {
+      "english": "My siblings, our adventures, unforgettable.",
+      "hungarian": "Testvéreim, kalandjaink, felejthetetlenek.",
+      "transliteration": "Tesht-vay-reem, kal-on-d-jain-k, feh-leh-yhet-et-le-nek.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-24T13:18:17.043742"
+    },
+    {
+      "english": "My grandparents, their stories, are treasures.",
+      "hungarian": "Nagyszüleim, meséik, kincsek.",
+      "transliteration": "Nog-soo-leh-yeem, meh-say-eek, kin-cheks.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-24T13:18:17.043744"
+    },
+    {
+      "english": "My aunt, her laughter, brightens the room.",
+      "hungarian": "Nagynéném, nevetése, beragyogja a szobát.",
+      "transliteration": "Nog-nay-nem, neh-veh-tay-sheh, beh-rod-yoh-gd-yah doh soh-bahn.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-24T13:18:17.043745"
+    },
+    {
+      "english": "My uncle, his jokes, always hit the mark.",
+      "hungarian": "Nagybátyám, poénjai, telitalálat.",
+      "transliteration": "Nog-bah-tyaam, poh-en-yie, teh-lee-tah-lah-tot.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-24T13:18:17.043746"
     }
   ],
-  "last_updated": "2026-07-24T07:20:31.886248"
+  "last_updated": "2026-07-24T13:18:17.043748"
 }
