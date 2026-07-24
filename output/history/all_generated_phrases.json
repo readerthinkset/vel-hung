@@ -6159,7 +6159,42 @@
       "transliteration": "FAY-nyesh LEHL-kek, RAH-yog TOH-vahb.",
       "category": "Happiness",
       "generated_at": "2026-07-24T01:59:32.286996"
+    },
+    {
+      "english": "The weather, is quite pleasant.",
+      "hungarian": "Az idő, kellemes. ",
+      "transliteration": "Oz idő, kellmes.",
+      "category": "Weather",
+      "generated_at": "2026-07-24T07:20:31.886234"
+    },
+    {
+      "english": "It feels, colder now.",
+      "hungarian": "Hűvösebb, van most. ",
+      "transliteration": "Hűvösebb, van most.",
+      "category": "Weather",
+      "generated_at": "2026-07-24T07:20:31.886242"
+    },
+    {
+      "english": "Look, it just cleared up!",
+      "hungarian": "Nézd, kitisztult! ",
+      "transliteration": "Nézd, kitisztult!",
+      "category": "Weather",
+      "generated_at": "2026-07-24T07:20:31.886244"
+    },
+    {
+      "english": "A light drizzle, is falling.",
+      "hungarian": "Szemerkél, az eső. ",
+      "transliteration": "Szemerkél, oz eső.",
+      "category": "Weather",
+      "generated_at": "2026-07-24T07:20:31.886245"
+    },
+    {
+      "english": "The wind, whispers secrets.",
+      "hungarian": "A szél, suttog. ",
+      "transliteration": "O szél, sutog.",
+      "category": "Weather",
+      "generated_at": "2026-07-24T07:20:31.886246"
     }
   ],
-  "last_updated": "2026-07-24T01:59:32.286997"
+  "last_updated": "2026-07-24T07:20:31.886248"
 }
