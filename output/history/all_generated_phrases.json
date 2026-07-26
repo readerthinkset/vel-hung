@@ -6509,7 +6509,42 @@
       "transliteration": "Ez a zeh-neh, nah-yohn meg-nyoo-gta-toh.",
       "category": "Basic Phrases",
       "generated_at": "2026-07-26T14:56:06.048182"
+    },
+    {
+      "english": "Village life awakens, with the rooster's crow.",
+      "hungarian": "Falusi ébredés, kakaskukorékolással.",
+      "transliteration": "Falusi eb-re-desh, ka-kash-ku-ko-re-kol-lash-shal.",
+      "category": "Culture",
+      "generated_at": "2026-07-26T17:59:10.740502"
+    },
+    {
+      "english": "Grandmother's recipes, a cherished secret.",
+      "hungarian": "Nagymama receptjei, becses titok.",
+      "transliteration": "Nag-yee-ma rets-ep-t-yei, be-chess tee-tok.",
+      "category": "Culture",
+      "generated_at": "2026-07-26T17:59:10.740512"
+    },
+    {
+      "english": "Wine cellar's cool air, a sweet promise.",
+      "hungarian": "Pince hűvös levegője, édes ígéret.",
+      "transliteration": "Pin-tseh hyoo-vosh le-ve-ge-ye, e-des ee-geh-ret.",
+      "category": "Culture",
+      "generated_at": "2026-07-26T17:59:10.740514"
+    },
+    {
+      "english": "Folklore's vibrant threads, woven into cloth.",
+      "hungarian": "Népdalok színes szála, vászonba szőve.",
+      "transliteration": "Nehp-dal-ok see-nesh sa-la, va-shon-ba se-ve.",
+      "category": "Culture",
+      "generated_at": "2026-07-26T17:59:10.740516"
+    },
+    {
+      "english": "Bathhouse steam, washes worries away.",
+      "hungarian": "Fürdőgőz, elmossa gondokat.",
+      "transliteration": "Feer-dee-geuz, el-mos-sha gon-do-kat.",
+      "category": "Culture",
+      "generated_at": "2026-07-26T17:59:10.740517"
     }
   ],
-  "last_updated": "2026-07-26T14:56:06.048184"
+  "last_updated": "2026-07-26T17:59:10.740519"
 }
