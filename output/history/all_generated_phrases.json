@@ -6649,7 +6649,42 @@
       "transliteration": "Vees-sah-ha-tom ezt, kay-shebb?",
       "category": "Shopping",
       "generated_at": "2026-07-27T14:11:46.849771"
+    },
+    {
+      "english": "Just one moment, then we'll begin.",
+      "hungarian": "Csak egy pillanat, utána kezdünk.",
+      "transliteration": "Chok edg pil-lo-not, oo-tah-no kedz-unk.",
+      "category": "Numbers",
+      "generated_at": "2026-07-28T21:10:31.557192"
+    },
+    {
+      "english": "Two paths, choose wisely.",
+      "hungarian": "Két út, válassz okosan.",
+      "transliteration": "Ket oot, vah-loss ok-o-shon.",
+      "category": "Numbers",
+      "generated_at": "2026-07-28T21:10:31.557204"
+    },
+    {
+      "english": "Three cheers, for success!",
+      "hungarian": "Három éljen, a sikerért!",
+      "transliteration": "Ha-rom el-yen, o sik-er-ert!",
+      "category": "Numbers",
+      "generated_at": "2026-07-28T21:10:31.557209"
+    },
+    {
+      "english": "Four wheels, moving forward.",
+      "hungarian": "Négy kerék, előre halad.",
+      "transliteration": "Nay ke-ray, e-loo-reh ha-lod.",
+      "category": "Numbers",
+      "generated_at": "2026-07-28T21:10:31.557211"
+    },
+    {
+      "english": "Five senses, fully awake.",
+      "hungarian": "Öt érzék, teljesen ébren.",
+      "transliteration": "Oyt er-zayk, tel-yesh-en ay-bren.",
+      "category": "Numbers",
+      "generated_at": "2026-07-28T21:10:31.557212"
     }
   ],
-  "last_updated": "2026-07-27T14:11:46.849773"
+  "last_updated": "2026-07-28T21:10:31.557214"
 }
