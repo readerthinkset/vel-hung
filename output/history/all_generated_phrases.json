@@ -6929,7 +6929,42 @@
       "transliteration": "Edge vibratas, az irritaciotol.",
       "category": "Feelings",
       "generated_at": "2026-07-30T13:27:55.077683"
+    },
+    {
+      "english": "Slowly, but surely.",
+      "hungarian": "Lassan, de biztosan.",
+      "transliteration": "lassan, de biztosan",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-30T15:45:29.069532"
+    },
+    {
+      "english": "What a, wonderful day!",
+      "hungarian": "Micsoda, csodás nap!",
+      "transliteration": "micsoda, csodás nap",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-30T15:45:29.069543"
+    },
+    {
+      "english": "Don't worry, be happy.",
+      "hungarian": "Ne aggódj, légy boldog.",
+      "transliteration": "ne aggódj, légy boldog",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-30T15:45:29.069545"
+    },
+    {
+      "english": "Every cloud, has a silver lining.",
+      "hungarian": "Minden felhő, mögött ott a nap.",
+      "transliteration": "minden felhő, mögött ott a nap",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-30T15:45:29.069546"
+    },
+    {
+      "english": "Let's make, the most of it.",
+      "hungarian": "Hozzuk ki, a legtöbbet belőle.",
+      "transliteration": "hozzuk ki, a legtöbbet belőle",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-30T15:45:29.069547"
     }
   ],
-  "last_updated": "2026-07-30T13:27:55.077684"
+  "last_updated": "2026-07-30T15:45:29.069550"
 }
