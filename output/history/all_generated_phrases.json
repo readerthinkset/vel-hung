@@ -7244,7 +7244,42 @@
       "transliteration": "Lel-kee tahsh, rah-tah-lahlt-ahm.",
       "category": "Relationships",
       "generated_at": "2026-08-01T02:06:28.315860"
+    },
+    {
+      "english": "The past whispers, softly.",
+      "hungarian": "A múlt súg, halkan.",
+      "transliteration": "Ah moolt shoog, hol-hon.",
+      "category": "Time",
+      "generated_at": "2026-08-01T12:57:28.289806"
+    },
+    {
+      "english": "This minute, matters.",
+      "hungarian": "Ez a perc, számít.",
+      "transliteration": "Ez ah pairts, sa-meet.",
+      "category": "Time",
+      "generated_at": "2026-08-01T12:57:28.289817"
+    },
+    {
+      "english": "A fleeting second, gone.",
+      "hungarian": "Egy szempillantás, elmúlt.",
+      "transliteration": "Edj sem-pil-lon-tash, el-moolt.",
+      "category": "Time",
+      "generated_at": "2026-08-01T12:57:28.289819"
+    },
+    {
+      "english": "When the moon rises, we talk.",
+      "hungarian": "Mikor a hold feljön, beszélünk.",
+      "transliteration": "Mi-kor ah hold fel-yön, be-say-lünk.",
+      "category": "Time",
+      "generated_at": "2026-08-01T12:57:28.289820"
+    },
+    {
+      "english": "The afternoon wanes, slowly.",
+      "hungarian": "A délután hanyatlik, lassan.",
+      "transliteration": "Ah day-loo-ton hon-yot-lik, losh-shon.",
+      "category": "Time",
+      "generated_at": "2026-08-01T12:57:28.289821"
     }
   ],
-  "last_updated": "2026-08-01T02:06:28.315862"
+  "last_updated": "2026-08-01T12:57:28.289823"
 }
