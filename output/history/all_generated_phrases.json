@@ -7279,7 +7279,42 @@
       "transliteration": "Ah day-loo-ton hon-yot-lik, losh-shon.",
       "category": "Time",
       "generated_at": "2026-08-01T12:57:28.289821"
+    },
+    {
+      "english": "This food, tastes wonderful.",
+      "hungarian": "Ez az étel, nagyon finom.",
+      "transliteration": "Ez az etel, nadj-on finom.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-01T14:52:54.470613"
+    },
+    {
+      "english": "May I have, some water?",
+      "hungarian": "Kérek, egy kis vizet.",
+      "transliteration": "Ker-ek, edj kish vizet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-01T14:52:54.470622"
+    },
+    {
+      "english": "It's getting, late now.",
+      "hungarian": "Késő, van már.",
+      "transliteration": "Kesh-oh, van mar.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-01T14:52:54.470625"
+    },
+    {
+      "english": "That's, a good idea.",
+      "hungarian": "Az, egy jó ötlet.",
+      "transliteration": "Az, edj yoh ötlet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-01T14:52:54.470626"
+    },
+    {
+      "english": "I need, some rest.",
+      "hungarian": "Szükségem, van pihenésre.",
+      "transliteration": "Süük-segem, van pihen-esh-re.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-01T14:52:54.470627"
     }
   ],
-  "last_updated": "2026-08-01T12:57:28.289823"
+  "last_updated": "2026-08-01T14:52:54.470629"
 }
