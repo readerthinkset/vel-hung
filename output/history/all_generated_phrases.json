@@ -7419,7 +7419,42 @@
       "transliteration": "Ez a kuh-zosh pil-luh-not, voh-rahzh-luh-tosh.",
       "category": "Gratitude",
       "generated_at": "2026-08-02T02:02:38.169507"
+    },
+    {
+      "english": "My phone, it died.",
+      "hungarian": "A telefonom, lemerült.",
+      "transliteration": "A tele-fo-nom, le-me-rult.",
+      "category": "Emergency",
+      "generated_at": "2026-08-02T14:55:07.938664"
+    },
+    {
+      "english": "I've lost, my way.",
+      "hungarian": "Eltévedtem, magam.",
+      "transliteration": "El-te-ved-tem, ma-gam.",
+      "category": "Emergency",
+      "generated_at": "2026-08-02T14:55:07.938674"
+    },
+    {
+      "english": "Someone, is unwell.",
+      "hungarian": "Valaki, rosszul van.",
+      "transliteration": "Val-a-ki, ross-zul van.",
+      "category": "Emergency",
+      "generated_at": "2026-08-02T14:55:07.938687"
+    },
+    {
+      "english": "My child, needs help.",
+      "hungarian": "A gyerekemnek, segítség kell.",
+      "transliteration": "A de-ye-rem-nek, se-gits-eg kell.",
+      "category": "Emergency",
+      "generated_at": "2026-08-02T14:55:07.938688"
+    },
+    {
+      "english": "I cannot breathe, freely.",
+      "hungarian": "Nem tudok, lélegezni.",
+      "transliteration": "Nem tu-dok, le-leg-e-zni.",
+      "category": "Emergency",
+      "generated_at": "2026-08-02T14:55:07.938689"
     }
   ],
-  "last_updated": "2026-08-02T02:02:38.169509"
+  "last_updated": "2026-08-02T14:55:07.938690"
 }
