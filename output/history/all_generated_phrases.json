@@ -7664,7 +7664,42 @@
       "transliteration": "Hagyd vi-rá-goz-ni a jó-ság-ot, min-den-hol.",
       "category": "Positive Life",
       "generated_at": "2026-08-03T18:47:08.091203"
+    },
+    {
+      "english": "A gentle strum, fills the air.",
+      "hungarian": "Finom pengetés, megtölti a levegőt.",
+      "transliteration": "Fee-nom pen-geh-tesh, meg-tol-tee ah leh-veh-luh.",
+      "category": "Music",
+      "generated_at": "2026-08-03T21:05:14.432998"
+    },
+    {
+      "english": "The piano sings, a sweet tune.",
+      "hungarian": "A zongora énekel, egy kedves dallamot.",
+      "transliteration": "Ah zon-go-rah eh-neh-kel, ehd ked-vesh dal-la-mot.",
+      "category": "Music",
+      "generated_at": "2026-08-03T21:05:14.433007"
+    },
+    {
+      "english": "Drum beat, strong and steady.",
+      "hungarian": "Dobütés, erős és egyenletes.",
+      "transliteration": "Dob-byoo-tesh, eh-rosh esh eh-dyen-leh-tesh.",
+      "category": "Music",
+      "generated_at": "2026-08-03T21:05:14.433009"
+    },
+    {
+      "english": "Violin weeps, a sad song.",
+      "hungarian": "Hegedű sír, egy szomorú dalt.",
+      "transliteration": "Heh-geh-doo sheer, ehd so-mo-roo dal-t.",
+      "category": "Music",
+      "generated_at": "2026-08-03T21:05:14.433010"
+    },
+    {
+      "english": "Guitar chords, resonate deeply.",
+      "hungarian": "Gitár akkordok, mélyen zengenek.",
+      "transliteration": "Ghee-tar ak-kor-dok, meh-yen zen-geh-nek.",
+      "category": "Music",
+      "generated_at": "2026-08-03T21:05:14.433012"
     }
   ],
-  "last_updated": "2026-08-03T18:47:08.091205"
+  "last_updated": "2026-08-03T21:05:14.433013"
 }
