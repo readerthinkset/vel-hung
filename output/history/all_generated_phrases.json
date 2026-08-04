@@ -7769,7 +7769,42 @@
       "transliteration": "Ooy hong-goh-kot, moh-gom-hoz uh-leh-lek.",
       "category": "Confidence",
       "generated_at": "2026-08-04T13:48:38.005517"
+    },
+    {
+      "english": "One small step, a giant leap.",
+      "hungarian": "Egy apró lépés, óriási ugrás.",
+      "transliteration": "Edj oh-proh lay-paysh, oh-ree-ah-shee ooh-grahsh.",
+      "category": "Numbers",
+      "generated_at": "2026-08-04T16:06:08.101329"
+    },
+    {
+      "english": "Two hands, helping out.",
+      "hungarian": "Két kéz, segítő szándékkal.",
+      "transliteration": "Kayt kayz, shay-gee-to SAA-dayk-kahl.",
+      "category": "Numbers",
+      "generated_at": "2026-08-04T16:06:08.101340"
+    },
+    {
+      "english": "Three cheers, for good luck.",
+      "hungarian": "Három éljen, jó szerencsére.",
+      "transliteration": "Hah-rohm AY-lyen, yoh SAY-ren-chay-ray.",
+      "category": "Numbers",
+      "generated_at": "2026-08-04T16:06:08.101341"
+    },
+    {
+      "english": "Four wheels, rolling along.",
+      "hungarian": "Négy kerék, gurul tovább.",
+      "transliteration": "Nayj KAY-rayk, goo-ROOL TOH-vahb.",
+      "category": "Numbers",
+      "generated_at": "2026-08-04T16:06:08.101343"
+    },
+    {
+      "english": "Five senses, truly alive.",
+      "hungarian": "Öt érzék, igazán eleven.",
+      "transliteration": "Oet AYR-zayk, EE-gah-zahn EH-leh-ven.",
+      "category": "Numbers",
+      "generated_at": "2026-08-04T16:06:08.101344"
     }
   ],
-  "last_updated": "2026-08-04T13:48:38.005518"
+  "last_updated": "2026-08-04T16:06:08.101346"
 }
