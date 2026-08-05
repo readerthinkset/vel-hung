@@ -7909,7 +7909,42 @@
       "transliteration": "Friss le-ve-gő, ne-künk.",
       "category": "Greetings",
       "generated_at": "2026-08-05T01:52:12.558003"
+    },
+    {
+      "english": "Earth's bounty, on the table.",
+      "hungarian": "Föld termése, az asztalon.",
+      "transliteration": "Fuld ter-mesh-eh, otz otz-toh-lon.",
+      "category": "Food",
+      "generated_at": "2026-08-05T13:43:44.878022"
+    },
+    {
+      "english": "Sunrise in a teacup.",
+      "hungarian": "Napkelte, egy csésze teában.",
+      "transliteration": "Nop-kel-teh, ehdj cheh-seh teh-ah-bon.",
+      "category": "Food",
+      "generated_at": "2026-08-05T13:43:44.878031"
+    },
+    {
+      "english": "Harvest's whisper, in a bite.",
+      "hungarian": "Aratás suttogása, egy falat.",
+      "transliteration": "Oh-roh-tosh shoo-toh-goh-shoh, ehdj fol-lot.",
+      "category": "Food",
+      "generated_at": "2026-08-05T13:43:44.878033"
+    },
+    {
+      "english": "Comfort food, feels like home.",
+      "hungarian": "Lelket melengető, otthon érzet.",
+      "transliteration": "Lel-ket mel-len-geh-tuh, ot-hon er-zet.",
+      "category": "Food",
+      "generated_at": "2026-08-05T13:43:44.878034"
+    },
+    {
+      "english": "A burst of sunshine, in dough.",
+      "hungarian": "Napsugár robbanás, tésztában.",
+      "transliteration": "Nop-shoo-gahr rob-boh-nosh, tesz-tah-bon.",
+      "category": "Food",
+      "generated_at": "2026-08-05T13:43:44.878035"
     }
   ],
-  "last_updated": "2026-08-05T01:52:12.558004"
+  "last_updated": "2026-08-05T13:43:44.878037"
 }
