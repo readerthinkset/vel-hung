@@ -8084,7 +8084,42 @@
       "transliteration": "Keyr-dez baa-tran, oot-baa-ee-ga-zee-taash.",
       "category": "Purpose",
       "generated_at": "2026-08-06T01:53:43.575306"
+    },
+    {
+      "english": "This is, quite interesting.",
+      "hungarian": "Ez, elég érdekes.",
+      "transliteration": "Ez, eleeg erdekes.",
+      "category": "Shopping",
+      "generated_at": "2026-08-06T13:42:51.144937"
+    },
+    {
+      "english": "A little, something for me.",
+      "hungarian": "Egy kis, magamnak való.",
+      "transliteration": "Egy kish, magamnak valo.",
+      "category": "Shopping",
+      "generated_at": "2026-08-06T13:42:51.144946"
+    },
+    {
+      "english": "I'll take this, one.",
+      "hungarian": "Ezt, elviszem.",
+      "transliteration": "Ezt, elviszem.",
+      "category": "Shopping",
+      "generated_at": "2026-08-06T13:42:51.144947"
+    },
+    {
+      "english": "Do you have, a different shade?",
+      "hungarian": "Van, más árnyalatban?",
+      "transliteration": "Van, mash arnyalatban?",
+      "category": "Shopping",
+      "generated_at": "2026-08-06T13:42:51.144948"
+    },
+    {
+      "english": "Just, browsing around.",
+      "hungarian": "Csak, nézelődöm.",
+      "transliteration": "Chak, nezellodom.",
+      "category": "Shopping",
+      "generated_at": "2026-08-06T13:42:51.144949"
     }
   ],
-  "last_updated": "2026-08-06T01:53:43.575307"
+  "last_updated": "2026-08-06T13:42:51.144950"
 }
