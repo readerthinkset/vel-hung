@@ -8224,7 +8224,42 @@
       "transliteration": "Edg oo-yee ahl-goh-rit-moosh, fay-luh-deek.",
       "category": "Technology",
       "generated_at": "2026-08-07T02:15:15.124865"
+    },
+    {
+      "english": "The lone wolf, howls at the moon.",
+      "hungarian": "A magányos farkas, az holdnak üvölt.",
+      "transliteration": "Ah ma-dnyo-lush fur-kash, ahz hold-nak uv-olt.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T14:44:23.845769"
+    },
+    {
+      "english": "A sly fox, hid its trail.",
+      "hungarian": "A ravasz róka, elrejtette nyomát.",
+      "transliteration": "Ah ra-vash ro-ka, el-reh-teh-teh nyoh-maht.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T14:44:23.845781"
+    },
+    {
+      "english": "The swift hare, dashed through the field.",
+      "hungarian": "A gyors nyúl, vágtatott a mezőn.",
+      "transliteration": "Ah gyor-sh nyool, vag-to-tot ah meh-zohn.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T14:44:23.845784"
+    },
+    {
+      "english": "A gentle deer, nibbled clover.",
+      "hungarian": "A szelíd őz, rágcsált lóherét.",
+      "transliteration": "Ah seh-leed ooz, rag-chalt lo-heh-rayt.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T14:44:23.845785"
+    },
+    {
+      "english": "The lumbering bear, sought honey.",
+      "hungarian": "A lomha medve, mézet keresett.",
+      "transliteration": "Ah lom-ha med-veh, may-zet keh-reh-shet.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T14:44:23.845786"
     }
   ],
-  "last_updated": "2026-08-07T02:15:15.124867"
+  "last_updated": "2026-08-07T14:44:23.845788"
 }
