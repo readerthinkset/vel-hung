@@ -8189,7 +8189,42 @@
       "transliteration": "A meg-éh-té-shed, méh-yül.",
       "category": "Strength",
       "generated_at": "2026-08-07T00:53:46.691835"
+    },
+    {
+      "english": "This chip, powers the future.",
+      "hungarian": "Ez a chip, jövőt hajt.",
+      "transliteration": "Ez a chip, jyuh-veh haht.",
+      "category": "Technology",
+      "generated_at": "2026-08-07T02:15:15.124852"
+    },
+    {
+      "english": "The data stream, flows smoothly.",
+      "hungarian": "Az adatfolyam, simán folyik.",
+      "transliteration": "Az ah-daht-foh-yahm, shee-mahn foh-yeek.",
+      "category": "Technology",
+      "generated_at": "2026-08-07T02:15:15.124861"
+    },
+    {
+      "english": "Virtual reality, feels so real.",
+      "hungarian": "Virtuális valóság, nagyon élethű.",
+      "transliteration": "Vir-too-ah-lish vah-loh-shahg, nah-jyon eh-leh-hyoo.",
+      "category": "Technology",
+      "generated_at": "2026-08-07T02:15:15.124863"
+    },
+    {
+      "english": "Programming languages, build worlds.",
+      "hungarian": "Programozási nyelvek, világokat építenek.",
+      "transliteration": "Proh-grah-moh-zah-shee nyehl-veh, vee-lah-goh-kaht eh-pee-tee-nehk.",
+      "category": "Technology",
+      "generated_at": "2026-08-07T02:15:15.124864"
+    },
+    {
+      "english": "A new algorithm, is evolving.",
+      "hungarian": "Egy új algoritmus, fejlődik.",
+      "transliteration": "Edg oo-yee ahl-goh-rit-moosh, fay-luh-deek.",
+      "category": "Technology",
+      "generated_at": "2026-08-07T02:15:15.124865"
     }
   ],
-  "last_updated": "2026-08-07T00:53:46.691837"
+  "last_updated": "2026-08-07T02:15:15.124867"
 }
