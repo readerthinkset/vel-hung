@@ -8469,7 +8469,42 @@
       "transliteration": "Küljd yoh kee-vaan-shaag-oh-kaat, kee-fay-lay.",
       "category": "Kindness",
       "generated_at": "2026-08-08T17:24:56.923904"
+    },
+    {
+      "english": "Find the soft sound, then say it.",
+      "hungarian": "Keresd meg a lágy hangot, mondd ki.",
+      "transliteration": "Ker-esd meg a laadj hang-got, mond-di ki.",
+      "category": "Directions",
+      "generated_at": "2026-08-08T20:32:03.001100"
+    },
+    {
+      "english": "Whisper the word, feel the vibration.",
+      "hungarian": "Súgd meg a szót, érezd a rezgést.",
+      "transliteration": "Shug-d meg a soot, er-esd a rez-gesht.",
+      "category": "Directions",
+      "generated_at": "2026-08-08T20:32:03.001111"
+    },
+    {
+      "english": "Open your mouth, let it out.",
+      "hungarian": "Nyisd ki a szádat, engedd ki.",
+      "transliteration": "Nishd ki a saa-dat, en-ged-d ki.",
+      "category": "Directions",
+      "generated_at": "2026-08-08T20:32:03.001113"
+    },
+    {
+      "english": "Taste the vowels, let them linger.",
+      "hungarian": "Ízleld meg a magánhangzókat, hagyd őket.",
+      "transliteration": "Eez-led meg a ma-gaan-hang-zo-kaht, ha-gjd oh-ket.",
+      "category": "Directions",
+      "generated_at": "2026-08-08T20:32:03.001115"
+    },
+    {
+      "english": "Picture the meaning, then utter it.",
+      "hungarian": "Képzeld el a jelentést, mondd ki.",
+      "transliteration": "Kep-zel el a ye-len-tesht, mond-di ki.",
+      "category": "Directions",
+      "generated_at": "2026-08-08T20:32:03.001117"
     }
   ],
-  "last_updated": "2026-08-08T17:24:56.923906"
+  "last_updated": "2026-08-08T20:32:03.001172"
 }
