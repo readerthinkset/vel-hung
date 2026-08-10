@@ -8714,7 +8714,42 @@
       "transliteration": "A felhők lassan sodródnak, a kéken át.",
       "category": "Nature",
       "generated_at": "2026-08-10T01:09:18.261770"
+    },
+    {
+      "english": "Sky, turns dramatic, with purple hues.",
+      "hungarian": "Az ég, drámai, lila árnyalatokkal.",
+      "transliteration": "Oz ég, drámai, lila árnyalotokkal.",
+      "category": "Weather",
+      "generated_at": "2026-08-10T14:49:34.817359"
+    },
+    {
+      "english": "Sun, peeking through, after the storm.",
+      "hungarian": "A nap, kikukkant, a vihar után.",
+      "transliteration": "A nap, kikuk-kánt, a vihar után.",
+      "category": "Weather",
+      "generated_at": "2026-08-10T14:49:34.817371"
+    },
+    {
+      "english": "Air, smells like petrichor, after rain.",
+      "hungarian": "A levegő, földszagú, eső után.",
+      "transliteration": "A levegő, földszagú, eső után.",
+      "category": "Weather",
+      "generated_at": "2026-08-10T14:49:34.817373"
+    },
+    {
+      "english": "Wind, rustles leaves, in the trees.",
+      "hungarian": "A szél, susog a lombok közt.",
+      "transliteration": "A szél, susog a lombok közt.",
+      "category": "Weather",
+      "generated_at": "2026-08-10T14:49:34.817374"
+    },
+    {
+      "english": "Clouds, like cotton balls, drift by.",
+      "hungarian": "Felhők, vattacsomók, elúsznak.",
+      "transliteration": "Felhők, vattacsomók, elúsznak.",
+      "category": "Weather",
+      "generated_at": "2026-08-10T14:49:34.817375"
     }
   ],
-  "last_updated": "2026-08-10T01:09:18.261772"
+  "last_updated": "2026-08-10T14:49:34.817377"
 }
