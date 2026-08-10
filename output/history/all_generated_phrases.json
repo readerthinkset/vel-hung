@@ -8784,7 +8784,42 @@
       "transliteration": "Keressuuk meg a megfelelo szeget.",
       "category": "Work",
       "generated_at": "2026-08-10T17:47:43.877289"
+    },
+    {
+      "english": "That harmony, it swells.",
+      "hungarian": "Az a harmónia, az árad.",
+      "transliteration": "Oz ah hah-moh-nee-ah, oz ah-rod.",
+      "category": "Music",
+      "generated_at": "2026-08-10T20:44:14.038034"
+    },
+    {
+      "english": "A sudden crescendo, wow!",
+      "hungarian": "Hirtelen erősödik, hűha!",
+      "transliteration": "Hirt-eh-len eh-rroh-shoh-deeek, hue-hah!",
+      "category": "Music",
+      "generated_at": "2026-08-10T20:44:14.038046"
+    },
+    {
+      "english": "The flute whispers, softly.",
+      "hungarian": "A fuvola súg, halkan.",
+      "transliteration": "Ah foo-voh-lah shoog, hal-kahn.",
+      "category": "Music",
+      "generated_at": "2026-08-10T20:44:14.038048"
+    },
+    {
+      "english": "This beat, it compels.",
+      "hungarian": "Ez a ritmus, ez kényszerít.",
+      "transliteration": "Ez ah rit-moosh, ez ken-tseer-reet.",
+      "category": "Music",
+      "generated_at": "2026-08-10T20:44:14.038049"
+    },
+    {
+      "english": "A low hum, vibrates.",
+      "hungarian": "Mély döngés, rezeg.",
+      "transliteration": "May duhng-gaysh, reh-zeg.",
+      "category": "Music",
+      "generated_at": "2026-08-10T20:44:14.038050"
     }
   ],
-  "last_updated": "2026-08-10T17:47:43.877290"
+  "last_updated": "2026-08-10T20:44:14.038052"
 }
