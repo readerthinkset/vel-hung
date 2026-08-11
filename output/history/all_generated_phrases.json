@@ -8819,7 +8819,42 @@
       "transliteration": "May duhng-gaysh, reh-zeg.",
       "category": "Music",
       "generated_at": "2026-08-10T20:44:14.038050"
+    },
+    {
+      "english": "Sun's shining, isn't it?",
+      "hungarian": "Süt a nap, igaz?",
+      "transliteration": "Soot ah nap, ee-rahz?",
+      "category": "Greetings",
+      "generated_at": "2026-08-11T01:08:38.426795"
+    },
+    {
+      "english": "A good moment, today.",
+      "hungarian": "Szép pillanat, ma.",
+      "transliteration": "Sehp pill-ah-naht, mah.",
+      "category": "Greetings",
+      "generated_at": "2026-08-11T01:08:38.426804"
+    },
+    {
+      "english": "Nice to see you, truly.",
+      "hungarian": "Örülök, hogy látlak, őszintén.",
+      "transliteration": "Öh-rloo-lek, hogy laht-lahk, öh-seen-tehn.",
+      "category": "Greetings",
+      "generated_at": "2026-08-11T01:08:38.426806"
+    },
+    {
+      "english": "Ready for some Hungarian?",
+      "hungarian": "Készen állsz magyarul?",
+      "transliteration": "Kay-sehn ahls mah-gah-rool?",
+      "category": "Greetings",
+      "generated_at": "2026-08-11T01:08:38.426807"
+    },
+    {
+      "english": "A fresh start, now.",
+      "hungarian": "Tiszta lap, most.",
+      "transliteration": "Tees-tah lahp, mosht.",
+      "category": "Greetings",
+      "generated_at": "2026-08-11T01:08:38.426808"
     }
   ],
-  "last_updated": "2026-08-10T20:44:14.038052"
+  "last_updated": "2026-08-11T01:08:38.426810"
 }
