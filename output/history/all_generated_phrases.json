@@ -9064,7 +9064,42 @@
       "transliteration": "Ah paynz-tar-cam, el-toont.",
       "category": "Emergency",
       "generated_at": "2026-08-12T12:44:54.054349"
+    },
+    {
+      "english": "Fancy a coffee, perhaps?",
+      "hungarian": "Kávéznál, esetleg?",
+      "transliteration": "Kah-vehz-al, esh-et-leg?",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-12T17:54:52.005072"
+    },
+    {
+      "english": "My treat, this time.",
+      "hungarian": "Ez most az én költségem.",
+      "transliteration": "Ez most az ehn kohl-tsay-gem.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-12T17:54:52.005082"
+    },
+    {
+      "english": "I'm feeling adventurous.",
+      "hungarian": "Kalandvágyónak érzem magam.",
+      "transliteration": "Kuh-lund-vah-doh-nuk eh-rzem muh-gum.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-12T17:54:52.005084"
+    },
+    {
+      "english": "Let's paint the town red.",
+      "hungarian": "Dübörögjön az éjszaka!",
+      "transliteration": "Doo-buh-rog-yun az aye-suh-kuh!",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-12T17:54:52.005085"
+    },
+    {
+      "english": "That's a clever idea.",
+      "hungarian": "Ez egy okos gondolat.",
+      "transliteration": "Ez edge oh-kosh gohn-doh-lut.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-12T17:54:52.005086"
     }
   ],
-  "last_updated": "2026-08-12T12:44:54.054353"
+  "last_updated": "2026-08-12T17:54:52.005088"
 }
