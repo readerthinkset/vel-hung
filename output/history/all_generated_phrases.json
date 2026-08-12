@@ -9029,7 +9029,42 @@
       "transliteration": "Bel-soh rah-dyo-gahsh, fay-nyeh-shen laht-seek.",
       "category": "Happiness",
       "generated_at": "2026-08-12T01:16:11.713907"
+    },
+    {
+      "english": "Danger near, very close.",
+      "hungarian": "Veszély közel, nagyon.",
+      "transliteration": "Veh-seh-yoh koh-zel, nah-jone.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T12:44:54.054334"
+    },
+    {
+      "english": "I cannot move, stuck here.",
+      "hungarian": "Nem tudok mozdulni, itt ragadtam.",
+      "transliteration": "Nem too-dohk mohz-doo-lee, eet rah-gad-tom.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T12:44:54.054346"
+    },
+    {
+      "english": "Sudden pain, cannot bear.",
+      "hungarian": "Hirtelen fáj, nem bírom.",
+      "transliteration": "Heer-teh-len fah-ee, nem bee-rom.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T12:44:54.054347"
+    },
+    {
+      "english": "Need to call, someone important.",
+      "hungarian": "Hívnom kell, valakit fontosat.",
+      "transliteration": "Heev-nom kell, vah-lah-keet fohn-toh-shat.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T12:44:54.054348"
+    },
+    {
+      "english": "My wallet, it is gone.",
+      "hungarian": "A pénztárcám, eltűnt.",
+      "transliteration": "Ah paynz-tar-cam, el-toont.",
+      "category": "Emergency",
+      "generated_at": "2026-08-12T12:44:54.054349"
     }
   ],
-  "last_updated": "2026-08-12T01:16:11.713908"
+  "last_updated": "2026-08-12T12:44:54.054353"
 }
