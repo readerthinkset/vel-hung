@@ -9239,7 +9239,42 @@
       "transliteration": "Ez a konnyedsag, meglepo.",
       "category": "Joy",
       "generated_at": "2026-08-13T17:54:35.384836"
+    },
+    {
+      "english": "The lazy lizard, suns on a rock.",
+      "hungarian": "A lusta gyík, a sziklán sütkérezik.",
+      "transliteration": "Ah LOOS-tah DJEEK, ah SIK-lahn SHOET-kay-reh-zeek.",
+      "category": "Animals",
+      "generated_at": "2026-08-13T20:45:53.971729"
+    },
+    {
+      "english": "A tiny ant, carries a crumb.",
+      "hungarian": "Egy apró hangya, morzsát cipel.",
+      "transliteration": "Edg AH-proh HAHN-dyah, MOR-zhaht TZIP-pel.",
+      "category": "Animals",
+      "generated_at": "2026-08-13T20:45:53.971742"
+    },
+    {
+      "english": "The sleepy sloth, hangs upside down.",
+      "hungarian": "A tespedt lajhár, fejjel lóg le.",
+      "transliteration": "Ah TES-pedt LAHY-har, FEY-yel LOAG leh.",
+      "category": "Animals",
+      "generated_at": "2026-08-13T20:45:53.971743"
+    },
+    {
+      "english": "A proud peacock, fans its tail.",
+      "hungarian": "Büszke páva, szétfeszíti farkát.",
+      "transliteration": "BOOS-keh PAH-vah, SAYT-fes-TEE-tee FAR-kaht.",
+      "category": "Animals",
+      "generated_at": "2026-08-13T20:45:53.971744"
+    },
+    {
+      "english": "The quick squirrel, hides a nut.",
+      "hungarian": "A fürge mókus, mogyorót rejt.",
+      "transliteration": "Ah FOOR-geh MO-koosh, MO-yo-ROAT reyt.",
+      "category": "Animals",
+      "generated_at": "2026-08-13T20:45:53.971745"
     }
   ],
-  "last_updated": "2026-08-13T17:54:35.384838"
+  "last_updated": "2026-08-13T20:45:53.971747"
 }
