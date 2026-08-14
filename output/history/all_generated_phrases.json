@@ -9414,7 +9414,42 @@
       "transliteration": "Fedezd fel az oromet, minden uj hangban.",
       "category": "Education",
       "generated_at": "2026-08-14T17:48:53.782109"
+    },
+    {
+      "english": "One apple, a sweet bite.",
+      "hungarian": "Egy alma, édes falat.",
+      "transliteration": "Edj al-ma, ed-esh fa-lot.",
+      "category": "Numbers",
+      "generated_at": "2026-08-14T20:33:48.379096"
+    },
+    {
+      "english": "Two cups, for morning coffee.",
+      "hungarian": "Két csésze, reggeli kávéra.",
+      "transliteration": "Kayt chay-seh, red-gel-lee ka-vay-ra.",
+      "category": "Numbers",
+      "generated_at": "2026-08-14T20:33:48.379112"
+    },
+    {
+      "english": "Three doors, which one next?",
+      "hungarian": "Három ajtó, melyiket tovább?",
+      "transliteration": "Ha-rom oy-to, may-ee-ket to-vahb?",
+      "category": "Numbers",
+      "generated_at": "2026-08-14T20:33:48.379115"
+    },
+    {
+      "english": "Four wheels, spinning fast.",
+      "hungarian": "Négy kerék, gyorsan forog.",
+      "transliteration": "Naydj keh-rayk, dyor-shon fo-rog.",
+      "category": "Numbers",
+      "generated_at": "2026-08-14T20:33:48.379117"
+    },
+    {
+      "english": "Five stars, shining bright.",
+      "hungarian": "Öt csillag, fényesen ragyog.",
+      "transliteration": "Oht chill-log, fay-neh-shen rod-yog.",
+      "category": "Numbers",
+      "generated_at": "2026-08-14T20:33:48.379119"
     }
   ],
-  "last_updated": "2026-08-14T17:48:53.782111"
+  "last_updated": "2026-08-14T20:33:48.379121"
 }
