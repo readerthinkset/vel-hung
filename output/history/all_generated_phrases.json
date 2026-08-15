@@ -9449,7 +9449,42 @@
       "transliteration": "Oht chill-log, fay-neh-shen rod-yog.",
       "category": "Numbers",
       "generated_at": "2026-08-14T20:33:48.379119"
+    },
+    {
+      "english": "Aha, that clicked!",
+      "hungarian": "Aha, ez most megvan!",
+      "transliteration": "Aha, ez most megvan!",
+      "category": "Success",
+      "generated_at": "2026-08-15T00:48:32.167432"
+    },
+    {
+      "english": "You're truly hearing it now.",
+      "hungarian": "Most igazán hallod.",
+      "transliteration": "Most igazán hallod.",
+      "category": "Success",
+      "generated_at": "2026-08-15T00:48:32.167442"
+    },
+    {
+      "english": "That Hungarian nuance, yes!",
+      "hungarian": "Az a magyar árnyalat, igen!",
+      "transliteration": "Az a magyar árnyalat, igen!",
+      "category": "Success",
+      "generated_at": "2026-08-15T00:48:32.167444"
+    },
+    {
+      "english": "Your mouth found the sound.",
+      "hungarian": "Megtaláltad a hangot.",
+      "transliteration": "Megtaláltad a hangot.",
+      "category": "Success",
+      "generated_at": "2026-08-15T00:48:32.167445"
+    },
+    {
+      "english": "Wonderful, you understood that.",
+      "hungarian": "Csodás, ezt értetted.",
+      "transliteration": "Csodás, ezt értetted.",
+      "category": "Success",
+      "generated_at": "2026-08-15T00:48:32.167446"
     }
   ],
-  "last_updated": "2026-08-14T20:33:48.379121"
+  "last_updated": "2026-08-15T00:48:32.167448"
 }
