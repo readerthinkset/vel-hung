@@ -9519,7 +9519,42 @@
       "transliteration": "A hétköznapiból, csodát csinálsz.",
       "category": "Love",
       "generated_at": "2026-08-15T12:18:34.033810"
+    },
+    {
+      "english": "The clock hands, spin fast.",
+      "hungarian": "Az óra mutatói, gyorsan forognak.",
+      "transliteration": "Oz ohr-ah moo-tah-toy, gyor-shahn for-o-gah-nahk.",
+      "category": "Time",
+      "generated_at": "2026-08-15T14:12:04.968886"
+    },
+    {
+      "english": "Morning light, appears.",
+      "hungarian": "Reggeli fény, feltűnik.",
+      "transliteration": "Reg-gel-ee fayn, fel-too-neek.",
+      "category": "Time",
+      "generated_at": "2026-08-15T14:12:04.968898"
+    },
+    {
+      "english": "An age passed, maybe.",
+      "hungarian": "Egy évezred telt, talán.",
+      "transliteration": "Edge ay-vez-red telt, tah-lahn.",
+      "category": "Time",
+      "generated_at": "2026-08-15T14:12:04.968900"
+    },
+    {
+      "english": "The afternoon, grows warm.",
+      "hungarian": "A délután, melegszik.",
+      "transliteration": "Ah day-loo-tahn, me-leg-seek.",
+      "category": "Time",
+      "generated_at": "2026-08-15T14:12:04.968902"
+    },
+    {
+      "english": "We meet then, yes?",
+      "hungarian": "Akkor találkozunk, igen?",
+      "transliteration": "Ahk-kor tah-lah-kuh-zoongk, ee-gen?",
+      "category": "Time",
+      "generated_at": "2026-08-15T14:12:04.968903"
     }
   ],
-  "last_updated": "2026-08-15T12:18:34.033812"
+  "last_updated": "2026-08-15T14:12:04.968905"
 }
