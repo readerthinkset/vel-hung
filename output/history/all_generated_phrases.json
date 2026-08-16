@@ -9729,7 +9729,42 @@
       "transliteration": "Hova tűnt, a gombom?",
       "category": "Clothes",
       "generated_at": "2026-08-16T14:12:12.117082"
+    },
+    {
+      "english": "Agility, grace, the dance begins.",
+      "hungarian": "Fürgeség, kecsesség, kezdődik a tánc.",
+      "transliteration": "Fur-geh-sheg, keh-chesh-sheg, kehzd-uh-deek ah taants.",
+      "category": "Sports",
+      "generated_at": "2026-08-16T17:16:04.748230"
+    },
+    {
+      "english": "The net awaits, strike true.",
+      "hungarian": "A háló vár, üss pontosan.",
+      "transliteration": "Ah hah-loh vaar, uhsh pohnt-oh-shahn.",
+      "category": "Sports",
+      "generated_at": "2026-08-16T17:16:04.748241"
+    },
+    {
+      "english": "Push the limits, beyond expectation.",
+      "hungarian": "Feszegesd a határokat, túl a várakozáson.",
+      "transliteration": "Fes-zeh-gheshd ah hah-tah-roh-kaht, tuhl ah vaa-rah-koh-zaa-shon.",
+      "category": "Sports",
+      "generated_at": "2026-08-16T17:16:04.748243"
+    },
+    {
+      "english": "A quick pivot, changing direction.",
+      "hungarian": "Gyors forgás, irányváltás.",
+      "transliteration": "D'yorsh for-gaash, ee-raan-vaalt-aash.",
+      "category": "Sports",
+      "generated_at": "2026-08-16T17:16:04.748244"
+    },
+    {
+      "english": "The crowd erupts, a moment of magic.",
+      "hungarian": "A közönség kitör, varázslatos pillanat.",
+      "transliteration": "Ah kuh-zuhn-sheg kee-tur, va-raazh-lah-tosh peel-lah-naht.",
+      "category": "Sports",
+      "generated_at": "2026-08-16T17:16:04.748245"
     }
   ],
-  "last_updated": "2026-08-16T14:12:12.117084"
+  "last_updated": "2026-08-16T17:16:04.748246"
 }
