@@ -9694,7 +9694,42 @@
       "transliteration": "Tanulas orome, oley.",
       "category": "Greetings",
       "generated_at": "2026-08-16T12:19:43.427799"
+    },
+    {
+      "english": "This jacket, is wonderfully warm.",
+      "hungarian": "Ez a dzseki, csodásan meleg.",
+      "transliteration": "Ez a dzseki, csodásan meleg.",
+      "category": "Clothes",
+      "generated_at": "2026-08-16T14:12:12.117071"
+    },
+    {
+      "english": "Could I try, this on please?",
+      "hungarian": "Felpróbálhatnám, ezt kérem?",
+      "transliteration": "Felpróbálhatnám, ezt kérem?",
+      "category": "Clothes",
+      "generated_at": "2026-08-16T14:12:12.117078"
+    },
+    {
+      "english": "These shoes, feel a bit tight.",
+      "hungarian": "Ez a cipő, kicsit szoros.",
+      "transliteration": "Ez a cipő, kicsit szoros.",
+      "category": "Clothes",
+      "generated_at": "2026-08-16T14:12:12.117080"
+    },
+    {
+      "english": "I love, this bright color.",
+      "hungarian": "Imádom, ezt az élénk színt.",
+      "transliteration": "Imádom, ezt az élénk színt.",
+      "category": "Clothes",
+      "generated_at": "2026-08-16T14:12:12.117081"
+    },
+    {
+      "english": "Where did, my button go?",
+      "hungarian": "Hova tűnt, a gombom?",
+      "transliteration": "Hova tűnt, a gombom?",
+      "category": "Clothes",
+      "generated_at": "2026-08-16T14:12:12.117082"
     }
   ],
-  "last_updated": "2026-08-16T12:19:43.427801"
+  "last_updated": "2026-08-16T14:12:12.117084"
 }
