@@ -9624,7 +9624,42 @@
       "transliteration": "Még az árnyékoknak, is van széle.",
       "category": "Hope",
       "generated_at": "2026-08-15T20:24:08.247202"
+    },
+    {
+      "english": "Hear the chime, shape the sound.",
+      "hungarian": "Hallgasd a csengést, formázd a hangot.",
+      "transliteration": "Hal-gassd a csen-gesht, for-maazhd a hang-got.",
+      "category": "Directions",
+      "generated_at": "2026-08-16T00:52:06.214981"
+    },
+    {
+      "english": "Pause here, then move on.",
+      "hungarian": "Állj meg itt, majd menj tovább.",
+      "transliteration": "Aal-ly meg itt, maajd men-dy to-vaab.",
+      "category": "Directions",
+      "generated_at": "2026-08-16T00:52:06.215001"
+    },
+    {
+      "english": "Let the feeling guide you.",
+      "hungarian": "Hagyd, hogy az érzés vezessen.",
+      "transliteration": "Hag-yad, hog-y az er-zesh ve-ze-ssen.",
+      "category": "Directions",
+      "generated_at": "2026-08-16T00:52:06.215003"
+    },
+    {
+      "english": "Feel the air, release the word.",
+      "hungarian": "Érezd a levegőt, engedd el a szót.",
+      "transliteration": "Er-zed a le-ve-goh, en-gedd el a soht.",
+      "category": "Directions",
+      "generated_at": "2026-08-16T00:52:06.215005"
+    },
+    {
+      "english": "Imagine the silence, then speak.",
+      "hungarian": "Képzeld el a csendet, aztán szólj.",
+      "transliteration": "Kep-zeld el a csen-det, aaz-taan sohl-y.",
+      "category": "Directions",
+      "generated_at": "2026-08-16T00:52:06.215009"
     }
   ],
-  "last_updated": "2026-08-15T20:24:08.247203"
+  "last_updated": "2026-08-16T00:52:06.215011"
 }
