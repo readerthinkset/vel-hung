@@ -9659,7 +9659,42 @@
       "transliteration": "Kep-zeld el a csen-det, aaz-taan sohl-y.",
       "category": "Directions",
       "generated_at": "2026-08-16T00:52:06.215009"
+    },
+    {
+      "english": "A new day, begins.",
+      "hungarian": "Új nap, kezdődik.",
+      "transliteration": "Uj nap, kedzodick.",
+      "category": "Greetings",
+      "generated_at": "2026-08-16T12:19:43.427784"
+    },
+    {
+      "english": "Good spirit, find you.",
+      "hungarian": "Jó szellem, találjon.",
+      "transliteration": "Yo szellem, talaljon.",
+      "category": "Greetings",
+      "generated_at": "2026-08-16T12:19:43.427795"
+    },
+    {
+      "english": "Curiosity, guide you.",
+      "hungarian": "Kíváncsiság, vezessen.",
+      "transliteration": "Kivancsisag, vezessen.",
+      "category": "Greetings",
+      "generated_at": "2026-08-16T12:19:43.427797"
+    },
+    {
+      "english": "Bright thoughts, bloom.",
+      "hungarian": "Fényes gondolatok, virágoznak.",
+      "transliteration": "Feyes gondolatok, viragoznak.",
+      "category": "Greetings",
+      "generated_at": "2026-08-16T12:19:43.427798"
+    },
+    {
+      "english": "Learning’s joy, embrace.",
+      "hungarian": "Tanulás öröme, ölelj.",
+      "transliteration": "Tanulas orome, oley.",
+      "category": "Greetings",
+      "generated_at": "2026-08-16T12:19:43.427799"
     }
   ],
-  "last_updated": "2026-08-16T00:52:06.215011"
+  "last_updated": "2026-08-16T12:19:43.427801"
 }
