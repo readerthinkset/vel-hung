@@ -9799,7 +9799,42 @@
       "transliteration": "Yuh-vuh-tehr-veh-k, mah-ee lay-paysh.",
       "category": "Finance",
       "generated_at": "2026-08-16T20:24:47.521855"
+    },
+    {
+      "english": "This looks, quite chic.",
+      "hungarian": "Ez, nagyon elegáns.",
+      "transliteration": "Ez, na-gyon e-le-gáns.",
+      "category": "Shopping",
+      "generated_at": "2026-08-17T00:48:57.311368"
+    },
+    {
+      "english": "Do you have, something similar?",
+      "hungarian": "Van, valami hasonló?",
+      "transliteration": "Van, va-la-mi ha-son-ló?",
+      "category": "Shopping",
+      "generated_at": "2026-08-17T00:48:57.311378"
+    },
+    {
+      "english": "I need this, urgently.",
+      "hungarian": "Sürgősen kell, ez.",
+      "transliteration": "Sür-gő-sen kell, ez.",
+      "category": "Shopping",
+      "generated_at": "2026-08-17T00:48:57.311380"
+    },
+    {
+      "english": "Could I try, this on?",
+      "hungarian": "Felpróbálhatom, ezt?",
+      "transliteration": "Fel-pró-bál-ha-tom, ezt?",
+      "category": "Shopping",
+      "generated_at": "2026-08-17T00:48:57.311381"
+    },
+    {
+      "english": "It's a bit, too small.",
+      "hungarian": "Ez, egy kicsit kicsi.",
+      "transliteration": "Ez, egy ki-csit ki-csi.",
+      "category": "Shopping",
+      "generated_at": "2026-08-17T00:48:57.311382"
     }
   ],
-  "last_updated": "2026-08-16T20:24:47.521857"
+  "last_updated": "2026-08-17T00:48:57.311384"
 }
