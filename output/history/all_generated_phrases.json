@@ -9834,7 +9834,42 @@
       "transliteration": "Ez, egy ki-csit ki-csi.",
       "category": "Shopping",
       "generated_at": "2026-08-17T00:48:57.311382"
+    },
+    {
+      "english": "Danube's gentle flow, nation's heart.",
+      "hungarian": "Duna lágy hömpölye, nemzet szíve.",
+      "transliteration": "DOO-nah LAHJ-dyoo-hump-oh-lyeh, NEM-zeht SEE-veh.",
+      "category": "Culture",
+      "generated_at": "2026-08-17T12:24:15.917338"
+    },
+    {
+      "english": "Goulash simmers, stories brew.",
+      "hungarian": "Gulyás rotyog, mesék forrnak.",
+      "transliteration": "GOO-lyahsh ROT-yog, MEH-shayk FORR-nahk.",
+      "category": "Culture",
+      "generated_at": "2026-08-17T12:24:15.917349"
+    },
+    {
+      "english": "Puszta wind sings, wild and free.",
+      "hungarian": "Puszta szél dalol, vadon szabad.",
+      "transliteration": "POOS-tah SAYL DAH-lol, VAH-don SAH-bahd.",
+      "category": "Culture",
+      "generated_at": "2026-08-17T12:24:15.917351"
+    },
+    {
+      "english": "Thermal springs, soul's rebirth.",
+      "hungarian": "Gyógyforrások, lélek újjászületése.",
+      "transliteration": "DYOHJ-for-rawsh-ok, LAY-lehk OO-yah-SOO-leh-tay-sheh.",
+      "category": "Culture",
+      "generated_at": "2026-08-17T12:24:15.917352"
+    },
+    {
+      "english": "Vineyard's sun-kissed grapes, liquid gold.",
+      "hungarian": "Szőlőhegy napköre, arany cseppek.",
+      "transliteration": "SOH-loh-hedj NAP-koh-reh, AH-rahn-dy CHOP-pehk.",
+      "category": "Culture",
+      "generated_at": "2026-08-17T12:24:15.917353"
     }
   ],
-  "last_updated": "2026-08-17T00:48:57.311384"
+  "last_updated": "2026-08-17T12:24:15.917355"
 }
