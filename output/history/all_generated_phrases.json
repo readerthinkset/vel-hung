@@ -10254,7 +10254,42 @@
       "transliteration": "A voraččoš muvšešete, tökeletėšitve.",
       "category": "Patience",
       "generated_at": "2026-08-19T14:22:09.416573"
+    },
+    {
+      "english": "The screen, glows softly.",
+      "hungarian": "A képernyő, lágyan világít.",
+      "transliteration": "Ah kay-pair-nyoh, laa-djee-yoh vee-laa-git.",
+      "category": "Technology",
+      "generated_at": "2026-08-19T17:22:17.639481"
+    },
+    {
+      "english": "This circuit, is complex.",
+      "hungarian": "Ez az áramkör, bonyolult.",
+      "transliteration": "Ez az ah-raam-kohr, boh-nyoh-loot.",
+      "category": "Technology",
+      "generated_at": "2026-08-19T17:22:17.639490"
+    },
+    {
+      "english": "My data, is safe here.",
+      "hungarian": "Az adataim, itt biztonságban vannak.",
+      "transliteration": "Az ah-dah-ta-im, eet beet-bahn-shaag-bahn vahn-nahk.",
+      "category": "Technology",
+      "generated_at": "2026-08-19T17:22:17.639492"
+    },
+    {
+      "english": "A new signal, arrived.",
+      "hungarian": "Egy új jel, érkezett.",
+      "transliteration": "Edge oo-y jel, ayr-keh-zet.",
+      "category": "Technology",
+      "generated_at": "2026-08-19T17:22:17.639493"
+    },
+    {
+      "english": "The processor, is working hard.",
+      "hungarian": "A processzor, keményen dolgozik.",
+      "transliteration": "Ah proh-tses-sohr, keh-mayn-yen dohl-goh-zeek.",
+      "category": "Technology",
+      "generated_at": "2026-08-19T17:22:17.639494"
     }
   ],
-  "last_updated": "2026-08-19T14:22:09.416574"
+  "last_updated": "2026-08-19T17:22:17.639496"
 }
