@@ -10464,7 +10464,42 @@
       "transliteration": "Ah nyel-v, kee-bon-tah-koh-zick.",
       "category": "Education",
       "generated_at": "2026-08-20T17:23:57.777737"
+    },
+    {
+      "english": "A subtle sound, then louder.",
+      "hungarian": "Egy halk hang, aztán erősebb.",
+      "transliteration": "Edj halk hon-d, ot-ton er-sh-seb.",
+      "category": "Music",
+      "generated_at": "2026-08-20T20:30:39.509756"
+    },
+    {
+      "english": "The cello sighs, so deeply.",
+      "hungarian": "A cselló sóhajt, mélyen.",
+      "transliteration": "Ah chel-loh sho-hyt, me-yehn.",
+      "category": "Music",
+      "generated_at": "2026-08-20T20:30:39.509766"
+    },
+    {
+      "english": "Hear that quick flutter?",
+      "hungarian": "Hallod azt a gyors rebbenést?",
+      "transliteration": "Hol-lod ot ah dyorsh reb-beh-nesht?",
+      "category": "Music",
+      "generated_at": "2026-08-20T20:30:39.509768"
+    },
+    {
+      "english": "A sudden echo, then gone.",
+      "hungarian": "Hirtelen visszhang, aztán eltűnik.",
+      "transliteration": "Hirt-teh-len vish-hong, ot-ton elt-tew-neek.",
+      "category": "Music",
+      "generated_at": "2026-08-20T20:30:39.509770"
+    },
+    {
+      "english": "This quiet passage, so calm.",
+      "hungarian": "Ez a csendes rész, nagyon nyugodt.",
+      "transliteration": "Ez ah chen-desh rayss, nod-yohn nyoo-godt.",
+      "category": "Music",
+      "generated_at": "2026-08-20T20:30:39.509771"
     }
   ],
-  "last_updated": "2026-08-20T17:23:57.777740"
+  "last_updated": "2026-08-20T20:30:39.509773"
 }
