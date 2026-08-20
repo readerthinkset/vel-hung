@@ -10359,7 +10359,42 @@
       "transliteration": "Bay-kesh hohj-nuhl, vahr raa-tohk.",
       "category": "Holidays",
       "generated_at": "2026-08-20T00:47:40.811874"
+    },
+    {
+      "english": "This phrase, I've got it.",
+      "hungarian": "Ez a mondat, megvan nekem.",
+      "transliteration": "Ez a mondat, megvan nekem.",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T12:27:13.317652"
+    },
+    {
+      "english": "My ear, hears the melody.",
+      "hungarian": "A fülem, hallja a dallamot.",
+      "transliteration": "A fülem, hallja a dallamot.",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T12:27:13.317669"
+    },
+    {
+      "english": "One more word, learned today.",
+      "hungarian": "Még egy szó, tanultam ma.",
+      "transliteration": "Még egy szó, tanultam ma.",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T12:27:13.317671"
+    },
+    {
+      "english": "The sentence, forms itself.",
+      "hungarian": "A mondat, magától alakul.",
+      "transliteration": "A mondat, magától alakul.",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T12:27:13.317672"
+    },
+    {
+      "english": "My accent, finds its groove.",
+      "hungarian": "Az akcentusom, megtalálja a ritmusát.",
+      "transliteration": "Az akcentusom, megtalálja a ritmusát.",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T12:27:13.317673"
     }
   ],
-  "last_updated": "2026-08-20T00:47:40.811876"
+  "last_updated": "2026-08-20T12:27:13.317675"
 }
