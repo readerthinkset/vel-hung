@@ -10534,7 +10534,42 @@
       "transliteration": "Fog-ad el a ki-ey-zhest, eh-rezd az aa-raam-laash-t.",
       "category": "Purpose",
       "generated_at": "2026-08-21T00:52:56.242155"
+    },
+    {
+      "english": "You're my favorite person, to talk to.",
+      "hungarian": "Te vagy, a kedvenc emberem, akivel beszélgetni.",
+      "transliteration": "Teh vawsh, ah kedv-ench em-ber-em, ah-veel bes-zel-get-ni.",
+      "category": "Relationships",
+      "generated_at": "2026-08-21T12:26:31.500811"
+    },
+    {
+      "english": "We make a good team, don't we?",
+      "hungarian": "Jó csapat vagyunk, nem igaz?",
+      "transliteration": "Yoh cha-paht vaw-jook, nem ee-gawz?",
+      "category": "Relationships",
+      "generated_at": "2026-08-21T12:26:31.500821"
+    },
+    {
+      "english": "Sharing secrets, with you is easy.",
+      "hungarian": "Titkokat megosztani, veled könnyű.",
+      "transliteration": "Tit-koh-kaht meg-osh-tah-ni, veh-led kwen-yoo.",
+      "category": "Relationships",
+      "generated_at": "2026-08-21T12:26:31.500823"
+    },
+    {
+      "english": "You always know, what to say.",
+      "hungarian": "Mindig tudod, mit kell mondani.",
+      "transliteration": "Meend-eeg too-doht, mit kell mon-dah-ni.",
+      "category": "Relationships",
+      "generated_at": "2026-08-21T12:26:31.500824"
+    },
+    {
+      "english": "My partner, in every adventure.",
+      "hungarian": "A társam, minden kalandban.",
+      "transliteration": "Ah tar-sham, meen-den kah-lahn-bahn.",
+      "category": "Relationships",
+      "generated_at": "2026-08-21T12:26:31.500825"
     }
   ],
-  "last_updated": "2026-08-21T00:52:56.242156"
+  "last_updated": "2026-08-21T12:26:31.500827"
 }
