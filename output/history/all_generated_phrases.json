@@ -10604,7 +10604,42 @@
       "transliteration": "Le-leg-zedj, me-lyen, a pertz.",
       "category": "Greetings",
       "generated_at": "2026-08-21T14:23:22.949605"
+    },
+    {
+      "english": "My heart, feels open.",
+      "hungarian": "A szívem, nyitott.",
+      "transliteration": "uh see-vem, nee-oht",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-21T20:27:51.690973"
+    },
+    {
+      "english": "Let's breathe, deeply.",
+      "hungarian": "Levegőzzünk, mélyen.",
+      "transliteration": "leh-veg-oh-zoo-nk, may-yen",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-21T20:27:51.690982"
+    },
+    {
+      "english": "Kindness, leads us now.",
+      "hungarian": "A kedvesség, vezet most.",
+      "transliteration": "uh ked-vesh-shayg, vez-et moht",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-21T20:27:51.690984"
+    },
+    {
+      "english": "All is well, truly.",
+      "hungarian": "Minden rendben, tényleg.",
+      "transliteration": "mind-en rend-ben, tayg-len-k",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-21T20:27:51.690985"
+    },
+    {
+      "english": "We can share, this.",
+      "hungarian": "Megoszthatjuk, ezt.",
+      "transliteration": "meg-ohsh-hat-yook, esht",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-21T20:27:51.690986"
     }
   ],
-  "last_updated": "2026-08-21T14:23:22.949607"
+  "last_updated": "2026-08-21T20:27:51.690988"
 }
