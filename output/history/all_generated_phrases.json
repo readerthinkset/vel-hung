@@ -10919,7 +10919,42 @@
       "transliteration": "Esőcseppek, kopognak a tetőn.",
       "category": "Weather",
       "generated_at": "2026-08-23T14:13:06.415552"
+    },
+    {
+      "english": "Gentle light, warms your face.",
+      "hungarian": "Lágy fény, melegíti arcodat.",
+      "transliteration": "Laa-dy feh-ny, meh-leh-gih-tih ar-co-dat.",
+      "category": "Health",
+      "generated_at": "2026-08-23T17:16:56.276881"
+    },
+    {
+      "english": "Sip cool water, refreshing.",
+      "hungarian": "Igyál hűvös vizet, frissítő.",
+      "transliteration": "Ih-gyaal h(u)u-vohsh vih-zeht, frish-shih-t(u)u.",
+      "category": "Health",
+      "generated_at": "2026-08-23T17:16:56.276892"
+    },
+    {
+      "english": "Quiet moments, bring peace.",
+      "hungarian": "Csendes pillanatok, békét hoznak.",
+      "transliteration": "Cheh-ndes pihl-la-na-tohk, beh-keh-t hoh-znak.",
+      "category": "Health",
+      "generated_at": "2026-08-23T17:16:56.276894"
+    },
+    {
+      "english": "Soft music, calms the mind.",
+      "hungarian": "Lágy zene, nyugtatja az elmét.",
+      "transliteration": "Laa-dy zeh-ne, nyuhg-ya-tya ahz ehl-meh-t.",
+      "category": "Health",
+      "generated_at": "2026-08-23T17:16:56.276895"
+    },
+    {
+      "english": "Feel the ground, beneath your feet.",
+      "hungarian": "Érezd a földet, lábad alatt.",
+      "transliteration": "Eh-rehz-d ah feh-lohd-eht, laa-baht ah-laht.",
+      "category": "Health",
+      "generated_at": "2026-08-23T17:16:56.276897"
     }
   ],
-  "last_updated": "2026-08-23T14:13:06.415554"
+  "last_updated": "2026-08-23T17:16:56.276899"
 }
