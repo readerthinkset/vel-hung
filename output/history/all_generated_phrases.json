@@ -10884,7 +10884,42 @@
       "transliteration": "U-ta-noz-d a hon-geen-t, neesh-d meg a je-len-tesht.",
       "category": "Directions",
       "generated_at": "2026-08-23T12:20:07.706440"
+    },
+    {
+      "english": "Morning mist, lifts slowly.",
+      "hungarian": "Hajnali pára, lassan száll fel.",
+      "transliteration": "Hajnali paara, lassan saal fel.",
+      "category": "Weather",
+      "generated_at": "2026-08-23T14:13:06.415533"
+    },
+    {
+      "english": "Sunbeams, paint the hills.",
+      "hungarian": "Napsugarak, festik a dombokat.",
+      "transliteration": "Napsugaraak, festik a dombokat.",
+      "category": "Weather",
+      "generated_at": "2026-08-23T14:13:06.415547"
+    },
+    {
+      "english": "Sky, turns a bruised purple.",
+      "hungarian": "Az ég, kékeslila lesz.",
+      "transliteration": "Az ég, kékeslila lesz.",
+      "category": "Weather",
+      "generated_at": "2026-08-23T14:13:06.415550"
+    },
+    {
+      "english": "A sudden chill, bites the air.",
+      "hungarian": "Hirtelen hideg, harapja a levegőt.",
+      "transliteration": "Hirtelen hideg, harapja a levegőt.",
+      "category": "Weather",
+      "generated_at": "2026-08-23T14:13:06.415551"
+    },
+    {
+      "english": "Raindrops, tap the roof.",
+      "hungarian": "Esőcseppek, kopognak a tetőn.",
+      "transliteration": "Esőcseppek, kopognak a tetőn.",
+      "category": "Weather",
+      "generated_at": "2026-08-23T14:13:06.415552"
     }
   ],
-  "last_updated": "2026-08-23T12:20:07.706442"
+  "last_updated": "2026-08-23T14:13:06.415554"
 }
