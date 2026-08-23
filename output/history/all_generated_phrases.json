@@ -10849,7 +10849,42 @@
       "transliteration": "A te időd, most van.",
       "category": "Time",
       "generated_at": "2026-08-23T00:53:29.403514"
+    },
+    {
+      "english": "Let the melody guide you.",
+      "hungarian": "Hagyd, hogy vezessen a dallam.",
+      "transliteration": "Hog-y, hog-y ve-ze-ssen a dal-lam.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T12:20:07.706427"
+    },
+    {
+      "english": "Whisper the root, feel its power.",
+      "hungarian": "Súgd a gyökeret, érezd erejét.",
+      "transliteration": "Shug-d a gyo-ke-ret, e-re-je-t.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T12:20:07.706436"
+    },
+    {
+      "english": "Breathe in the sound, exhale clearly.",
+      "hungarian": "Lélegezd be a hangot, fújd ki tisztán.",
+      "transliteration": "Le-le-gzed be a hon-got, foo-yd ki tisz-tahn.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T12:20:07.706438"
+    },
+    {
+      "english": "Trace the shape, speak the syllable.",
+      "hungarian": "Rajzold le a formát, mondd a szótagot.",
+      "transliteration": "Roy-zold le a for-maht, mond-d a so-tag-got.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T12:20:07.706439"
+    },
+    {
+      "english": "Mimic the tone, unlock the meaning.",
+      "hungarian": "Utánozd a hangszínt, nyisd meg a jelentést.",
+      "transliteration": "U-ta-noz-d a hon-geen-t, neesh-d meg a je-len-tesht.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T12:20:07.706440"
     }
   ],
-  "last_updated": "2026-08-23T00:53:29.403515"
+  "last_updated": "2026-08-23T12:20:07.706442"
 }
