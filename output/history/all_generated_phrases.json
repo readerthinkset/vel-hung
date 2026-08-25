@@ -11164,7 +11164,42 @@
       "transliteration": "Ez a belső ud-var, na-gyon bé-kés.",
       "category": "Travel",
       "generated_at": "2026-08-24T20:32:33.124897"
+    },
+    {
+      "english": "Forge ahead, with heart.",
+      "hungarian": "Szívvel, előre.",
+      "transliteration": "Seev-vel, eh-loh-reh.",
+      "category": "Courage",
+      "generated_at": "2026-08-25T00:50:05.909482"
+    },
+    {
+      "english": "Ignite your fire, within.",
+      "hungarian": "Éleszd fel, benned a tüzet.",
+      "transliteration": "Ay-lesh-d fel, ben-ned ah too-zet.",
+      "category": "Courage",
+      "generated_at": "2026-08-25T00:50:05.909491"
+    },
+    {
+      "english": "Boldness calls, answer.",
+      "hungarian": "A merészség hív, felelj.",
+      "transliteration": "Ah meh-rehs-sheg heev, feh-lely.",
+      "category": "Courage",
+      "generated_at": "2026-08-25T00:50:05.909492"
+    },
+    {
+      "english": "Bloom where you stand.",
+      "hungarian": "Virulj, ahol állsz.",
+      "transliteration": "Vee-rool-y, ah-hol aahlsz.",
+      "category": "Courage",
+      "generated_at": "2026-08-25T00:50:05.909494"
+    },
+    {
+      "english": "Adventure awaits, embrace it.",
+      "hungarian": "Kaland vár, öleld meg.",
+      "transliteration": "Kah-lahnd vahr, oh-leld meg.",
+      "category": "Courage",
+      "generated_at": "2026-08-25T00:50:05.909495"
     }
   ],
-  "last_updated": "2026-08-24T20:32:33.124899"
+  "last_updated": "2026-08-25T00:50:05.909497"
 }
