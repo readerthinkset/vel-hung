@@ -11444,7 +11444,42 @@
       "transliteration": "Fedezd fel a ritmust, belül.",
       "category": "Growth",
       "generated_at": "2026-08-26T14:39:18.849309"
+    },
+    {
+      "english": "One quick look, then we hurry.",
+      "hungarian": "Egy gyors pillantás, aztán sietünk.",
+      "transliteration": "Edj goorsh pillantaash, aaztaan shee-eetoonk.",
+      "category": "Numbers",
+      "generated_at": "2026-08-26T18:55:26.125285"
+    },
+    {
+      "english": "Two coins, a small wish.",
+      "hungarian": "Két apró, egy kis kívánság.",
+      "transliteration": "Kateh ahproh, edj keesh keevahndash.",
+      "category": "Numbers",
+      "generated_at": "2026-08-26T18:55:26.125296"
+    },
+    {
+      "english": "Three steps, toward the door.",
+      "hungarian": "Három lépés, az ajtó felé.",
+      "transliteration": "Haarom laypesh, ahz aytow felay.",
+      "category": "Numbers",
+      "generated_at": "2026-08-26T18:55:26.125297"
+    },
+    {
+      "english": "Four friends, sharing stories.",
+      "hungarian": "Négy barát, történeteket mesélve.",
+      "transliteration": "Nayj bahraat, tohrtehnehtehkeht mehsaylveh.",
+      "category": "Numbers",
+      "generated_at": "2026-08-26T18:55:26.125299"
+    },
+    {
+      "english": "Five minutes, for a break.",
+      "hungarian": "Öt perc, szünetre.",
+      "transliteration": "Oht pairts, soo-nehtreh.",
+      "category": "Numbers",
+      "generated_at": "2026-08-26T18:55:26.125300"
     }
   ],
-  "last_updated": "2026-08-26T14:39:18.849311"
+  "last_updated": "2026-08-26T18:55:26.125301"
 }
