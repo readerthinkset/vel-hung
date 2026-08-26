@@ -11409,7 +11409,42 @@
       "transliteration": "Hímzett minta, mesél egy történetet.",
       "category": "Culture",
       "generated_at": "2026-08-26T12:31:43.479246"
+    },
+    {
+      "english": "New sounds, blossom.",
+      "hungarian": "Új hangok, virágzanak.",
+      "transliteration": "Uj hangok, viragzanak.",
+      "category": "Growth",
+      "generated_at": "2026-08-26T14:39:18.849295"
+    },
+    {
+      "english": "Listen. Understand. Grow.",
+      "hungarian": "Hallgasd. Értsd. Növekedj.",
+      "transliteration": "Hallgasd. Ertsd. Növekedj.",
+      "category": "Growth",
+      "generated_at": "2026-08-26T14:39:18.849305"
+    },
+    {
+      "english": "Build your vocabulary, brick by brick.",
+      "hungarian": "Építsd a szókincsed, tégláról téglára.",
+      "transliteration": "Építsd a szókincsed, tégláról téglára.",
+      "category": "Growth",
+      "generated_at": "2026-08-26T14:39:18.849307"
+    },
+    {
+      "english": "Let sentences, take flight.",
+      "hungarian": "Hagyd, hogy a mondatok, szárnyaljanak.",
+      "transliteration": "Hagyd, hogy a mondatok, szárnyaljanak.",
+      "category": "Growth",
+      "generated_at": "2026-08-26T14:39:18.849308"
+    },
+    {
+      "english": "Discover the rhythm, within.",
+      "hungarian": "Fedezd fel a ritmust, belül.",
+      "transliteration": "Fedezd fel a ritmust, belül.",
+      "category": "Growth",
+      "generated_at": "2026-08-26T14:39:18.849309"
     }
   ],
-  "last_updated": "2026-08-26T12:31:43.479247"
+  "last_updated": "2026-08-26T14:39:18.849311"
 }
