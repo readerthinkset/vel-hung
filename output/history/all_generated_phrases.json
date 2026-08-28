@@ -11724,7 +11724,42 @@
       "transliteration": "Ay-rezd a rit-mus-t, a hayt-koznap-ok-nak.",
       "category": "Purpose",
       "generated_at": "2026-08-28T08:19:35.945253"
+    },
+    {
+      "english": "A warm embrace, for this season.",
+      "hungarian": "Meleg ölelés, erre az alkalomra.",
+      "transliteration": "Meh-leg öh-leh-lesh, eh-rre az al-ka-lom-ra.",
+      "category": "Holidays",
+      "generated_at": "2026-08-28T21:35:51.738379"
+    },
+    {
+      "english": "May good fortune, find your doorstep.",
+      "hungarian": "Sok szerencse, találjon az ajtódhoz.",
+      "transliteration": "Shok seh-ren-cheh, ta-laa-yohn az ajt-ohd-hoz.",
+      "category": "Holidays",
+      "generated_at": "2026-08-28T21:35:51.738392"
+    },
+    {
+      "english": "Bright lights, chase away the shadows.",
+      "hungarian": "Fényes fények, űzzék el az árnyakat.",
+      "transliteration": "Feh-yesh feh-nyek, üzz-eyk el az aarn-ya-kat.",
+      "category": "Holidays",
+      "generated_at": "2026-08-28T21:35:51.738394"
+    },
+    {
+      "english": "Sweet melodies, fill the air.",
+      "hungarian": "Édes dallamok, töltsék be a levegőt.",
+      "transliteration": "Eh-desh dal-la-mok, tölts-eyk beh a leh-veh-göht.",
+      "category": "Holidays",
+      "generated_at": "2026-08-28T21:35:51.738395"
+    },
+    {
+      "english": "A peaceful moment, for reflection.",
+      "hungarian": "Békés pillanat, elmélkedésre.",
+      "transliteration": "Beh-kesh pil-la-nat, el-meh-leh-keh-resh-reh.",
+      "category": "Holidays",
+      "generated_at": "2026-08-28T21:35:51.738397"
     }
   ],
-  "last_updated": "2026-08-28T08:19:35.945255"
+  "last_updated": "2026-08-28T21:35:51.738401"
 }
