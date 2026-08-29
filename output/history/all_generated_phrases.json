@@ -12004,7 +12004,42 @@
       "transliteration": "Uh-roo-luh'k, hoh'd tah-lah-kol-toonk.",
       "category": "Basic Phrases",
       "generated_at": "2026-08-29T19:36:28.947860"
+    },
+    {
+      "english": "A tiny frog, hops on a lily pad.",
+      "hungarian": "Egy apró béka, ugrál egy tavi liliomon.",
+      "transliteration": "Edj apró béka, ugrál edj távi liliomon.",
+      "category": "Animals",
+      "generated_at": "2026-08-29T22:28:29.248394"
+    },
+    {
+      "english": "The shaggy sheep, munches green grass.",
+      "hungarian": "A bozontos bárány, rágcsálja a zöld füvet.",
+      "transliteration": "A bozontos bárány, rágcsálja a zöld füvet.",
+      "category": "Animals",
+      "generated_at": "2026-08-29T22:28:29.248403"
+    },
+    {
+      "english": "A sleepy owl, blinks in the twilight.",
+      "hungarian": "Egy álmos bagoly, pislog a szürkületben.",
+      "transliteration": "Edj álmos bagoly, pislog a szürkületben.",
+      "category": "Animals",
+      "generated_at": "2026-08-29T22:28:29.248404"
+    },
+    {
+      "english": "The swift gazelle, bounds across the savanna.",
+      "hungarian": "A gyors gazella, vágtat a szavannán át.",
+      "transliteration": "A gyors gazella, vágtat a szavannán át.",
+      "category": "Animals",
+      "generated_at": "2026-08-29T22:28:29.248405"
+    },
+    {
+      "english": "A chattering monkey, swings from branches.",
+      "hungarian": "Egy csacsogó majom, hintázik az ágakon.",
+      "transliteration": "Edj csacsogó majom, hintázik az ágakon.",
+      "category": "Animals",
+      "generated_at": "2026-08-29T22:28:29.248407"
     }
   ],
-  "last_updated": "2026-08-29T19:36:28.947862"
+  "last_updated": "2026-08-29T22:28:29.248408"
 }
