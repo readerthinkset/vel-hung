@@ -11969,7 +11969,42 @@
       "transliteration": "Edgy koe-shoesh chend, esh eh-layg.",
       "category": "Gratitude",
       "generated_at": "2026-08-29T17:26:45.944869"
+    },
+    {
+      "english": "Good day, my friend.",
+      "hungarian": "Jó napot, barátom.",
+      "transliteration": "Yoh nah-poh't, bah-rah-toh'm.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-29T19:36:28.947844"
+    },
+    {
+      "english": "This is delicious.",
+      "hungarian": "Ez nagyon finom.",
+      "transliteration": "Ez nah-dyon fin-oh'm.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-29T19:36:28.947855"
+    },
+    {
+      "english": "Where shall we go?",
+      "hungarian": "Hová menjünk?",
+      "transliteration": "Hoh-vah men-yink?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-29T19:36:28.947858"
+    },
+    {
+      "english": "May I pay, now?",
+      "hungarian": "Fizethetek, most?",
+      "transliteration": "Fiz-eh-heh-tek, mohsh't?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-29T19:36:28.947859"
+    },
+    {
+      "english": "It's a pleasure, meeting you.",
+      "hungarian": "Örülök, hogy találkoztunk.",
+      "transliteration": "Uh-roo-luh'k, hoh'd tah-lah-kol-toonk.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-29T19:36:28.947860"
     }
   ],
-  "last_updated": "2026-08-29T17:26:45.944871"
+  "last_updated": "2026-08-29T19:36:28.947862"
 }
