@@ -12039,7 +12039,42 @@
       "transliteration": "Edj csacsogó majom, hintázik az ágakon.",
       "category": "Animals",
       "generated_at": "2026-08-29T22:28:29.248407"
+    },
+    {
+      "english": "Her shoulder, shrugged with indifference.",
+      "hungarian": "A válla, megvonva közömbösen.",
+      "transliteration": "Ah Vahl-lah, meg-von-vah KO-zom-beesh-en.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-30T02:50:20.182207"
+    },
+    {
+      "english": "His forehead, creased in concentration.",
+      "hungarian": "A homloka, ráncolva az összpontosításban.",
+      "transliteration": "Ah HO-mlo-kah, RAHN-col-vah ahz o-so-PON-to-shee-TAHSH-bahn.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-30T02:50:20.182217"
+    },
+    {
+      "english": "My stomach, rumbled with hunger.",
+      "hungarian": "A gyomrom, korgott az éhségtől.",
+      "transliteration": "Ah DYOH-mrom, KOR-got ahz EH-sheg-toel.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-30T02:50:20.182219"
+    },
+    {
+      "english": "A delicate eyebrow, arched in question.",
+      "hungarian": "Egy finom szemöldök, felvonva kérdően.",
+      "transliteration": "Edg FEE-nom SE-moel-doek, FEL-von-vah KEHR-doen-veh.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-30T02:50:20.182220"
+    },
+    {
+      "english": "His throat, cleared before speaking.",
+      "hungarian": "A torka, tisztázva beszéd előtt.",
+      "transliteration": "Ah TOR-kah, TEES-tahz-vah be-SAYD eh-loet.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-30T02:50:20.182221"
     }
   ],
-  "last_updated": "2026-08-29T22:28:29.248408"
+  "last_updated": "2026-08-30T02:50:20.182223"
 }
