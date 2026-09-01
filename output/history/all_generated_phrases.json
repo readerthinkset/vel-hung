@@ -12389,7 +12389,42 @@
       "transliteration": "Ooj mint-aak, tish-tah meg-er-taysh.",
       "category": "Growth",
       "generated_at": "2026-08-31T23:39:58.585885"
+    },
+    {
+      "english": "This code, unlocks secrets.",
+      "hungarian": "Ez a kód, titkokat rejt.",
+      "transliteration": "Ez a kod, titkokat rejt.",
+      "category": "Technology",
+      "generated_at": "2026-09-01T02:55:55.911622"
+    },
+    {
+      "english": "The modem, sings a song.",
+      "hungarian": "A modem, egy dalt énekel.",
+      "transliteration": "A modem, egy dalt enekel.",
+      "category": "Technology",
+      "generated_at": "2026-09-01T02:55:55.911634"
+    },
+    {
+      "english": "Our database, is vast.",
+      "hungarian": "Az adatbázisunk, hatalmas.",
+      "transliteration": "Az adatbazisunk, hatalmas.",
+      "category": "Technology",
+      "generated_at": "2026-09-01T02:55:55.911635"
+    },
+    {
+      "english": "A new update, is coming.",
+      "hungarian": "Egy új frissítés, érkezik.",
+      "transliteration": "Egy uj frissites, erkezik.",
+      "category": "Technology",
+      "generated_at": "2026-09-01T02:55:55.911636"
+    },
+    {
+      "english": "The algorithm, learns fast.",
+      "hungarian": "Az algoritmus, gyorsan tanul.",
+      "transliteration": "Az algoritmus, gyorsan tanul.",
+      "category": "Technology",
+      "generated_at": "2026-09-01T02:55:55.911637"
     }
   ],
-  "last_updated": "2026-08-31T23:39:58.585887"
+  "last_updated": "2026-09-01T02:55:55.911638"
 }
