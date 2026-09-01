@@ -12529,7 +12529,42 @@
       "transliteration": "Kahp-cho-lohdj may-yen, ah ter-may-seht-tel.",
       "category": "Positive Life",
       "generated_at": "2026-09-01T19:43:54.485075"
+    },
+    {
+      "english": "A sprinkle of paprika, earthy red.",
+      "hungarian": "Egy csipetnyi paprika, földes piros.",
+      "transliteration": "Edg chipeht-nee pah-pri-kah, fohld-esh pee-rosh.",
+      "category": "Food",
+      "generated_at": "2026-09-01T22:27:34.557829"
+    },
+    {
+      "english": "Bubbling goulash, a hearty aroma.",
+      "hungarian": "Bugyogó gulyás, tartalmas illat.",
+      "transliteration": "Boo-dyo-goh goo-yahsh, tar-tal-mosh ill-lot.",
+      "category": "Food",
+      "generated_at": "2026-09-01T22:27:34.557841"
+    },
+    {
+      "english": "Fresh dill, a green whisper.",
+      "hungarian": "Friss kapor, zöld suttogás.",
+      "transliteration": "Frish kah-por, zohld shoott-toh-gahsh.",
+      "category": "Food",
+      "generated_at": "2026-09-01T22:27:34.557842"
+    },
+    {
+      "english": "Sour cream swirl, creamy white.",
+      "hungarian": "Tejföl örvény, krémes fehér.",
+      "transliteration": "Tayf-fayl ohr-vayny, kray-mesh feh-hayr.",
+      "category": "Food",
+      "generated_at": "2026-09-01T22:27:34.557843"
+    },
+    {
+      "english": "Roast goose, golden brown skin.",
+      "hungarian": "Sült liba, aranybarna bőr.",
+      "transliteration": "Shoolt lee-bah, ah-rahny-bahr-nah boh-r.",
+      "category": "Food",
+      "generated_at": "2026-09-01T22:27:34.557845"
     }
   ],
-  "last_updated": "2026-09-01T19:43:54.485077"
+  "last_updated": "2026-09-01T22:27:34.557846"
 }
