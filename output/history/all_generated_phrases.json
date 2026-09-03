@@ -12739,7 +12739,42 @@
       "transliteration": "Hol-gosh foo-dyel-mesh-en, o see-ved dob-bon-o-shoh-roh-roh.",
       "category": "Health",
       "generated_at": "2026-09-03T17:22:52.715872"
+    },
+    {
+      "english": "Spring blossoms, everywhere now.",
+      "hungarian": "Tavaszi virágok, mindenhol most.",
+      "transliteration": "Toh-voh-shee vee-roh-gohk, min-den-hohl mohsht.",
+      "category": "Holidays",
+      "generated_at": "2026-09-03T19:36:04.728382"
+    },
+    {
+      "english": "Summer sun, warms our faces.",
+      "hungarian": "Nyári nap, melegíti arcunkat.",
+      "transliteration": "Nee-oh-ree nahp, meh-leh-gee-tee ohr-tsoonk-oht.",
+      "category": "Holidays",
+      "generated_at": "2026-09-03T19:36:04.728393"
+    },
+    {
+      "english": "Autumn leaves, softly falling.",
+      "hungarian": "Őszi levelek, halkan hullnak.",
+      "transliteration": "Uh-see leh-veh-lehk, hohl-lohn hoohl-nohk.",
+      "category": "Holidays",
+      "generated_at": "2026-09-03T19:36:04.728394"
+    },
+    {
+      "english": "Winter snow, blankets the ground.",
+      "hungarian": "Téli hó, befedte a földet.",
+      "transliteration": "Tay-lee hoh, beh-fed-teh ah fuhld-eht.",
+      "category": "Holidays",
+      "generated_at": "2026-09-03T19:36:04.728395"
+    },
+    {
+      "english": "A fresh start, begins today.",
+      "hungarian": "Tiszta lap, kezdődik ma.",
+      "transliteration": "Tis-tah lohp, kehz-duh-deek mah.",
+      "category": "Holidays",
+      "generated_at": "2026-09-03T19:36:04.728396"
     }
   ],
-  "last_updated": "2026-09-03T17:22:52.715874"
+  "last_updated": "2026-09-03T19:36:04.728397"
 }
