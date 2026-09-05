@@ -13019,7 +13019,42 @@
       "transliteration": "Csillogo szemei, mindent lattak.",
       "category": "Body Parts",
       "generated_at": "2026-09-05T16:21:51.635034"
+    },
+    {
+      "english": "Sky, blushes pink, at dawn.",
+      "hungarian": "Az ég, hajnalban, rózsaszínre pirul.",
+      "transliteration": "Az ayg, hajnalban, ro-zha-seen-ray peer-ool.",
+      "category": "Weather",
+      "generated_at": "2026-09-05T18:46:01.677945"
+    },
+    {
+      "english": "Wind, sighs, through the pines.",
+      "hungarian": "A szél, fenyőkön át, sóhajtozik.",
+      "transliteration": "A sayl, fen-yoek-on aht, sho-hy-toh-zik.",
+      "category": "Weather",
+      "generated_at": "2026-09-05T18:46:01.677952"
+    },
+    {
+      "english": "Clouds, gather, like sheep.",
+      "hungarian": "Felhők, gyülekeznek, mint bárányok.",
+      "transliteration": "Fel-hoek, dyoo-lye-kez-nek, mint bah-rah-nyok.",
+      "category": "Weather",
+      "generated_at": "2026-09-05T18:46:01.677954"
+    },
+    {
+      "english": "Rain, patters, on leaves.",
+      "hungarian": "Az eső, levelekre, kopog.",
+      "transliteration": "Az ay-sho, lye-veh-lek-ray, koh-pohg.",
+      "category": "Weather",
+      "generated_at": "2026-09-05T18:46:01.677955"
+    },
+    {
+      "english": "Sun, paints, the horizon.",
+      "hungarian": "A nap, festi, a horizontot.",
+      "transliteration": "A nahp, fesh-tee, ah hoh-ree-zont-ot.",
+      "category": "Weather",
+      "generated_at": "2026-09-05T18:46:01.677956"
     }
   ],
-  "last_updated": "2026-09-05T16:21:51.635035"
+  "last_updated": "2026-09-05T18:46:01.677958"
 }
