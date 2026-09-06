@@ -13229,7 +13229,42 @@
       "transliteration": "Gyengéd kitartás, gyoz.",
       "category": "Courage",
       "generated_at": "2026-09-06T18:49:52.855586"
+    },
+    {
+      "english": "This is, exactly what I needed.",
+      "hungarian": "Ez, pont amit kerestem.",
+      "transliteration": "Ez, pont amit kerestem.",
+      "category": "Shopping",
+      "generated_at": "2026-09-06T22:00:03.542955"
+    },
+    {
+      "english": "Could you show me, that one, perhaps?",
+      "hungarian": "Meg tudná mutatni, azt, kérem?",
+      "transliteration": "Meg tudná mutatni, azt, kérem?",
+      "category": "Shopping",
+      "generated_at": "2026-09-06T22:00:03.542967"
+    },
+    {
+      "english": "I'm looking for, something unique.",
+      "hungarian": "Keresek, valami különlegeset.",
+      "transliteration": "Keresek, valami kulonlegeset.",
+      "category": "Shopping",
+      "generated_at": "2026-09-06T22:00:03.542969"
+    },
+    {
+      "english": "Does this come, in another color?",
+      "hungarian": "Van ebből, más színben is?",
+      "transliteration": "Van ebből, más színben is?",
+      "category": "Shopping",
+      "generated_at": "2026-09-06T22:00:03.542971"
+    },
+    {
+      "english": "I need a good deal, today.",
+      "hungarian": "Jó ajánlatot, szeretnék ma.",
+      "transliteration": "Jó ajánlatot, szeretnék ma.",
+      "category": "Shopping",
+      "generated_at": "2026-09-06T22:00:03.542972"
     }
   ],
-  "last_updated": "2026-09-06T18:49:52.855588"
+  "last_updated": "2026-09-06T22:00:03.542974"
 }
