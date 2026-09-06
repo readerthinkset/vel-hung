@@ -13194,7 +13194,42 @@
       "transliteration": "Egy egyszerű tunikát, visel.",
       "category": "Clothes",
       "generated_at": "2026-09-06T16:32:49.206284"
+    },
+    {
+      "english": "Inner spark, ignite it.",
+      "hungarian": "Belső szikra, gyújtsd fel.",
+      "transliteration": "Belso szikra, gyujtsd fel.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T18:49:52.855557"
+    },
+    {
+      "english": "Whisper of hope, listen.",
+      "hungarian": "Remény suttogása, hallgasd.",
+      "transliteration": "Remeny suttogasa, halgasd.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T18:49:52.855568"
+    },
+    {
+      "english": "Heart's compass, follow.",
+      "hungarian": "Szív iránytű, kövesd.",
+      "transliteration": "Sziv iranytu, kövesd.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T18:49:52.855570"
+    },
+    {
+      "english": "Seeds of change, sow.",
+      "hungarian": "Változás magjai, vess.",
+      "transliteration": "Valtozas magjai, vess.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T18:49:52.855584"
+    },
+    {
+      "english": "Gentle persistence, wins.",
+      "hungarian": "Gyengéd kitartás, győz.",
+      "transliteration": "Gyengéd kitartás, gyoz.",
+      "category": "Courage",
+      "generated_at": "2026-09-06T18:49:52.855586"
     }
   ],
-  "last_updated": "2026-09-06T16:32:49.206285"
+  "last_updated": "2026-09-06T18:49:52.855588"
 }
