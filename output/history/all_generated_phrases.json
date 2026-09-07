@@ -13264,7 +13264,42 @@
       "transliteration": "Jó ajánlatot, szeretnék ma.",
       "category": "Shopping",
       "generated_at": "2026-09-06T22:00:03.542972"
+    },
+    {
+      "english": "My father, a steady hand.",
+      "hungarian": "Apukám, egy biztos kéz.",
+      "transliteration": "Apukám, eg biztosh kéz.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-07T02:11:15.424421"
+    },
+    {
+      "english": "My mother, she dreams with me.",
+      "hungarian": "Anyukám, velem álmodik.",
+      "transliteration": "Anyukám, velem álmódik.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-07T02:11:15.424433"
+    },
+    {
+      "english": "My brother, he shares his snacks.",
+      "hungarian": "Bátyám, megosztja a rágcsit.",
+      "transliteration": "Bátyám, megosztja a rágcsit.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-07T02:11:15.424435"
+    },
+    {
+      "english": "My sister, she whispers secrets.",
+      "hungarian": "Húgom, suttog titkokat.",
+      "transliteration": "Húgom, suttog titkokat.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-07T02:11:15.424436"
+    },
+    {
+      "english": "My grandma, her smile, a sunrise.",
+      "hungarian": "Nagymamám, mosolya, napfelkelte.",
+      "transliteration": "Nagymamám, mosolya, napfelkelte.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-07T02:11:15.424438"
     }
   ],
-  "last_updated": "2026-09-06T22:00:03.542974"
+  "last_updated": "2026-09-07T02:11:15.424441"
 }
