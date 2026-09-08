@@ -13509,7 +13509,42 @@
       "transliteration": "Os-toz-unk, az eny-sze-rű ör-öm-ök-ben.",
       "category": "Relationships",
       "generated_at": "2026-09-08T19:43:39.361696"
+    },
+    {
+      "english": "Breathe deep, feel grounded.",
+      "hungarian": "Lélegezz mélyen, érezd magad stabilan.",
+      "transliteration": "Le-leh-zesh may-dyen, eh-rezd mag-ahd shtah-bi-lahn.",
+      "category": "Health",
+      "generated_at": "2026-09-08T22:26:35.159848"
+    },
+    {
+      "english": "Move freely, with joy.",
+      "hungarian": "Mozogj szabadon, örömmel.",
+      "transliteration": "Mohz-goy sah-bah-dohn, uh-ruh-mel.",
+      "category": "Health",
+      "generated_at": "2026-09-08T22:26:35.159857"
+    },
+    {
+      "english": "Rest well, recharge fully.",
+      "hungarian": "Pihenj jól, töltekezz fel teljesen.",
+      "transliteration": "Pi-hen-y yohl, tuhl-teh-kez fehl teh-lyesh-en.",
+      "category": "Health",
+      "generated_at": "2026-09-08T22:26:35.159862"
+    },
+    {
+      "english": "Hydrate often, stay refreshed.",
+      "hungarian": "Igyál gyakran, maradj friss.",
+      "transliteration": "Ee-gyahl dyahk-rahn, mah-rahd-y friss.",
+      "category": "Health",
+      "generated_at": "2026-09-08T22:26:35.159863"
+    },
+    {
+      "english": "Listen inwards, to your wisdom.",
+      "hungarian": "Figyelj befelé, a bölcsességedre.",
+      "transliteration": "Fi-gyel-y beh-feh-lay, ah buhl-cheh-shay-geh-dreh.",
+      "category": "Health",
+      "generated_at": "2026-09-08T22:26:35.159865"
     }
   ],
-  "last_updated": "2026-09-08T19:43:39.361699"
+  "last_updated": "2026-09-08T22:26:35.159866"
 }
