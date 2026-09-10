@@ -13789,7 +13789,42 @@
       "transliteration": "Mee-kor ah ha-rong-gok so-la-nok, fi-gyel.",
       "category": "Time",
       "generated_at": "2026-09-10T17:23:15.876793"
+    },
+    {
+      "english": "A velvety mushroom, forest floor essence.",
+      "hungarian": "Selymes gomba, erdő talaj lényeg.",
+      "transliteration": "Shel-mesh gom-ba, er-doh tah-loij len-yeg.",
+      "category": "Food",
+      "generated_at": "2026-09-10T19:27:08.445828"
+    },
+    {
+      "english": "Cool cucumber, refreshing, crisp.",
+      "hungarian": "Hűvös uborka, frissítő, ropogós.",
+      "transliteration": "Hoo-vosh oo-bor-ka, frish-shee-toh, rop-oh-goosh.",
+      "category": "Food",
+      "generated_at": "2026-09-10T19:27:08.445839"
+    },
+    {
+      "english": "Bright berries, summer's sweet jewels.",
+      "hungarian": "Fényes bogyók, nyár édes ékszerei.",
+      "transliteration": "Feen-yes boh-dyohk, nyeahr eh-des ayk-seh-rei.",
+      "category": "Food",
+      "generated_at": "2026-09-10T19:27:08.445841"
+    },
+    {
+      "english": "Hearty lentil soup, earthy warmth.",
+      "hungarian": "Laktató lencse leves, földes melegség.",
+      "transliteration": "Lak-tah-toh len-cheh leh-ves, fohld-desh meh-leg-shehg.",
+      "category": "Food",
+      "generated_at": "2026-09-10T19:27:08.445843"
+    },
+    {
+      "english": "Golden corn, sun-kissed kernels.",
+      "hungarian": "Arany kukorica, nap érlelte magok.",
+      "transliteration": "Ah-rahn koo-ko-ree-tsa, nap ayr-lel-teh mah-gohk.",
+      "category": "Food",
+      "generated_at": "2026-09-10T19:27:08.445844"
     }
   ],
-  "last_updated": "2026-09-10T17:23:15.876794"
+  "last_updated": "2026-09-10T19:27:08.445846"
 }
