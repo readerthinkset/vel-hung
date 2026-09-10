@@ -13719,7 +13719,42 @@
       "transliteration": "Vahn, ku-zho-sh mu-ltunk.",
       "category": "Friendship",
       "generated_at": "2026-09-10T02:26:08.478207"
+    },
+    {
+      "english": "Hear the echo, then say it.",
+      "hungarian": "Halld a visszhangot, aztán mondd.",
+      "transliteration": "Halld ah vish-khong-got, azt-tahn mond.",
+      "category": "Directions",
+      "generated_at": "2026-09-10T15:30:09.713535"
+    },
+    {
+      "english": "Focus on the first sound.",
+      "hungarian": "Koncentrálj az első hangra.",
+      "transliteration": "Kon-tsen-traal-y az el-shő hang-ra.",
+      "category": "Directions",
+      "generated_at": "2026-09-10T15:30:09.713545"
+    },
+    {
+      "english": "Let the syllables flow, gently.",
+      "hungarian": "Hagyd, hogy a szótagok, folyjanak, lágyan.",
+      "transliteration": "Hagd, hog-y ah szoh-ta-gok, fol-y-ya-nak, laa-d-yan.",
+      "category": "Directions",
+      "generated_at": "2026-09-10T15:30:09.713547"
+    },
+    {
+      "english": "Feel the breath, shape the word.",
+      "hungarian": "Érezd a lélegzetet, formázd a szót.",
+      "transliteration": "Ee-rezd ah lee-leg-zeh-tet, for-maaz-d ah soht.",
+      "category": "Directions",
+      "generated_at": "2026-09-10T15:30:09.713548"
+    },
+    {
+      "english": "Open your mind, to new sounds.",
+      "hungarian": "Nyisd ki az elméd, új hangokra.",
+      "transliteration": "Nishd ki az el-meed, uuj hang-ok-ra.",
+      "category": "Directions",
+      "generated_at": "2026-09-10T15:30:09.713549"
     }
   ],
-  "last_updated": "2026-09-10T02:26:08.478209"
+  "last_updated": "2026-09-10T15:30:09.713551"
 }
