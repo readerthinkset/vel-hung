@@ -13754,7 +13754,42 @@
       "transliteration": "Nishd ki az el-meed, uuj hang-ok-ra.",
       "category": "Directions",
       "generated_at": "2026-09-10T15:30:09.713549"
+    },
+    {
+      "english": "The quiet hour, approaches.",
+      "hungarian": "A csendes óra, közeleg.",
+      "transliteration": "Ah tsende-lesh o-ra, ko-ze-leg.",
+      "category": "Time",
+      "generated_at": "2026-09-10T17:23:15.876779"
+    },
+    {
+      "english": "Just a heartbeat, then.",
+      "hungarian": "Csak egy szívdobbanás, aztán.",
+      "transliteration": "Chok ed seed-dob-ba-nash, ot-ton.",
+      "category": "Time",
+      "generated_at": "2026-09-10T17:23:15.876790"
+    },
+    {
+      "english": "That exact instant, remember.",
+      "hungarian": "Azon a pontos pillanat, emlékezz.",
+      "transliteration": "Ah-zon ah pont-tosh pil-la-not, em-le-kez.",
+      "category": "Time",
+      "generated_at": "2026-09-10T17:23:15.876791"
+    },
+    {
+      "english": "A fleeting thought, passes.",
+      "hungarian": "Egy szálló gondolat, elsuhan.",
+      "transliteration": "Ed sa-lo gon-do-lot, el-shu-han.",
+      "category": "Time",
+      "generated_at": "2026-09-10T17:23:15.876792"
+    },
+    {
+      "english": "When the bells ring, listen.",
+      "hungarian": "Mikor a harangok szólnak, figyelj.",
+      "transliteration": "Mee-kor ah ha-rong-gok so-la-nok, fi-gyel.",
+      "category": "Time",
+      "generated_at": "2026-09-10T17:23:15.876793"
     }
   ],
-  "last_updated": "2026-09-10T15:30:09.713551"
+  "last_updated": "2026-09-10T17:23:15.876794"
 }
