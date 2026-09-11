@@ -13964,7 +13964,42 @@
       "transliteration": "Magyarul beszélek, örömmel.",
       "category": "Confidence",
       "generated_at": "2026-09-11T17:24:13.265936"
+    },
+    {
+      "english": "Morning stretches, limbs awaken.",
+      "hungarian": "Reggeli nyújtózkodás, végtagok ébrednek.",
+      "transliteration": "Reg-gell-i nyu-yit-koz-daash, veg-taag-ok eh-bred-nek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-11T19:25:00.121923"
+    },
+    {
+      "english": "Soft light, day begins.",
+      "hungarian": "Lágy fény, a nap indul.",
+      "transliteration": "Laa-dj feh-ny, a nap in-dul.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-11T19:25:00.121932"
+    },
+    {
+      "english": "Quiet breakfast, nourishment.",
+      "hungarian": "Csendes reggeli, táplálkozás.",
+      "transliteration": "Chen-desh reg-gell-i, taap-laal-koz-aa-sh.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-11T19:25:00.121934"
+    },
+    {
+      "english": "Warm water, face cleanse.",
+      "hungarian": "Meleg víz, arc mosás.",
+      "transliteration": "Meh-leg veez, arc mo-shaash.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-11T19:25:00.121935"
+    },
+    {
+      "english": "Thoughts gather, before work.",
+      "hungarian": "Gondolatok gyűlnek, munka előtt.",
+      "transliteration": "Gon-do-laa-tok gyuul-nek, mun-kaa eh-lyuht.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-11T19:25:00.121937"
     }
   ],
-  "last_updated": "2026-09-11T17:24:13.265937"
+  "last_updated": "2026-09-11T19:25:00.121938"
 }
