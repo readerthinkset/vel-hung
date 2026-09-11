@@ -13929,7 +13929,42 @@
       "transliteration": "Nag-yon, haa-laash va-dyok, euh-seen-ten.",
       "category": "Common Expressions",
       "generated_at": "2026-09-11T15:31:46.325017"
+    },
+    {
+      "english": "This Hungarian word, I can use it.",
+      "hungarian": "Ezt a magyar szót, tudom használni.",
+      "transliteration": "Est a magyar soht, tudom hasznalni.",
+      "category": "Confidence",
+      "generated_at": "2026-09-11T17:24:13.265922"
+    },
+    {
+      "english": "My accent, it's coming along.",
+      "hungarian": "A kiejtésem, alakul.",
+      "transliteration": "A kieytesem, alakul.",
+      "category": "Confidence",
+      "generated_at": "2026-09-11T17:24:13.265931"
+    },
+    {
+      "english": "Understanding dawns, bit by bit.",
+      "hungarian": "Értem lassan, apránként.",
+      "transliteration": "Ertem lassan, aprankent.",
+      "category": "Confidence",
+      "generated_at": "2026-09-11T17:24:13.265933"
+    },
+    {
+      "english": "A sentence forms, in my head.",
+      "hungarian": "Egy mondat áll, bennem össze.",
+      "transliteration": "Edj mondat ahl, bennem oszse.",
+      "category": "Confidence",
+      "generated_at": "2026-09-11T17:24:13.265934"
+    },
+    {
+      "english": "I'm speaking Hungarian, with joy.",
+      "hungarian": "Magyarul beszélek, örömmel.",
+      "transliteration": "Magyarul beszélek, örömmel.",
+      "category": "Confidence",
+      "generated_at": "2026-09-11T17:24:13.265936"
     }
   ],
-  "last_updated": "2026-09-11T15:31:46.325019"
+  "last_updated": "2026-09-11T17:24:13.265937"
 }
