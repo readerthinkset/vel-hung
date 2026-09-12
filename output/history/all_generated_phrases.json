@@ -14139,7 +14139,42 @@
       "transliteration": "Uh-ruh-luhk, hudge it vudge.",
       "category": "Greetings",
       "generated_at": "2026-09-12T16:36:17.928133"
+    },
+    {
+      "english": "A tiny ladybug, rests on a leaf.",
+      "hungarian": "Egy apró katicabogár, pihen egy levélen.",
+      "transliteration": "Edg a-PRO-tyoh KA-tee-kah-bo-GARR, PEE-hen edg LAY-vay-len.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T18:54:21.176996"
+    },
+    {
+      "english": "The fluffy kitten, chases a string.",
+      "hungarian": "A bolyhos kiscica, kerget egy madzagot.",
+      "transliteration": "A BOL-yohsh KISH-tsee-tsa, KERR-geht edg MAD-za-got.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T18:54:21.177004"
+    },
+    {
+      "english": "A proud rooster, crows at dawn.",
+      "hungarian": "Egy büszke kakas, kukorékol hajnalban.",
+      "transliteration": "Edg BOOS-keh KA-kash, koo-ko-RAY-kol HOWJ-nal-bahn.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T18:54:21.177006"
+    },
+    {
+      "english": "The silent owl, hunts at midnight.",
+      "hungarian": "A néma bagoly, vadászik éjfélkor.",
+      "transliteration": "A NAY-ma BA-goy, VAD-aas-seek AYJ-fayl-kor.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T18:54:21.177007"
+    },
+    {
+      "english": "A strong horse, pulls the cart.",
+      "hungarian": "Egy erős ló, húzza a kocsit.",
+      "transliteration": "Edg ER-rush LOH, HOO-za a KO-cheet.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T18:54:21.177008"
     }
   ],
-  "last_updated": "2026-09-12T16:36:17.928134"
+  "last_updated": "2026-09-12T18:54:21.177010"
 }
