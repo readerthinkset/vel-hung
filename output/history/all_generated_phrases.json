@@ -14454,7 +14454,42 @@
       "transliteration": "Hahyd vee-rahg-ohz-nee doh sah-vah-kaht, el-mayd-buh.",
       "category": "Motivation",
       "generated_at": "2026-09-14T20:45:01.490131"
+    },
+    {
+      "english": "My bag, it vanished.",
+      "hungarian": "A táskám, eltűnt.",
+      "transliteration": "uh taa-shaak-om, el-teu-neunt.",
+      "category": "Emergency",
+      "generated_at": "2026-09-14T22:59:54.720252"
+    },
+    {
+      "english": "I feel dizzy, suddenly.",
+      "hungarian": "Szédülök, hirtelen.",
+      "transliteration": "see-dee-leuk, heer-teh-lehn.",
+      "category": "Emergency",
+      "generated_at": "2026-09-14T22:59:54.720263"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "hungarian": "Hol van a legközelebbi gyógyszertár?",
+      "transliteration": "hol vahn uh leg-kuh-zel-eb-bee dyod-seer-taar?",
+      "category": "Emergency",
+      "generated_at": "2026-09-14T22:59:54.720265"
+    },
+    {
+      "english": "This is an urgent matter.",
+      "hungarian": "Ez egy sürgős ügy.",
+      "transliteration": "ez edg seer-guesh eudg.",
+      "category": "Emergency",
+      "generated_at": "2026-09-14T22:59:54.720267"
+    },
+    {
+      "english": "I need to contact someone.",
+      "hungarian": "Valakit el kell érnem.",
+      "transliteration": "vah-lah-keet el kell ayr-nem.",
+      "category": "Emergency",
+      "generated_at": "2026-09-14T22:59:54.720268"
     }
   ],
-  "last_updated": "2026-09-14T20:45:01.490134"
+  "last_updated": "2026-09-14T22:59:54.720269"
 }
