@@ -14384,7 +14384,42 @@
       "transliteration": "Maash soeg, uuj vi-laa-go-shaag.",
       "category": "Creativity",
       "generated_at": "2026-09-14T17:15:45.978160"
+    },
+    {
+      "english": "This scarf, is a gift.",
+      "hungarian": "Ez a sál, ajándék.",
+      "transliteration": "Ez a shal, ajandek.",
+      "category": "Clothes",
+      "generated_at": "2026-09-14T18:56:53.423930"
+    },
+    {
+      "english": "My hat, is very old.",
+      "hungarian": "A kalapom, nagyon régi.",
+      "transliteration": "A kalapom, nagyon redzhi.",
+      "category": "Clothes",
+      "generated_at": "2026-09-14T18:56:53.423939"
+    },
+    {
+      "english": "These pajamas, are blue.",
+      "hungarian": "Ez a pizsama, kék.",
+      "transliteration": "Ez a pizsama, kek.",
+      "category": "Clothes",
+      "generated_at": "2026-09-14T18:56:53.423941"
+    },
+    {
+      "english": "Her dress, has flowers.",
+      "hungarian": "A ruhája, virágos.",
+      "transliteration": "A ruhaya, viragos.",
+      "category": "Clothes",
+      "generated_at": "2026-09-14T18:56:53.423942"
+    },
+    {
+      "english": "His shirt, needs ironing.",
+      "hungarian": "Az inge, vasalásra vár.",
+      "transliteration": "Az inge, vasalashra var.",
+      "category": "Clothes",
+      "generated_at": "2026-09-14T18:56:53.423944"
     }
   ],
-  "last_updated": "2026-09-14T17:15:45.978162"
+  "last_updated": "2026-09-14T18:56:53.423945"
 }
