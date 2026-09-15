@@ -14524,7 +14524,42 @@
       "transliteration": "Ohst mehg ahh gohn-doh-lah-tihd, sah-bah-dohn.",
       "category": "Purpose",
       "generated_at": "2026-09-15T02:46:30.214431"
+    },
+    {
+      "english": "Explore the network, find connections.",
+      "hungarian": "Fedezd fel a hálózatot, keress kapcsolatokat.",
+      "transliteration": "Fedezt' fel a ha-lo-zat-ot, ker-res' ka-pcha-lo-ta-kat.",
+      "category": "Technology",
+      "generated_at": "2026-09-15T15:55:23.092960"
+    },
+    {
+      "english": "This interface, feels intuitive.",
+      "hungarian": "Ez a felület, otthonosnak tűnik.",
+      "transliteration": "Ez a fe-lü-let, ot-tho-nos-nak tū-nik.",
+      "category": "Technology",
+      "generated_at": "2026-09-15T15:55:23.092970"
+    },
+    {
+      "english": "Upload your files, securely.",
+      "hungarian": "Töltsd fel a fájlokat, biztonságosan.",
+      "transliteration": "Tölt' fel a fa-jlo-kat, bit-on-shag-os-an.",
+      "category": "Technology",
+      "generated_at": "2026-09-15T15:55:23.092971"
+    },
+    {
+      "english": "The update, arrived quietly.",
+      "hungarian": "A frissítés, csendben érkezett.",
+      "transliteration": "A friss-i-tés, csend-ben ér-kez-ett.",
+      "category": "Technology",
+      "generated_at": "2026-09-15T15:55:23.092973"
+    },
+    {
+      "english": "Scroll down, for more.",
+      "hungarian": "Görgess le, továbbiért.",
+      "transliteration": "Gör-ges' le, to-vab-bi-ért.",
+      "category": "Technology",
+      "generated_at": "2026-09-15T15:55:23.092974"
     }
   ],
-  "last_updated": "2026-09-15T02:46:30.214433"
+  "last_updated": "2026-09-15T15:55:23.092976"
 }
