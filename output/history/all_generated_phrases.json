@@ -14699,7 +14699,42 @@
       "transliteration": "Szivem, kihagy egy utemet, csak erte.",
       "category": "Love",
       "generated_at": "2026-09-16T02:42:06.019827"
+    },
+    {
+      "english": "This bread, smells wonderful.",
+      "hungarian": "Ez a kenyér, csodás illatú.",
+      "transliteration": "Ez a ken-yeer, csod-aash ill-a-too.",
+      "category": "Travel",
+      "generated_at": "2026-09-16T15:47:13.033896"
+    },
+    {
+      "english": "What's this drink, called?",
+      "hungarian": "Ez az ital, hogy hívják?",
+      "transliteration": "Ez az ee-tal, hodj heev-yaak?",
+      "category": "Travel",
+      "generated_at": "2026-09-16T15:47:13.033910"
+    },
+    {
+      "english": "A table, for one, please.",
+      "hungarian": "Egy asztalt, egy főre, kérem.",
+      "transliteration": "Edj ast-tal-t, edj fö-re, ké-rem.",
+      "category": "Travel",
+      "generated_at": "2026-09-16T15:47:13.033912"
+    },
+    {
+      "english": "Could I see, the menu?",
+      "hungarian": "Megnézhetném, az étlapot?",
+      "transliteration": "Medj-néz-het-néem, az eet-la-pot?",
+      "category": "Travel",
+      "generated_at": "2026-09-16T15:47:13.033914"
+    },
+    {
+      "english": "Is this, spicy?",
+      "hungarian": "Ez, csípős?",
+      "transliteration": "Ez, cheep-ösh?",
+      "category": "Travel",
+      "generated_at": "2026-09-16T15:47:13.033915"
     }
   ],
-  "last_updated": "2026-09-16T02:42:06.019829"
+  "last_updated": "2026-09-16T15:47:13.033918"
 }
