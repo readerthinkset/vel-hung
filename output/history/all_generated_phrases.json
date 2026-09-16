@@ -14769,7 +14769,42 @@
       "transliteration": "Chend-esh pil-la-na-ta-ink, er-teh-ke-shek.",
       "category": "Relationships",
       "generated_at": "2026-09-16T17:48:36.321267"
+    },
+    {
+      "english": "This new sound, I can make it.",
+      "hungarian": "Ez az új hang, meg tudom szólaltatni.",
+      "transliteration": "Ez az ooy hoong, meg tudom zoholtatni.",
+      "category": "Confidence",
+      "generated_at": "2026-09-16T22:42:57.798909"
+    },
+    {
+      "english": "My Hungarian mind, is opening.",
+      "hungarian": "A magyar elmém, nyílik.",
+      "transliteration": "A moh-gar el-maym, nyee-leek.",
+      "category": "Confidence",
+      "generated_at": "2026-09-16T22:42:57.798922"
+    },
+    {
+      "english": "A sentence, starts to form.",
+      "hungarian": "Egy mondat, kezd formálódni.",
+      "transliteration": "Edj mon-dot, kedz for-mahl-ohd-nee.",
+      "category": "Confidence",
+      "generated_at": "2026-09-16T22:42:57.798924"
+    },
+    {
+      "english": "My Hungarian, feels closer.",
+      "hungarian": "A magyarom, közelebb érződik.",
+      "transliteration": "A moh-gar-ohm, koh-zeh-layb ayr-zoh-deek.",
+      "category": "Confidence",
+      "generated_at": "2026-09-16T22:42:57.798925"
+    },
+    {
+      "english": "I understand, more clearly now.",
+      "hungarian": "Jobban értem, tisztábban most.",
+      "transliteration": "Yob-bahn ayr-tem, teesh-taah-bahn moasht.",
+      "category": "Confidence",
+      "generated_at": "2026-09-16T22:42:57.798926"
     }
   ],
-  "last_updated": "2026-09-16T17:48:36.321269"
+  "last_updated": "2026-09-16T22:42:57.798928"
 }
