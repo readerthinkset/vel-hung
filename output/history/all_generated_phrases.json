@@ -14804,7 +14804,42 @@
       "transliteration": "Yob-bahn ayr-tem, teesh-taah-bahn moasht.",
       "category": "Confidence",
       "generated_at": "2026-09-16T22:42:57.798926"
+    },
+    {
+      "english": "Gently, shape the ending sound.",
+      "hungarian": "Finoman, formáld a végét.",
+      "transliteration": "Feenoman, formahld ah veegayt.",
+      "category": "Directions",
+      "generated_at": "2026-09-17T02:45:18.138485"
+    },
+    {
+      "english": "Let the word, linger slightly.",
+      "hungarian": "Hagyd, hogy maradjon, egy pillanat.",
+      "transliteration": "Hagd, hogy mahradjon, egy pillanawt.",
+      "category": "Directions",
+      "generated_at": "2026-09-17T02:45:18.138496"
+    },
+    {
+      "english": "Follow the tongue, make the sound.",
+      "hungarian": "Kövesd a nyelved, ejtsd ki.",
+      "transliteration": "Koveshd ah nyelvett, eyjd kee.",
+      "category": "Directions",
+      "generated_at": "2026-09-17T02:45:18.138498"
+    },
+    {
+      "english": "Visualize, the Hungarian word.",
+      "hungarian": "Képzeld el, a magyar szót.",
+      "transliteration": "Keipzel el, ah mahgyahr soht.",
+      "category": "Directions",
+      "generated_at": "2026-09-17T02:45:18.138500"
+    },
+    {
+      "english": "Softly, touch each syllable.",
+      "hungarian": "Lágyan, érintsd meg, a szótagot.",
+      "transliteration": "Laagyan, eerintsd meg, ah sohtahgot.",
+      "category": "Directions",
+      "generated_at": "2026-09-17T02:45:18.138501"
     }
   ],
-  "last_updated": "2026-09-16T22:42:57.798928"
+  "last_updated": "2026-09-17T02:45:18.138503"
 }
