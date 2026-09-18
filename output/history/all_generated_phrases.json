@@ -15119,7 +15119,42 @@
       "transliteration": "Ayfayl mayj, aalmoh-k vee-raa-goz-nak.",
       "category": "Time",
       "generated_at": "2026-09-18T19:24:29.491849"
+    },
+    {
+      "english": "This feels, wonderfully soft.",
+      "hungarian": "Ez, csodásan puha.",
+      "transliteration": "Ez, csodásan puha.",
+      "category": "Shopping",
+      "generated_at": "2026-09-18T22:22:57.620714"
+    },
+    {
+      "english": "Could you wrap, this up, please?",
+      "hungarian": "Bélelné ezt, kérem szépen?",
+      "transliteration": "Bélelné ezt, kérem szépen?",
+      "category": "Shopping",
+      "generated_at": "2026-09-18T22:22:57.620728"
+    },
+    {
+      "english": "I love, this pattern.",
+      "hungarian": "Nagyon tetszik, ez a minta.",
+      "transliteration": "Nagyon tetszik, ez a minta.",
+      "category": "Shopping",
+      "generated_at": "2026-09-18T22:22:57.620730"
+    },
+    {
+      "english": "What do you recommend, for a party?",
+      "hungarian": "Mit ajánl, egy bulira?",
+      "transliteration": "Mit ajánl, egy bulira?",
+      "category": "Shopping",
+      "generated_at": "2026-09-18T22:22:57.620731"
+    },
+    {
+      "english": "Is this, handmade?",
+      "hungarian": "Ez, kézzel készült?",
+      "transliteration": "Ez, kézzel készült?",
+      "category": "Shopping",
+      "generated_at": "2026-09-18T22:22:57.620732"
     }
   ],
-  "last_updated": "2026-09-18T19:24:29.491850"
+  "last_updated": "2026-09-18T22:22:57.620734"
 }
