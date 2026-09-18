@@ -15049,7 +15049,42 @@
       "transliteration": "Mah-dar-cheech-er-gaysh, veesh-khahng-zeek uhz er-duh-buhn.",
       "category": "Nature",
       "generated_at": "2026-09-18T15:27:42.260086"
+    },
+    {
+      "english": "Gentle breeze, cools the day.",
+      "hungarian": "Lágy szellő, hűsíti a napot.",
+      "transliteration": "Laadj sello, hyoosheetee ah nahpot.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T17:21:22.516491"
+    },
+    {
+      "english": "Heavy clouds, promise rain.",
+      "hungarian": "Nehéz felhők, esőt ígérnek.",
+      "transliteration": "Nehezh fellohk, esh-oht ee-gehr-nek.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T17:21:22.516502"
+    },
+    {
+      "english": "Bright sun, warms the earth.",
+      "hungarian": "Fényes nap, melegíti a földet.",
+      "transliteration": "Feynyesh nahp, mehleg-eetee ah fell-det.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T17:21:22.516503"
+    },
+    {
+      "english": "Sudden storm, passing by.",
+      "hungarian": "Hirtelen vihar, elvonulóban.",
+      "transliteration": "Heertelen vee-hahr, el-von-oo-lo-bahn.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T17:21:22.516505"
+    },
+    {
+      "english": "Crisp air, signals autumn.",
+      "hungarian": "Ropogós levegő, őszre utal.",
+      "transliteration": "Ropogohsh leh-veh-luh, oohs-reh oo-tahl.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T17:21:22.516506"
     }
   ],
-  "last_updated": "2026-09-18T15:27:42.260088"
+  "last_updated": "2026-09-18T17:21:22.516507"
 }
