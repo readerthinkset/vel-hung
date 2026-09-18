@@ -15084,7 +15084,42 @@
       "transliteration": "Ropogohsh leh-veh-luh, oohs-reh oo-tahl.",
       "category": "Weather",
       "generated_at": "2026-09-18T17:21:22.516506"
+    },
+    {
+      "english": "A long journey, starts here.",
+      "hungarian": "Hosszú út, itt kezdődik.",
+      "transliteration": "Hosszoo oot, heet kedzoodeek.",
+      "category": "Time",
+      "generated_at": "2026-09-18T19:24:29.491837"
+    },
+    {
+      "english": "Future waits, patiently.",
+      "hungarian": "Jövő vár, türelmesen.",
+      "transliteration": "Gyuh-voh vaar, tyoo-rel-mesh-en.",
+      "category": "Time",
+      "generated_at": "2026-09-18T19:24:29.491845"
+    },
+    {
+      "english": "That precise second, recall.",
+      "hungarian": "Azon a másodperc, emlékezz.",
+      "transliteration": "A-zon a maashodperts, em-lay-kets.",
+      "category": "Time",
+      "generated_at": "2026-09-18T19:24:29.491846"
+    },
+    {
+      "english": "Slowly, the river flows.",
+      "hungarian": "Lassan, a folyó árad.",
+      "transliteration": "Las-shan, a floh-yo aa-rad.",
+      "category": "Time",
+      "generated_at": "2026-09-18T19:24:29.491847"
+    },
+    {
+      "english": "Midnight deep, dreams bloom.",
+      "hungarian": "Éjfél mély, álmok virágoznak.",
+      "transliteration": "Ayfayl mayj, aalmoh-k vee-raa-goz-nak.",
+      "category": "Time",
+      "generated_at": "2026-09-18T19:24:29.491849"
     }
   ],
-  "last_updated": "2026-09-18T17:21:22.516507"
+  "last_updated": "2026-09-18T19:24:29.491850"
 }
