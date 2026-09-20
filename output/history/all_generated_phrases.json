@@ -15329,7 +15329,42 @@
       "transliteration": "Meen-deeg, yoh ohk, ah moh-shoh-y-grah-shra.",
       "category": "Friendship",
       "generated_at": "2026-09-19T22:13:01.489304"
+    },
+    {
+      "english": "The sun, peeks through.",
+      "hungarian": "A nap, kibújik.",
+      "transliteration": "uh nap, kiboojik",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-20T02:42:38.243631"
+    },
+    {
+      "english": "A gentle breeze, whispers.",
+      "hungarian": "Egy szelíd szellő, súg.",
+      "transliteration": "edge sel-eed sel-luh, shoog",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-20T02:42:38.243642"
+    },
+    {
+      "english": "Stars begin, to twinkle.",
+      "hungarian": "A csillagok, ragyogni kezdenek.",
+      "transliteration": "uh chil-lah-gok, rod-yod-nee ked-zed-nek",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-20T02:42:38.243645"
+    },
+    {
+      "english": "The river, flows onward.",
+      "hungarian": "A folyó, tovább folyik.",
+      "transliteration": "uh flo-yo, to-vahb flo-yik",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-20T02:42:38.243646"
+    },
+    {
+      "english": "Listen closely, now.",
+      "hungarian": "Figyelj, ide, most.",
+      "transliteration": "fid-yay, ee-duh, moasht",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-20T02:42:38.243648"
     }
   ],
-  "last_updated": "2026-09-19T22:13:01.489307"
+  "last_updated": "2026-09-20T02:42:38.243649"
 }
