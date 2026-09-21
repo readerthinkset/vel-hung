@@ -15504,7 +15504,42 @@
       "transliteration": "Bes-zayl hohl-lon, moyd hon-goh-shob-bon",
       "category": "Perseverance",
       "generated_at": "2026-09-20T22:15:45.118111"
+    },
+    {
+      "english": "My keys, vanished. Help?",
+      "hungarian": "A kulcsaim, eltűntek. Segítség?",
+      "transliteration": "A kul-cha-im, el-tünt-tek. Sheg-it-seg?",
+      "category": "Emergency",
+      "generated_at": "2026-09-21T02:40:11.759837"
+    },
+    {
+      "english": "Stomach ache, bad. Oh no.",
+      "hungarian": "Gyomrom fáj, nagyon. Jaj.",
+      "transliteration": "Jom-rom faaj, na-gyon. Jaaj.",
+      "category": "Emergency",
+      "generated_at": "2026-09-21T02:40:11.759846"
+    },
+    {
+      "english": "Can't find my way. Turned.",
+      "hungarian": "Nem találom az utat. Fordultam.",
+      "transliteration": "Nem ta-laa-lom az u-tat. For-dul-tom.",
+      "category": "Emergency",
+      "generated_at": "2026-09-21T02:40:11.759848"
+    },
+    {
+      "english": "Feeling very weak. Stand?",
+      "hungarian": "Nagyon gyenge vagyok. Álljak?",
+      "transliteration": "Na-gyon dyen-geh va-gyok. Aaal-lyaak?",
+      "category": "Emergency",
+      "generated_at": "2026-09-21T02:40:11.759849"
+    },
+    {
+      "english": "My glasses, broken. See?",
+      "hungarian": "A szemüvegem, törött. Látok?",
+      "transliteration": "A sem-ü-ve-gem, tö-rött. Laa-tok?",
+      "category": "Emergency",
+      "generated_at": "2026-09-21T02:40:11.759850"
     }
   ],
-  "last_updated": "2026-09-20T22:15:45.118113"
+  "last_updated": "2026-09-21T02:40:11.759852"
 }
