@@ -15574,7 +15574,42 @@
       "transliteration": "Ody tyoo-rel-met, shee-et-shayg-ben.",
       "category": "Kindness",
       "generated_at": "2026-09-21T17:26:24.580614"
+    },
+    {
+      "english": "Listen, the air vibrates.",
+      "hungarian": "Hallod, a levegő rezeg.",
+      "transliteration": "Hallod, a levő rezeg.",
+      "category": "Music",
+      "generated_at": "2026-09-21T20:45:53.904720"
+    },
+    {
+      "english": "A soft echo, then silence.",
+      "hungarian": "Egy halk visszhang, majd csend.",
+      "transliteration": "Edj hwalk vishkhang, mayd chend.",
+      "category": "Music",
+      "generated_at": "2026-09-21T20:45:53.904731"
+    },
+    {
+      "english": "That string, it trembles.",
+      "hungarian": "Az a húr, remeg.",
+      "transliteration": "Az a hoor, remeg.",
+      "category": "Music",
+      "generated_at": "2026-09-21T20:45:53.904732"
+    },
+    {
+      "english": "Hear the wood creak?",
+      "hungarian": "Hallod a fa roppanását?",
+      "transliteration": "Hallod a fa roppanashat?",
+      "category": "Music",
+      "generated_at": "2026-09-21T20:45:53.904733"
+    },
+    {
+      "english": "A sudden breath, of music.",
+      "hungarian": "Egy hirtelen lélegzet, zenéből.",
+      "transliteration": "Edj hirtelehn lehleget, zenebol.",
+      "category": "Music",
+      "generated_at": "2026-09-21T20:45:53.904734"
     }
   ],
-  "last_updated": "2026-09-21T17:26:24.580615"
+  "last_updated": "2026-09-21T20:45:53.904736"
 }
