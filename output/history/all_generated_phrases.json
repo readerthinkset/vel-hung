@@ -15749,7 +15749,42 @@
       "transliteration": "Hold-fay-nyesh ez-oosh-t, chend-esh voh-rozh-lott.",
       "category": "Colors",
       "generated_at": "2026-09-22T17:48:59.293168"
+    },
+    {
+      "english": "This coffee, is very strong.",
+      "hungarian": "Ez a kávé, nagyon erős.",
+      "transliteration": "Ez a kah-vay, nah-dyon err-sh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-22T20:00:27.430187"
+    },
+    {
+      "english": "I love, this city's energy.",
+      "hungarian": "Szeretem, ennek a városnak az energiáját.",
+      "transliteration": "Sehr-reh-tem, enn-ek ah vah-rosh-nahk ahz en-nehr-gee-yah-aat.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-22T20:00:27.430200"
+    },
+    {
+      "english": "The train, arrived on time.",
+      "hungarian": "A vonat, időben érkezett.",
+      "transliteration": "Ah voh-naht, ee-duh-bayn ayr-keh-zet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-22T20:00:27.430201"
+    },
+    {
+      "english": "Can you, recommend a book?",
+      "hungarian": "Tudsz, ajánlani egy könyvet?",
+      "transliteration": "Toots, ah-yah-nah-lee ee-dy kohn-yet?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-22T20:00:27.430202"
+    },
+    {
+      "english": "This artwork, is fascinating.",
+      "hungarian": "Ez a műalkotás, lenyűgöző.",
+      "transliteration": "Ez ah mew-ahl-koh-taash, len-yew-gaw-zuh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-22T20:00:27.430203"
     }
   ],
-  "last_updated": "2026-09-22T17:48:59.293170"
+  "last_updated": "2026-09-22T20:00:27.430204"
 }
