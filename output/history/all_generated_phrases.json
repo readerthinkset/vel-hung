@@ -15644,7 +15644,42 @@
       "transliteration": "A len-vashon roo-ha-ya, yohl sel-lő-zick.",
       "category": "Clothes",
       "generated_at": "2026-09-21T23:04:16.356597"
+    },
+    {
+      "english": "My father, always, a strong presence.",
+      "hungarian": "Apám, mindig, erős jelenlét.",
+      "transliteration": "A-paam, meen-deeg, er-rosh je-len-leht.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-22T02:42:19.817986"
+    },
+    {
+      "english": "My mother, her kindness, knows no bounds.",
+      "hungarian": "Anyám, kedvessége, határtalan.",
+      "transliteration": "A-nyaam, ked-ves-she-geh, haat-taa-r-ta-lan.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-22T02:42:19.817995"
+    },
+    {
+      "english": "My brother, he tinkers, with gadgets.",
+      "hungarian": "Bátyám, szerel, kütyükkel.",
+      "transliteration": "Baa-tyaam, se-rel, kyoo-tyook-kel.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-22T02:42:19.817997"
+    },
+    {
+      "english": "My sister, she draws, fantastical creatures.",
+      "hungarian": "Húgom, rajzol, mesebeli lényeket.",
+      "transliteration": "Hoo-gom, raj-zol, me-she-beh-lee leen-yeh-ket.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-22T02:42:19.817998"
+    },
+    {
+      "english": "My grandmother, her stories, full of life.",
+      "hungarian": "Nagymamám, meséi, élettel teli.",
+      "transliteration": "Nag-yee-maa-maam, me-she-ee, eh-let-tel teh-lee.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-22T02:42:19.817999"
     }
   ],
-  "last_updated": "2026-09-21T23:04:16.356599"
+  "last_updated": "2026-09-22T02:42:19.818001"
 }
