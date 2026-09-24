@@ -16099,7 +16099,42 @@
       "transliteration": "SzeLEED zaaPOR, HUeSH-ti, a szomJASH fOEldet.",
       "category": "Weather",
       "generated_at": "2026-09-24T20:15:18.072965"
+    },
+    {
+      "english": "Move with grace, feel the flow.",
+      "hungarian": "Mozogj kecsesen, érezd az áramlást.",
+      "transliteration": "Moh-zoh-dy keh-cheh-shun, eh-rehd-zh ah-rah-m'lah-sht.",
+      "category": "Health",
+      "generated_at": "2026-09-24T23:05:22.004204"
+    },
+    {
+      "english": "Nourish your body, with good food.",
+      "hungarian": "Tápláld tested, jó ételekkel.",
+      "transliteration": "Tahp-lahld tehsh-tehd, yoh eh-teh-kehl-kehl.",
+      "category": "Health",
+      "generated_at": "2026-09-24T23:05:22.004215"
+    },
+    {
+      "english": "Rest deeply, restore your energy.",
+      "hungarian": "Pihenj mélyen, állítsd helyre energiád.",
+      "transliteration": "Pee-hen-dy meh-yenn, ah-leh-teet-sht heh-y-reh eh-nehr-dee-ahd.",
+      "category": "Health",
+      "generated_at": "2026-09-24T23:05:22.004217"
+    },
+    {
+      "english": "Laugh out loud, release the tension.",
+      "hungarian": "Nevess hangosan, engedd el a feszültséget.",
+      "transliteration": "Neh-vehs-sh hahn-goh-shahn, ehn-gehd-d ehl ah feh-sul-tsay-geht.",
+      "category": "Health",
+      "generated_at": "2026-09-24T23:05:22.004219"
+    },
+    {
+      "english": "Hydrate your spirit, with pure water.",
+      "hungarian": "Hidratáld lelked, tiszta vízzel.",
+      "transliteration": "Hee-dra-tahld lehl-kehd, tees-tah veez-zehl.",
+      "category": "Health",
+      "generated_at": "2026-09-24T23:05:22.004220"
     }
   ],
-  "last_updated": "2026-09-24T20:15:18.072967"
+  "last_updated": "2026-09-24T23:05:22.004222"
 }
