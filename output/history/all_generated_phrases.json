@@ -15994,7 +15994,42 @@
       "transliteration": "Ez, a legújabb divat?",
       "category": "Shopping",
       "generated_at": "2026-09-24T02:31:30.825042"
+    },
+    {
+      "english": "Hungarian whispers, to my ear.",
+      "hungarian": "A magyar, fülembe súg.",
+      "transliteration": "Ah oo-ng-yahr, fyoo-lem-beh shoo-g.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T16:09:31.118752"
+    },
+    {
+      "english": "This meaning, I grasp it.",
+      "hungarian": "Ez a jelentés, megértem.",
+      "transliteration": "Ez ah yeh-len-taysh, meh-gayr-tem.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T16:09:31.118764"
+    },
+    {
+      "english": "My Hungarian, feels alive.",
+      "hungarian": "Az én magyarom, élénk.",
+      "transliteration": "Ahz ayn oo-ng-yah-rom, ay-laynk.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T16:09:31.118765"
+    },
+    {
+      "english": "New sounds, I welcome them.",
+      "hungarian": "Új hangok, üdvözlöm őket.",
+      "transliteration": "Ooy hong-ok, ood-vuhz-lohm oy-ket.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T16:09:31.118766"
+    },
+    {
+      "english": "This sentence, I've built it.",
+      "hungarian": "Ezt a mondatot, felépítettem.",
+      "transliteration": "Esht ah mon-dah-tot, fay-lay-pee-tet-tem.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T16:09:31.118767"
     }
   ],
-  "last_updated": "2026-09-24T02:31:30.825044"
+  "last_updated": "2026-09-24T16:09:31.118769"
 }
