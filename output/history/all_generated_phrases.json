@@ -16589,7 +16589,42 @@
       "transliteration": "Hagyd, hogy a cso-da, ve-zé-rel-jen.",
       "category": "Holidays",
       "generated_at": "2026-09-27T19:57:18.134189"
+    },
+    {
+      "english": "Sunrise paints the sky, gold.",
+      "hungarian": "Napkelte festi az eget, arany.",
+      "transliteration": "Nawp-kel-teh fesh-tee uhz eh-get, awr-awny.",
+      "category": "Time",
+      "generated_at": "2026-09-27T22:53:01.057675"
+    },
+    {
+      "english": "The old clock ticks, steady.",
+      "hungarian": "A régi óra ketyeg, szüntelen.",
+      "transliteration": "Uh reh-ghee oh-raw keh-tyeg, syoon-teh-len.",
+      "category": "Time",
+      "generated_at": "2026-09-27T22:53:01.057688"
+    },
+    {
+      "english": "Shadows lengthen, day ends.",
+      "hungarian": "Az árnyak nyúlnak, nap zárul.",
+      "transliteration": "Uhz ahr-nyak nyool-nawk, nawp zah-rool.",
+      "category": "Time",
+      "generated_at": "2026-09-27T22:53:01.057689"
+    },
+    {
+      "english": "A moment's peace, found now.",
+      "hungarian": "Egy percnyi csend, most itt.",
+      "transliteration": "Edg perts-nyee chend, mowsht eet.",
+      "category": "Time",
+      "generated_at": "2026-09-27T22:53:01.057691"
+    },
+    {
+      "english": "Time flows like water, onward.",
+      "hungarian": "Az idő úgy folyik, mint víz, tovább.",
+      "transliteration": "Uhz ee-duh ooj foy-yik, mint veez, toh-vahb.",
+      "category": "Time",
+      "generated_at": "2026-09-27T22:53:01.057692"
     }
   ],
-  "last_updated": "2026-09-27T19:57:18.134191"
+  "last_updated": "2026-09-27T22:53:01.057694"
 }
