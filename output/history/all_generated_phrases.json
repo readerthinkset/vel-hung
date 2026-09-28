@@ -16659,7 +16659,42 @@
       "transliteration": "HAL-gashd a SEEV, RIT-moo-shat.",
       "category": "Wisdom",
       "generated_at": "2026-09-28T02:53:41.191433"
+    },
+    {
+      "english": "Help, please, I'm lost.",
+      "hungarian": "Segítség, kérem, eltévedtem.",
+      "transliteration": "Shay-geet-shay, kay-rem, el-tay-ved-tem.",
+      "category": "Emergency",
+      "generated_at": "2026-09-28T18:57:53.680742"
+    },
+    {
+      "english": "My belongings, stolen. Help?",
+      "hungarian": "Holmijaim, ellopták. Segítség?",
+      "transliteration": "Hol-mee-yom, el-lop-tak. Shay-geet-shay?",
+      "category": "Emergency",
+      "generated_at": "2026-09-28T18:57:53.680751"
+    },
+    {
+      "english": "Sudden illness, need doctor.",
+      "hungarian": "Hirtelen rosszullét, orvos kell.",
+      "transliteration": "Her-tel-en rosh-ool-layt, or-vosh kell.",
+      "category": "Emergency",
+      "generated_at": "2026-09-28T18:57:53.680752"
+    },
+    {
+      "english": "I cannot understand, language barrier.",
+      "hungarian": "Nem értem, nyelvi akadály.",
+      "transliteration": "Nem er-tem, nyel-vee ok-oh-dahy.",
+      "category": "Emergency",
+      "generated_at": "2026-09-28T18:57:53.680754"
+    },
+    {
+      "english": "My child, separated. Where?",
+      "hungarian": "A gyerekem, külön. Hol?",
+      "transliteration": "Ah dye-rek-em, kyoo-lon. Hol?",
+      "category": "Emergency",
+      "generated_at": "2026-09-28T18:57:53.680754"
     }
   ],
-  "last_updated": "2026-09-28T02:53:41.191435"
+  "last_updated": "2026-09-28T18:57:53.680756"
 }
