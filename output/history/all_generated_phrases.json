@@ -16694,7 +16694,42 @@
       "transliteration": "Ah dye-rek-em, kyoo-lon. Hol?",
       "category": "Emergency",
       "generated_at": "2026-09-28T18:57:53.680754"
+    },
+    {
+      "english": "Forest whispers, secrets old.",
+      "hungarian": "Erdő súg, titkokat őriz.",
+      "transliteration": "Er-duh shoo-guh, tit-koh-kut o-reez.",
+      "category": "Nature",
+      "generated_at": "2026-09-28T20:18:43.033816"
+    },
+    {
+      "english": "River winding, slowly flows.",
+      "hungarian": "Folyó kanyarog, lassan áramlik.",
+      "transliteration": "Fo-yo-uh kun-yuh-ro-guh, lush-shun ah-rum-lik.",
+      "category": "Nature",
+      "generated_at": "2026-09-28T20:18:43.033825"
+    },
+    {
+      "english": "Mountain stands, silent watch.",
+      "hungarian": "Hegység áll, néma őr.",
+      "transliteration": "Heg-shag ah-l, nay-muh ohr.",
+      "category": "Nature",
+      "generated_at": "2026-09-28T20:18:43.033827"
+    },
+    {
+      "english": "Sunbeam breaks, through the haze.",
+      "hungarian": "Napsugár tör, a ködön át.",
+      "transliteration": "Nup-shoo-gahr tur, uh kuh-dun ah-t.",
+      "category": "Nature",
+      "generated_at": "2026-09-28T20:18:43.033828"
+    },
+    {
+      "english": "Ocean breathes, deep and wide.",
+      "hungarian": "Óceán lélegzik, mélyen, szélesen.",
+      "transliteration": "Oh-tseh-ahn lay-leg-zeek, may-hen, say-lesh-en.",
+      "category": "Nature",
+      "generated_at": "2026-09-28T20:18:43.033830"
     }
   ],
-  "last_updated": "2026-09-28T18:57:53.680756"
+  "last_updated": "2026-09-28T20:18:43.033832"
 }
