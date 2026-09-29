@@ -16799,7 +16799,42 @@
       "transliteration": "Digitális lábnyomok, hagynak nyomot.",
       "category": "Technology",
       "generated_at": "2026-09-29T00:15:16.320402"
+    },
+    {
+      "english": "Savory mushroom, forest delight.",
+      "hungarian": "Ízletes gomba, erdei öröm.",
+      "transliteration": "EEZ-tle-tesh GOM-ba, ER-deh-ee OR-rem.",
+      "category": "Food",
+      "generated_at": "2026-09-29T03:34:01.832553"
+    },
+    {
+      "english": "Crispy potato, golden fried.",
+      "hungarian": "Ropogós krumpli, aranysárga sült.",
+      "transliteration": "ROP-po-gohsh KRUM-plee, ar-ahn-SHAR-ga SOOLT.",
+      "category": "Food",
+      "generated_at": "2026-09-29T03:34:01.832564"
+    },
+    {
+      "english": "Sweet plum, summer's gift.",
+      "hungarian": "Édes szilva, nyári ajándék.",
+      "transliteration": "AY-desh SIL-va, NYAH-ree AH-dahn-dayk.",
+      "category": "Food",
+      "generated_at": "2026-09-29T03:34:01.832567"
+    },
+    {
+      "english": "Tangy cabbage, fermented goodness.",
+      "hungarian": "Savanyú káposzta, erjesztett finomság.",
+      "transliteration": "SAV-ah-nyoo KAH-pohs-tah, ER-yes-tet-t FEEN-oh-m-shahg.",
+      "category": "Food",
+      "generated_at": "2026-09-29T03:34:01.832568"
+    },
+    {
+      "english": "Rich liver, earthy flavor.",
+      "hungarian": "Gazdag máj, földes íz.",
+      "transliteration": "GAZ-dag MAH-y, FOLD-esh EEZ.",
+      "category": "Food",
+      "generated_at": "2026-09-29T03:34:01.832569"
     }
   ],
-  "last_updated": "2026-09-29T00:15:16.320404"
+  "last_updated": "2026-09-29T03:34:01.832571"
 }
