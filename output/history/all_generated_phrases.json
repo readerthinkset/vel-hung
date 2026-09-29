@@ -16834,7 +16834,42 @@
       "transliteration": "GAZ-dag MAH-y, FOLD-esh EEZ.",
       "category": "Food",
       "generated_at": "2026-09-29T03:34:01.832569"
+    },
+    {
+      "english": "The curious cat, peers from the window.",
+      "hungarian": "A kíváncsi macska, kinéz az ablakon.",
+      "transliteration": "A kee-van-tchi matz-kah, kee-nez otz ah-blah-kon.",
+      "category": "Animals",
+      "generated_at": "2026-09-29T17:16:57.771417"
+    },
+    {
+      "english": "A happy dog, wags its tail.",
+      "hungarian": "Egy vidám kutya, csóválja farkát.",
+      "transliteration": "Edj vee-daam koot-yah, cho-vaal-yah fark-aat.",
+      "category": "Animals",
+      "generated_at": "2026-09-29T17:16:57.771427"
+    },
+    {
+      "english": "The brave lion, roars powerfully.",
+      "hungarian": "A bátor oroszlán, erősen ordít.",
+      "transliteration": "A bah-tor or-osh-laahn, er-oh-shen or-deet.",
+      "category": "Animals",
+      "generated_at": "2026-09-29T17:16:57.771428"
+    },
+    {
+      "english": "A wise owl, watches the night.",
+      "hungarian": "Egy bölcs bagoly, figyeli az éjt.",
+      "transliteration": "Edj bultz bag-ol-y, fee-ge-ly-ee otz ay-t.",
+      "category": "Animals",
+      "generated_at": "2026-09-29T17:16:57.771429"
+    },
+    {
+      "english": "The graceful swan, glides on the lake.",
+      "hungarian": "A kecses hattyú, siklik a tavon.",
+      "transliteration": "A kech-esh hat-tyoo, sheek-leek ah tah-von.",
+      "category": "Animals",
+      "generated_at": "2026-09-29T17:16:57.771430"
     }
   ],
-  "last_updated": "2026-09-29T03:34:01.832571"
+  "last_updated": "2026-09-29T17:16:57.771431"
 }
