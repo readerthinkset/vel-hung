@@ -16904,7 +16904,42 @@
       "transliteration": "Új szavak, gyökeret eresztenek.",
       "category": "Confidence",
       "generated_at": "2026-09-29T21:14:16.743968"
+    },
+    {
+      "english": "First coffee, a welcome warmth.",
+      "hungarian": "Első kávé, kellemes melegség.",
+      "transliteration": "El-shö káv-eh, kell-eh-mesh me-gel-lesh-eg.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-29T23:32:05.990304"
+    },
+    {
+      "english": "Keys in hand, ready to go.",
+      "hungarian": "Kulcsok kézben, indulásra készen.",
+      "transliteration": "Koolch-ok kéz-ben, in-doo-la-shra kesh-zen.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-29T23:32:05.990314"
+    },
+    {
+      "english": "Quick glance, at the clock.",
+      "hungarian": "Gyors pillantás, az órára.",
+      "transliteration": "Dyor-sh pill-an-tash, az ó-rá-ra.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-29T23:32:05.990315"
+    },
+    {
+      "english": "Shower spray, refreshing blast.",
+      "hungarian": "Zuhany permet, frissítő csapás.",
+      "transliteration": "Zoo-hany per-met, friss-i-tő chap-ash.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-29T23:32:05.990316"
+    },
+    {
+      "english": "Dress quick, out the door.",
+      "hungarian": "Öltözz gyorsan, ki az ajtón.",
+      "transliteration": "Ölt-öz dyor-shan, ki az ajt-ón.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-29T23:32:05.990317"
     }
   ],
-  "last_updated": "2026-09-29T21:14:16.743969"
+  "last_updated": "2026-09-29T23:32:05.990318"
 }
