@@ -17499,7 +17499,42 @@
       "transliteration": "Meh-leg-sheg, ko-zosh neh-veh-tay-sheh, a-rad.",
       "category": "Feelings",
       "generated_at": "2026-10-03T17:41:04.655095"
+    },
+    {
+      "english": "Gently, touch the vowel.",
+      "hungarian": "Finoman, érintsd meg a magánhangzót.",
+      "transliteration": "Fin-o-man, eh-rints med ah mah-gan-han-zoht.",
+      "category": "Directions",
+      "generated_at": "2026-10-03T19:40:21.901054"
+    },
+    {
+      "english": "Feel the flow, of the sentence.",
+      "hungarian": "Érezd az áramlást, a mondaté.",
+      "transliteration": "Eh-rezd az ah-ram-laash, ah mon-dah-teh.",
+      "category": "Directions",
+      "generated_at": "2026-10-03T19:40:21.901066"
+    },
+    {
+      "english": "Unfold the word, slowly.",
+      "hungarian": "Bontsd ki a szót, lassan.",
+      "transliteration": "Bon't' ki ah soht, lash-shan.",
+      "category": "Directions",
+      "generated_at": "2026-10-03T19:40:21.901067"
+    },
+    {
+      "english": "Find the rhythm, within.",
+      "hungarian": "Keresd meg a ritmust, belül.",
+      "transliteration": "Ke-resh med ah rit-moosh, beh-lyool.",
+      "category": "Directions",
+      "generated_at": "2026-10-03T19:40:21.901069"
+    },
+    {
+      "english": "Let the meaning, settle.",
+      "hungarian": "Hagyd, hogy az értelem leülepedjen.",
+      "transliteration": "Hah'd, hot ah eh'r-teh-lem leh-yoo-leh-ped-jen.",
+      "category": "Directions",
+      "generated_at": "2026-10-03T19:40:21.901070"
     }
   ],
-  "last_updated": "2026-10-03T17:41:04.655097"
+  "last_updated": "2026-10-03T19:40:21.901072"
 }
