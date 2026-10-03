@@ -17534,7 +17534,42 @@
       "transliteration": "Hah'd, hot ah eh'r-teh-lem leh-yoo-leh-ped-jen.",
       "category": "Directions",
       "generated_at": "2026-10-03T19:40:21.901070"
+    },
+    {
+      "english": "Dewdrops sparkle, on the spiderweb.",
+      "hungarian": "Harmatcseppek csillognak, a pókhálón.",
+      "transliteration": "Har-mat-chep-pek chish-log-nuk, a poh-ha-lon.",
+      "category": "Nature",
+      "generated_at": "2026-10-03T22:45:36.533800"
+    },
+    {
+      "english": "Wind rustles, through the reeds.",
+      "hungarian": "Szél susog, a nádasban.",
+      "transliteration": "Seel shoosh-og, a na-das-ban.",
+      "category": "Nature",
+      "generated_at": "2026-10-03T22:45:36.533810"
+    },
+    {
+      "english": "Stars ignite, the dark canvas.",
+      "hungarian": "Csillagok gyúlnak, sötét vászonra.",
+      "transliteration": "Chish-tah-gok gyool-nuk, shut-ayte vaash-on-ra.",
+      "category": "Nature",
+      "generated_at": "2026-10-03T22:45:36.533811"
+    },
+    {
+      "english": "A river sings, its ancient song.",
+      "hungarian": "Folyó dalol, ősi dalát.",
+      "transliteration": "Foh-yo dal-ol, uh-shee dal-aat.",
+      "category": "Nature",
+      "generated_at": "2026-10-03T22:45:36.533813"
+    },
+    {
+      "english": "Thorns guard, the wild rose.",
+      "hungarian": "Tövisek őrzik, a vadrózsát.",
+      "transliteration": "Tuh-vish-ek ohr-tsik, a vod-rozh-a-at.",
+      "category": "Nature",
+      "generated_at": "2026-10-03T22:45:36.533814"
     }
   ],
-  "last_updated": "2026-10-03T19:40:21.901072"
+  "last_updated": "2026-10-03T22:45:36.533816"
 }
