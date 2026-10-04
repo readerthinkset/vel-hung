@@ -17639,7 +17639,42 @@
       "transliteration": "Bay-ke shoo-g, ae-desh dal-la-mot.",
       "category": "Happiness",
       "generated_at": "2026-10-04T16:11:25.372660"
+    },
+    {
+      "english": "Keep going, you're doing great.",
+      "hungarian": "Folytasd, jól csinálod.",
+      "transliteration": "Folytasd, jool cheenaalod.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-04T17:55:31.593356"
+    },
+    {
+      "english": "Let's get this, started now.",
+      "hungarian": "Kezdjük el, most rögtön.",
+      "transliteration": "Kezdjük el, most rögtön.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-04T17:55:31.593366"
+    },
+    {
+      "english": "That sounds, like fun.",
+      "hungarian": "Ez szórakoztatónak, tűnik.",
+      "transliteration": "Ez soora-koztato-nak, tünik.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-04T17:55:31.593367"
+    },
+    {
+      "english": "A moment, for reflection.",
+      "hungarian": "Egy pillanat, elmélkedni.",
+      "transliteration": "Edgy pillanat, el-mel-ked-ni.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-04T17:55:31.593368"
+    },
+    {
+      "english": "This is, quite surprising.",
+      "hungarian": "Ez meglehetősen, váratlan.",
+      "transliteration": "Ez meg-le-he-tö-sen, va-rat-lan.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-04T17:55:31.593368"
     }
   ],
-  "last_updated": "2026-10-04T16:11:25.372662"
+  "last_updated": "2026-10-04T17:55:31.593369"
 }
