@@ -18024,7 +18024,42 @@
       "transliteration": "Me-ger-té-sed, mé-yül most.",
       "category": "Success",
       "generated_at": "2026-10-06T21:26:09.889929"
+    },
+    {
+      "english": "Quick, someone help!",
+      "hungarian": "Gyorsan, valaki segítsen!",
+      "transliteration": "Djeor-shon, vol-o-kee she-geet-shen!",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T23:39:16.458926"
+    },
+    {
+      "english": "I feel faint, support me.",
+      "hungarian": "Elájulok, támogass.",
+      "transliteration": "El-ah-you-lok, tah-mo-gosh.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T23:39:16.458936"
+    },
+    {
+      "english": "My breathing is difficult.",
+      "hungarian": "Nehezen kapok levegőt.",
+      "transliteration": "Ne-heh-zen kop-ok leh-veh-goet.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T23:39:16.458937"
+    },
+    {
+      "english": "I need medical aid, now.",
+      "hungarian": "Orvosi segítség kell, azonnal.",
+      "transliteration": "Or-vo-shee she-geet-sehk kell, o-zon-nol.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T23:39:16.458938"
+    },
+    {
+      "english": "Where is the nearest exit?",
+      "hungarian": "Hol a legközelebbi kijárat?",
+      "transliteration": "Hol o lehg-ko-zeh-leb-bee kee-yah-rot?",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T23:39:16.458939"
     }
   ],
-  "last_updated": "2026-10-06T21:26:09.889931"
+  "last_updated": "2026-10-06T23:39:16.458941"
 }
