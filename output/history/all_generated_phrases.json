@@ -17919,7 +17919,42 @@
       "transliteration": "Kee-taar-taash esh el-saahnt-shaag.",
       "category": "Sports",
       "generated_at": "2026-10-06T04:09:30.771653"
+    },
+    {
+      "english": "Soon, we'll see.",
+      "hungarian": "Hamarosan, meglátjuk.",
+      "transliteration": "Hamarosan, meglátjuk.",
+      "category": "Time",
+      "generated_at": "2026-10-06T17:36:52.330242"
+    },
+    {
+      "english": "Later, maybe, yes?",
+      "hungarian": "Később, talán, igen?",
+      "transliteration": "Később, talán, igen?",
+      "category": "Time",
+      "generated_at": "2026-10-06T17:36:52.330255"
+    },
+    {
+      "english": "Just for now.",
+      "hungarian": "Csak most.",
+      "transliteration": "Csak most.",
+      "category": "Time",
+      "generated_at": "2026-10-06T17:36:52.330256"
+    },
+    {
+      "english": "The day breaks, slowly.",
+      "hungarian": "Lassan, megvirrad.",
+      "transliteration": "Lassan, megvirrad.",
+      "category": "Time",
+      "generated_at": "2026-10-06T17:36:52.330257"
+    },
+    {
+      "english": "When it's dark, we rest.",
+      "hungarian": "Mikor sötét, pihenünk.",
+      "transliteration": "Mikor sötét, pihenünk.",
+      "category": "Time",
+      "generated_at": "2026-10-06T17:36:52.330258"
     }
   ],
-  "last_updated": "2026-10-06T04:09:30.771655"
+  "last_updated": "2026-10-06T17:36:52.330259"
 }
