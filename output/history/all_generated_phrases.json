@@ -18129,7 +18129,42 @@
       "transliteration": "Ez a meg-osh-tod ken-yeer, o-yan fi-nom.",
       "category": "Gratitude",
       "generated_at": "2026-10-07T18:14:09.734690"
+    },
+    {
+      "english": "A lone wolf, howls at the moon.",
+      "hungarian": "Egy magányos farkas, üvölt a holdnak.",
+      "transliteration": "Edj maganyosh farkash, uvolt a holdnak.",
+      "category": "Animals",
+      "generated_at": "2026-10-07T19:42:00.841221"
+    },
+    {
+      "english": "A curious fox, sniffs the air.",
+      "hungarian": "Egy kíváncsi róka, szaglászik a levegőben.",
+      "transliteration": "Edj kivanci roka, szaglashik a levegoben.",
+      "category": "Animals",
+      "generated_at": "2026-10-07T19:42:00.841234"
+    },
+    {
+      "english": "The busy beaver, builds its dam.",
+      "hungarian": "A szorgos hód, építi a gátját.",
+      "transliteration": "A szorgosh hod, epiti a gatjat.",
+      "category": "Animals",
+      "generated_at": "2026-10-07T19:42:00.841236"
+    },
+    {
+      "english": "A shy deer, grazes in the meadow.",
+      "hungarian": "Egy félénk szarvas, legel a réten.",
+      "transliteration": "Edj felenk szarvash, legel a reten.",
+      "category": "Animals",
+      "generated_at": "2026-10-07T19:42:00.841237"
+    },
+    {
+      "english": "The watchful eagle, soars high.",
+      "hungarian": "A figyelmes sas, magasra száll.",
+      "transliteration": "A figyelmesh shash, magasra shaall.",
+      "category": "Animals",
+      "generated_at": "2026-10-07T19:42:00.841239"
     }
   ],
-  "last_updated": "2026-10-07T18:14:09.734692"
+  "last_updated": "2026-10-07T19:42:00.841241"
 }
