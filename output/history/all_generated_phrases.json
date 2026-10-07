@@ -18164,7 +18164,42 @@
       "transliteration": "A figyelmesh shash, magasra shaall.",
       "category": "Animals",
       "generated_at": "2026-10-07T19:42:00.841239"
+    },
+    {
+      "english": "Sunlight streams, into the room.",
+      "hungarian": "Napfény szűrődik, be a szobába.",
+      "transliteration": "Nap-feen-sheh syoo-ree-deek, beh ah soh-bah.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-07T21:45:53.215730"
+    },
+    {
+      "english": "Sip my tea, slowly now.",
+      "hungarian": "Szürcsölöm a teám, lassan.",
+      "transliteration": "Syur-choh-lohm ah teh-aam, la-shahn.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-07T21:45:53.215745"
+    },
+    {
+      "english": "Check the phone, for messages.",
+      "hungarian": "Megnézem a telefont, üzenetekért.",
+      "transliteration": "Meg-nay-zem ah tel-eh-fohnt, oo-zeh-neh-ket-ayrt.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-07T21:45:53.215746"
+    },
+    {
+      "english": "Birds are singing, outside my window.",
+      "hungarian": "Madarak csiripelnek, az ablakomon kívül.",
+      "transliteration": "Mah-dah-rahk cheer-ip-nelk, ahz ahb-lah-koh-mohn kee-vool.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-07T21:45:53.215747"
+    },
+    {
+      "english": "Get dressed, for the day's tasks.",
+      "hungarian": "Felöltözöm, a nap feladataira.",
+      "transliteration": "Fel-ol-tuh-zohm, ah nap fel-ah-dah-tai-rah.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-07T21:45:53.215748"
     }
   ],
-  "last_updated": "2026-10-07T19:42:00.841241"
+  "last_updated": "2026-10-07T21:45:53.215749"
 }
