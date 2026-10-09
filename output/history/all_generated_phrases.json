@@ -18444,7 +18444,42 @@
       "transliteration": "A meg-ta-ka-rí-tás nö, mint las-szú fo-lyó.",
       "category": "Finance",
       "generated_at": "2026-10-09T17:44:01.690137"
+    },
+    {
+      "english": "Morning light, fills the room.",
+      "hungarian": "Reggeli fény, betölti a szobát.",
+      "transliteration": "Reg-geli feny, betölt-ti a szoh-baht.",
+      "category": "Health",
+      "generated_at": "2026-10-09T19:08:32.439045"
+    },
+    {
+      "english": "Walk in nature, feel alive.",
+      "hungarian": "Séta a természetben, érezd magad élve.",
+      "transliteration": "Sheh-tah ah ter-mesh-zet-ben, eh-rezd mah-gahd elv-eh.",
+      "category": "Health",
+      "generated_at": "2026-10-09T19:08:32.439056"
+    },
+    {
+      "english": "Warm tea, soothes the throat.",
+      "hungarian": "Meleg tea, nyugtatja a torkot.",
+      "transliteration": "Meh-leg teh-ah, nyug-taht-yah ah tork-ot.",
+      "category": "Health",
+      "generated_at": "2026-10-09T19:08:32.439058"
+    },
+    {
+      "english": "Soft blanket, feels like home.",
+      "hungarian": "Puha takaró, otthonos érzés.",
+      "transliteration": "Poo-hah tah-kah-roh, ot-tho-no-sh er-zehsh.",
+      "category": "Health",
+      "generated_at": "2026-10-09T19:08:32.439060"
+    },
+    {
+      "english": "Open window, fresh air flows.",
+      "hungarian": "Nyitott ablak, friss levegő áramlik.",
+      "transliteration": "Nyi-tot ahb-lahk, friss leh-veh-goh ah-rahm-leek.",
+      "category": "Health",
+      "generated_at": "2026-10-09T19:08:32.439061"
     }
   ],
-  "last_updated": "2026-10-09T17:44:01.690138"
+  "last_updated": "2026-10-09T19:08:32.439063"
 }
