@@ -19144,7 +19144,42 @@
       "transliteration": "Mohnd-ah-nee too-dohm, eh-gehn!",
       "category": "Confidence",
       "generated_at": "2026-10-13T18:40:22.777296"
+    },
+    {
+      "english": "Sky, wears a grey cloak.",
+      "hungarian": "Az ég, szürke köpenyt visel.",
+      "transliteration": "Uz ayg, syürke köp'nyet visel.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T19:59:39.823375"
+    },
+    {
+      "english": "Sunbeams, dance on the water.",
+      "hungarian": "Napsugarak, táncolnak a vízen.",
+      "transliteration": "N'ap'sugar'ak, t'andz'olnak a vizen.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T19:59:39.823387"
+    },
+    {
+      "english": "A gust, of cool air, arrives.",
+      "hungarian": "Egy fuvallat, hűvös levegő, érkezik.",
+      "transliteration": "Edgy fuv'all'at, hyüvös lev'egő, yérkezik.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T19:59:39.823390"
+    },
+    {
+      "english": "Thunder, rumbles, far away.",
+      "hungarian": "Mennydörgés, morajlik, messze.",
+      "transliteration": "Menydörgés, mor'ajlik, messze.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T19:59:39.823391"
+    },
+    {
+      "english": "Snowflakes, fall, so softly.",
+      "hungarian": "Hópelyhek, esnek, oly lágyan.",
+      "transliteration": "H'opejhek, esn'ek, oly l'adj'an.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T19:59:39.823393"
     }
   ],
-  "last_updated": "2026-10-13T18:40:22.777298"
+  "last_updated": "2026-10-13T19:59:39.823395"
 }
