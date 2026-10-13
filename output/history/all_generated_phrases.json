@@ -19109,7 +19109,42 @@
       "transliteration": "Ah sev-err, chend-esh-en zoog.",
       "category": "Technology",
       "generated_at": "2026-10-13T04:50:37.383600"
+    },
+    {
+      "english": "Hungarian words, find their home.",
+      "hungarian": "Magyar szavak, otthonra lelnek.",
+      "transliteration": "Moh-dyohr soh-vohk, ot-tohn-roh leh-lnek.",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T18:40:22.777278"
+    },
+    {
+      "english": "My voice, shapes Hungarian sounds.",
+      "hungarian": "Hangom, magyar hangokat formál.",
+      "transliteration": "Hahng-mohm, moh-dyahr hahng-goh-kaht fohr-mahl.",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T18:40:22.777290"
+    },
+    {
+      "english": "A new phrase, feels right.",
+      "hungarian": "Egy új fordulat, jól esik.",
+      "transliteration": "Edge oo-ee fohr-doo-loht, yohl esh-shick.",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T18:40:22.777293"
+    },
+    {
+      "english": "Hungarian grammar, makes sense now.",
+      "hungarian": "Magyar nyelvtan, érthetővé válik.",
+      "transliteration": "Moh-dyahr nyelv-tahn, ehr-teh-tuh-veh vahl-ick.",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T18:40:22.777295"
+    },
+    {
+      "english": "I can say it, yes!",
+      "hungarian": "Mondani tudom, igen!",
+      "transliteration": "Mohnd-ah-nee too-dohm, eh-gehn!",
+      "category": "Confidence",
+      "generated_at": "2026-10-13T18:40:22.777296"
     }
   ],
-  "last_updated": "2026-10-13T04:50:37.383602"
+  "last_updated": "2026-10-13T18:40:22.777298"
 }
