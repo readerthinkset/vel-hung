@@ -19214,7 +19214,42 @@
       "transliteration": "Ízleld, a bölcsességet, minden mondatban.",
       "category": "Wisdom",
       "generated_at": "2026-10-13T23:39:22.156899"
+    },
+    {
+      "english": "Dawn whispers, softly.",
+      "hungarian": "Hajnal suttog, halkan.",
+      "transliteration": "Hajnal suttog, halkan.",
+      "category": "Time",
+      "generated_at": "2026-10-14T02:58:17.756704"
+    },
+    {
+      "english": "Midday sun, beams bright.",
+      "hungarian": "Déli nap, ragyog fényesen.",
+      "transliteration": "Déli nap, ragyog fényesen.",
+      "category": "Time",
+      "generated_at": "2026-10-14T02:58:17.756717"
+    },
+    {
+      "english": "Twilight falls, gently.",
+      "hungarian": "Alkonyat borul, szelíden.",
+      "transliteration": "Alkonyat borul, szelíden.",
+      "category": "Time",
+      "generated_at": "2026-10-14T02:58:17.756719"
+    },
+    {
+      "english": "A moment ago, gone.",
+      "hungarian": "Egy pillanat, már elmúlt.",
+      "transliteration": "Egy pillanat, már elmúlt.",
+      "category": "Time",
+      "generated_at": "2026-10-14T02:58:17.756720"
+    },
+    {
+      "english": "Soon, the change comes.",
+      "hungarian": "Hamarosan, jön a változás.",
+      "transliteration": "Hamarosan, jön a változás.",
+      "category": "Time",
+      "generated_at": "2026-10-14T02:58:17.756722"
     }
   ],
-  "last_updated": "2026-10-13T23:39:22.156900"
+  "last_updated": "2026-10-14T02:58:17.756724"
 }
