@@ -19249,7 +19249,42 @@
       "transliteration": "Hamarosan, jön a változás.",
       "category": "Time",
       "generated_at": "2026-10-14T02:58:17.756722"
+    },
+    {
+      "english": "Ah, the meaning, surfaces now.",
+      "hungarian": "Á, a jelentés, felszínre kerül.",
+      "transliteration": "Ah, ah yeh-leh-tay-naysh, fell-shee-reh keh-rool.",
+      "category": "Success",
+      "generated_at": "2026-10-14T16:11:01.918842"
+    },
+    {
+      "english": "Your ear, tunes in, perfectly.",
+      "hungarian": "A füled, ráhangolódik, tökéletesen.",
+      "transliteration": "Ah fü-layd, rah-hang-oh-loh-deek, tö-kay-leh-tay-shayn.",
+      "category": "Success",
+      "generated_at": "2026-10-14T16:11:01.918853"
+    },
+    {
+      "english": "That sentence, makes sense now.",
+      "hungarian": "Az a mondat, most értelmes.",
+      "transliteration": "Az ah mon-dat, mo-sht ayr-tel-mesh.",
+      "category": "Success",
+      "generated_at": "2026-10-14T16:11:01.918855"
+    },
+    {
+      "english": "The pattern, begins to form.",
+      "hungarian": "A minta, kezd kialakulni.",
+      "transliteration": "Ah min-tah, kayzd kee-ah-lah-koo-lee.",
+      "category": "Success",
+      "generated_at": "2026-10-14T16:11:01.918857"
+    },
+    {
+      "english": "You're speaking, with growing confidence.",
+      "hungarian": "Beszélsz, növekvő magabiztossággal.",
+      "transliteration": "Beh-sayls, nö-veh-kvö mah-gah-bi-zot-osh-shag-gahl.",
+      "category": "Success",
+      "generated_at": "2026-10-14T16:11:01.918858"
     }
   ],
-  "last_updated": "2026-10-14T02:58:17.756724"
+  "last_updated": "2026-10-14T16:11:01.918860"
 }
