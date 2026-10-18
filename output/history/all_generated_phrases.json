@@ -19914,7 +19914,42 @@
       "transliteration": "Tuhl-ter-hel-sheg, ayr-zay-shay, el-mosh.",
       "category": "Feelings",
       "generated_at": "2026-10-18T02:25:43.415344"
+    },
+    {
+      "english": "Morning hum, begins softly.",
+      "hungarian": "Reggeli zúgás, lágyan kezdődik.",
+      "transliteration": "Reg-gell-i zu-gaash, laa-d'an kez-d'o-dik.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T15:06:22.846512"
+    },
+    {
+      "english": "Eyes blink open, slowly.",
+      "hungarian": "Szemek lassan, kinyílnak.",
+      "transliteration": "Sem-ek laa-shaan, kin-yee-l-naak.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T15:06:22.846524"
+    },
+    {
+      "english": "Mind awakens, bit by bit.",
+      "hungarian": "Elme ébred, fokozatosan.",
+      "transliteration": "El-me eh-bred, fok-o-za-to-shaan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T15:06:22.846527"
+    },
+    {
+      "english": "First thoughts drift, in the quiet.",
+      "hungarian": "Első gondolatok, lebegnek, csendben.",
+      "transliteration": "El-shő gon-do-la-tok, leb-eg-nek, chend-ben.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T15:06:22.846529"
+    },
+    {
+      "english": "A deep sigh, then the day.",
+      "hungarian": "Mély sóhaj, aztán a nap.",
+      "transliteration": "Meh-d'y sho-haai, aaz-taan a naap.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T15:06:22.846530"
     }
   ],
-  "last_updated": "2026-10-18T02:25:43.415345"
+  "last_updated": "2026-10-18T15:06:22.846532"
 }
