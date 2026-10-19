@@ -20089,7 +20089,42 @@
       "transliteration": "Ez hohz-zahm sohl.",
       "category": "Shopping",
       "generated_at": "2026-10-19T02:40:05.687371"
+    },
+    {
+      "english": "The tiny dormouse, sleeps all day.",
+      "hungarian": "A kis pelé, alszik egész nap.",
+      "transliteration": "Ah keesh peh-lay, ah-leek eh-gehz nahp.",
+      "category": "Animals",
+      "generated_at": "2026-10-19T19:59:19.628908"
+    },
+    {
+      "english": "A slow snail, leaves a trail.",
+      "hungarian": "Egy lassú csiga, nyomot hagy.",
+      "transliteration": "Edj lah-shoo chee-gah, nyoh-mot hahdj.",
+      "category": "Animals",
+      "generated_at": "2026-10-19T19:59:19.628922"
+    },
+    {
+      "english": "The proud peacock, displays his tail.",
+      "hungarian": "A büszke páva, villantja farkát.",
+      "transliteration": "Ah bew-skuh pah-vah, veel-lahnt-yah fark-aht.",
+      "category": "Animals",
+      "generated_at": "2026-10-19T19:59:19.628923"
+    },
+    {
+      "english": "A quick gecko, climbs the wall.",
+      "hungarian": "Egy gyors gekkó, mászik a falon.",
+      "transliteration": "Edj gyors gek-koh, mah-seek ah fah-lon.",
+      "category": "Animals",
+      "generated_at": "2026-10-19T19:59:19.628924"
+    },
+    {
+      "english": "The busy ant, carries a crumb.",
+      "hungarian": "A szorgos hangya, morzsát cipel.",
+      "transliteration": "Ah sor-gosh hahn-dyah, mor-shaht see-pel.",
+      "category": "Animals",
+      "generated_at": "2026-10-19T19:59:19.628925"
     }
   ],
-  "last_updated": "2026-10-19T02:40:05.687373"
+  "last_updated": "2026-10-19T19:59:19.628926"
 }
