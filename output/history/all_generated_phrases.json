@@ -20299,7 +20299,42 @@
       "transliteration": "A VA-yon-od, AZ U-ta-za-shod.",
       "category": "Finance",
       "generated_at": "2026-10-20T23:14:41.479335"
+    },
+    {
+      "english": "That sentence, clicked!",
+      "hungarian": "Az a mondat, stimmel!",
+      "transliteration": "Az a mondat, stee-mel!",
+      "category": "Success",
+      "generated_at": "2026-10-21T04:44:00.777652"
+    },
+    {
+      "english": "You're getting it, now.",
+      "hungarian": "Érted már, ugye.",
+      "transliteration": "Er-ted mar, oo-ye.",
+      "category": "Success",
+      "generated_at": "2026-10-21T04:44:00.777660"
+    },
+    {
+      "english": "The meaning, clear.",
+      "hungarian": "A jelentés, tiszta.",
+      "transliteration": "A ye-len-taysh, teesh-ta.",
+      "category": "Success",
+      "generated_at": "2026-10-21T04:44:00.777662"
+    },
+    {
+      "english": "Another word, learned.",
+      "hungarian": "Még egy szó, megtanulva.",
+      "transliteration": "Mayg edg soh, meg-ta-nuul-va.",
+      "category": "Success",
+      "generated_at": "2026-10-21T04:44:00.777664"
+    },
+    {
+      "english": "This sounds right, yes.",
+      "hungarian": "Ez így jó, igen.",
+      "transliteration": "Ez eej yoh, ee-gen.",
+      "category": "Success",
+      "generated_at": "2026-10-21T04:44:00.777665"
     }
   ],
-  "last_updated": "2026-10-20T23:14:41.479337"
+  "last_updated": "2026-10-21T04:44:00.777667"
 }
