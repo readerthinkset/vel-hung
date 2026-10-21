@@ -20404,7 +20404,42 @@
       "transliteration": "A jel-sza-vad, bo-nyo-loot.",
       "category": "Technology",
       "generated_at": "2026-10-21T18:42:09.992219"
+    },
+    {
+      "english": "Warm bread, fresh from the oven.",
+      "hungarian": "Meleg kenyér, friss a sütőből.",
+      "transliteration": "Meh-leg ken-yeer, frish ah syoo-toe-bohl.",
+      "category": "Food",
+      "generated_at": "2026-10-21T20:38:44.150482"
+    },
+    {
+      "english": "A sweet bite, honey glazed.",
+      "hungarian": "Egy édes falat, mézes mázzal.",
+      "transliteration": "Edge eh-desh fah-laht, meh-zesh mahz-zohl.",
+      "category": "Food",
+      "generated_at": "2026-10-21T20:38:44.150494"
+    },
+    {
+      "english": "Spicy stew, fills the soul.",
+      "hungarian": "Csípős pörkölt, lélekig hat.",
+      "transliteration": "Cheep-ohsh poer-koelt, lay-lek-eeg haht.",
+      "category": "Food",
+      "generated_at": "2026-10-21T20:38:44.150496"
+    },
+    {
+      "english": "Crunchy apple, juicy and sweet.",
+      "hungarian": "Ropogós alma, lédús és édes.",
+      "transliteration": "Roh-poh-gohsh ahl-mah, lay-doosh esh eh-desh.",
+      "category": "Food",
+      "generated_at": "2026-10-21T20:38:44.150498"
+    },
+    {
+      "english": "Salty cheese, a sharp tang.",
+      "hungarian": "Sós sajt, erős íz.",
+      "transliteration": "Shohsh shaht, eh-roesh eez.",
+      "category": "Food",
+      "generated_at": "2026-10-21T20:38:44.150499"
     }
   ],
-  "last_updated": "2026-10-21T18:42:09.992221"
+  "last_updated": "2026-10-21T20:38:44.150501"
 }
