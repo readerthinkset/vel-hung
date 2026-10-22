@@ -20509,7 +20509,42 @@
       "transliteration": "Hollgahsh meg, uh taavoli templom harongyait.",
       "category": "Basic Phrases",
       "generated_at": "2026-10-22T04:42:16.804586"
+    },
+    {
+      "english": "This pathway, leads somewhere new.",
+      "hungarian": "Ez az út, valahova újba vezet.",
+      "transliteration": "Ez az oot, valahova oojba vezet.",
+      "category": "Travel",
+      "generated_at": "2026-10-22T20:34:23.031858"
+    },
+    {
+      "english": "The market, is alive today.",
+      "hungarian": "A piac, ma eleven.",
+      "transliteration": "A peeyach, ma eleven.",
+      "category": "Travel",
+      "generated_at": "2026-10-22T20:34:23.031872"
+    },
+    {
+      "english": "A distant bell, tolls softly.",
+      "hungarian": "Egy távoli harang, halkan szól.",
+      "transliteration": "Edgy ta-vo-lee ha-rang, hal-lhan sohl.",
+      "category": "Travel",
+      "generated_at": "2026-10-22T20:34:23.031874"
+    },
+    {
+      "english": "This fountain, sings a song.",
+      "hungarian": "Ez a szökőkút, énekel.",
+      "transliteration": "Ez a sökö-koot, en-e-kel.",
+      "category": "Travel",
+      "generated_at": "2026-10-22T20:34:23.031876"
+    },
+    {
+      "english": "A warm welcome, awaits me.",
+      "hungarian": "Meleg fogadtatás, vár reám.",
+      "transliteration": "Meleg fog-ad-tah-sh, vaar re-aam.",
+      "category": "Travel",
+      "generated_at": "2026-10-22T20:34:23.031878"
     }
   ],
-  "last_updated": "2026-10-22T04:42:16.804588"
+  "last_updated": "2026-10-22T20:34:23.031880"
 }
