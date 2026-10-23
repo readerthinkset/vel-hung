@@ -20579,7 +20579,42 @@
       "transliteration": "Ter-me-shets tsyu-myu-geh-she, meg-nyu-gda-to hang.",
       "category": "Inner Peace",
       "generated_at": "2026-10-22T23:28:00.293935"
+    },
+    {
+      "english": "My passport, it's gone.",
+      "hungarian": "Az útlevelem, eltűnt.",
+      "transliteration": "Oz oot-leh-veh-mem, el-tünt.",
+      "category": "Emergency",
+      "generated_at": "2026-10-23T04:47:02.008072"
+    },
+    {
+      "english": "I need a police officer.",
+      "hungarian": "Rendőrre van szükségem.",
+      "transliteration": "Renn-der-re vahn süks-eh-gem.",
+      "category": "Emergency",
+      "generated_at": "2026-10-23T04:47:02.008082"
+    },
+    {
+      "english": "Fire nearby, evacuate!",
+      "hungarian": "Tűz van a közelben, menekülj!",
+      "transliteration": "Tüz vahn ah koh-zel-ben, meh-neh-küly!",
+      "category": "Emergency",
+      "generated_at": "2026-10-23T04:47:02.008084"
+    },
+    {
+      "english": "I am injured, badly.",
+      "hungarian": "Sérült vagyok, nagyon.",
+      "transliteration": "Sehr-ült vah-dyok, nah-dyon.",
+      "category": "Emergency",
+      "generated_at": "2026-10-23T04:47:02.008085"
+    },
+    {
+      "english": "Water, I need water.",
+      "hungarian": "Vízre, szükségem van.",
+      "transliteration": "Veez-reh, süks-eh-gem vahn.",
+      "category": "Emergency",
+      "generated_at": "2026-10-23T04:47:02.008086"
     }
   ],
-  "last_updated": "2026-10-22T23:28:00.293937"
+  "last_updated": "2026-10-23T04:47:02.008088"
 }
