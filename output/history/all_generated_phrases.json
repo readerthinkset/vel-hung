@@ -20754,7 +20754,42 @@
       "transliteration": "Édes elégedettség, kibontakozik.",
       "category": "Happiness",
       "generated_at": "2026-10-23T23:13:30.442435"
+    },
+    {
+      "english": "Listen closely, to the subtle sounds.",
+      "hungarian": "Figyelj, jól, a finom hangokra.",
+      "transliteration": "Fiy-gyel, yohl, ah feen-om hohn-gohk-ra.",
+      "category": "Purpose",
+      "generated_at": "2026-10-24T04:34:42.667101"
+    },
+    {
+      "english": "Unlock the past, with every sentence.",
+      "hungarian": "Nyisd ki, a múltat, minden szóval.",
+      "transliteration": "Nishd kee, ah moolt-aht, min-den soh-vahl.",
+      "category": "Purpose",
+      "generated_at": "2026-10-24T04:34:42.667115"
+    },
+    {
+      "english": "Build bridges, of understanding.",
+      "hungarian": "Építs, hidakat, megértésből.",
+      "transliteration": "Ay-peach, hee-dah-kaht, meh-gayr-taysh-buhl.",
+      "category": "Purpose",
+      "generated_at": "2026-10-24T04:34:42.667116"
+    },
+    {
+      "english": "Follow the melody, of conversation.",
+      "hungarian": "Kövesd, a dallamot, beszélgetésből.",
+      "transliteration": "Kuh-veshd, ah dah-lah-moht, beh-sayl-geh-taysh-buhl.",
+      "category": "Purpose",
+      "generated_at": "2026-10-24T04:34:42.667117"
+    },
+    {
+      "english": "Discover nuances, with patient listening.",
+      "hungarian": "Fedezz fel, árnyalatokat, türelmesen.",
+      "transliteration": "Feh-dehz fel, ahr-nyah-lah-toh-kaht, tyoo-rel-mesh-en.",
+      "category": "Purpose",
+      "generated_at": "2026-10-24T04:34:42.667118"
     }
   ],
-  "last_updated": "2026-10-23T23:13:30.442437"
+  "last_updated": "2026-10-24T04:34:42.667119"
 }
