@@ -20859,7 +20859,42 @@
       "transliteration": "Hon-god, mah-yar ot-hont tah-laal.",
       "category": "Strength",
       "generated_at": "2026-10-24T17:29:30.241688"
+    },
+    {
+      "english": "Eyes flutter open, slowly.",
+      "hungarian": "Szemhéjak kinyílnak, lassan.",
+      "transliteration": "Sem-hay-yak kin-ee-l-nak, losh-shon.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T19:30:13.669409"
+    },
+    {
+      "english": "The alarm sings, softly.",
+      "hungarian": "Az ébresztő énekel, halkan.",
+      "transliteration": "Oz eh-bres-tuh eh-neh-kel, hol-lon.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T19:30:13.669419"
+    },
+    {
+      "english": "My blanket's warm, still.",
+      "hungarian": "Takaróm meleg, még.",
+      "transliteration": "Toh-koh-rom meh-leg, mayg.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T19:30:13.669421"
+    },
+    {
+      "english": "First yawn, a big one.",
+      "hungarian": "Első ásítás, egy nagy.",
+      "transliteration": "El-shuh ah-shee-tash-shun, edge nodj.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T19:30:13.669423"
+    },
+    {
+      "english": "Feet touch the floor, cold.",
+      "hungarian": "Lábak érintik a földet, hideg.",
+      "transliteration": "Lah-bok eer-in-tik ah fur-duht, hee-deg.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T19:30:13.669424"
     }
   ],
-  "last_updated": "2026-10-24T17:29:30.241691"
+  "last_updated": "2026-10-24T19:30:13.669426"
 }
