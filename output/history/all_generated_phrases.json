@@ -21034,7 +21034,42 @@
       "transliteration": "Lash-oo kee-bon-toh-ko-zhahsh, beh-ket hoz.",
       "category": "Patience",
       "generated_at": "2026-10-25T17:41:03.912107"
+    },
+    {
+      "english": "The striped zebra, grazes peacefully.",
+      "hungarian": "A csíkos zebra, békésen legel.",
+      "transliteration": "Ah cheek-oh zay-brah, bay-kay-shun lay-gell.",
+      "category": "Animals",
+      "generated_at": "2026-10-25T22:00:47.696804"
+    },
+    {
+      "english": "A tiny frog, leaps with joy.",
+      "hungarian": "Egy apró béka, örömmel ugrál.",
+      "transliteration": "Edge ah-pro bay-kah, ur-rum-mell ooh-grahl.",
+      "category": "Animals",
+      "generated_at": "2026-10-25T22:00:47.696811"
+    },
+    {
+      "english": "The slow tortoise, carries its home.",
+      "hungarian": "A lassú teknős, viszi otthonát.",
+      "transliteration": "Ah lash-shoo tek-nosh, vee-see ot-hoh-naht.",
+      "category": "Animals",
+      "generated_at": "2026-10-25T22:00:47.696812"
+    },
+    {
+      "english": "A chirping cricket, sings at dusk.",
+      "hungarian": "Egy ciripelő tücsök, alkonyatkor énekel.",
+      "transliteration": "Edge cee-ree-pay-luh tew-tshuk, ahl-koh-nyot-kor ay-neh-kel.",
+      "category": "Animals",
+      "generated_at": "2026-10-25T22:00:47.696813"
+    },
+    {
+      "english": "The mighty elephant, remembers well.",
+      "hungarian": "A hatalmas elefánt, jól emlékszik.",
+      "transliteration": "Ah hah-tahl-mosh eh-leh-faant, yohl ehm-layk-seek.",
+      "category": "Animals",
+      "generated_at": "2026-10-25T22:00:47.696813"
     }
   ],
-  "last_updated": "2026-10-25T17:41:03.912109"
+  "last_updated": "2026-10-25T22:00:47.696814"
 }
