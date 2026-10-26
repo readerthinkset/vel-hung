@@ -21139,7 +21139,42 @@
       "transliteration": "Meg mit, arulnak?",
       "category": "Shopping",
       "generated_at": "2026-10-26T04:44:22.915560"
+    },
+    {
+      "english": "The journey, unfolds ahead.",
+      "hungarian": "Az út, elénk tárul.",
+      "transliteration": "oz ooht, elenk tahrool.",
+      "category": "Time",
+      "generated_at": "2026-10-26T18:41:49.927961"
+    },
+    {
+      "english": "Minutes whisper, secrets shared.",
+      "hungarian": "Percek súgnak, titkot őriznek.",
+      "transliteration": "pertsck shugnak, titkot erizek.",
+      "category": "Time",
+      "generated_at": "2026-10-26T18:41:49.927974"
+    },
+    {
+      "english": "A pause, before the next step.",
+      "hungarian": "Egy szünet, a következő lépés előtt.",
+      "transliteration": "edj syoenet, ah ker-vet-tez-uh leypesh ehl-oht.",
+      "category": "Time",
+      "generated_at": "2026-10-26T18:41:49.927976"
+    },
+    {
+      "english": "Yesterday's echo, fades now.",
+      "hungarian": "Tegnap visszhangja, elhalványul.",
+      "transliteration": "teg-nap vish-khang-yah, ehl-hal-van-yool.",
+      "category": "Time",
+      "generated_at": "2026-10-26T18:41:49.927978"
+    },
+    {
+      "english": "The clock hand, creeps onward.",
+      "hungarian": "Az óra mutatója, lassan halad.",
+      "transliteration": "oz oh-rah moo-tah-toh-yah, lash-shan hah-lahd.",
+      "category": "Time",
+      "generated_at": "2026-10-26T18:41:49.927980"
     }
   ],
-  "last_updated": "2026-10-26T04:44:22.915561"
+  "last_updated": "2026-10-26T18:41:49.927984"
 }
