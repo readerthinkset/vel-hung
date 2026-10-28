@@ -21489,7 +21489,42 @@
       "transliteration": "VISH-khong-ok CHEND-ool-nek, ah KAH-nyon-bon.",
       "category": "Nature",
       "generated_at": "2026-10-28T18:21:51.510278"
+    },
+    {
+      "english": "Sky is falling, run now!",
+      "hungarian": "Az ég szakad, fuss most!",
+      "transliteration": "Oz aeg sa-kad, foosh most!",
+      "category": "Emergency",
+      "generated_at": "2026-10-28T19:37:36.927386"
+    },
+    {
+      "english": "Something burning, smell smoke?",
+      "hungarian": "Valami ég, érzed a füstöt?",
+      "transliteration": "Vol-la-mee aeg, aer-zed oz fyoo-stet?",
+      "category": "Emergency",
+      "generated_at": "2026-10-28T19:37:36.927401"
+    },
+    {
+      "english": "Ground is shaking, hold tight!",
+      "hungarian": "Föld mozog, kapaszkodj erősen!",
+      "transliteration": "Föld mo-zog, ka-pash-kodj er-oh-shen!",
+      "category": "Emergency",
+      "generated_at": "2026-10-28T19:37:36.927402"
+    },
+    {
+      "english": "Water rising, get higher!",
+      "hungarian": "Víz árad, menj feljebb!",
+      "transliteration": "Veez aa-rod, men-dy fel-yaeb!",
+      "category": "Emergency",
+      "generated_at": "2026-10-28T19:37:36.927404"
+    },
+    {
+      "english": "Gas leak, strong smell!",
+      "hungarian": "Gázszivárgás, erős szag!",
+      "transliteration": "Gaaz-see-vaar-gaash, er-ohsh saag!",
+      "category": "Emergency",
+      "generated_at": "2026-10-28T19:37:36.927405"
     }
   ],
-  "last_updated": "2026-10-28T18:21:51.510280"
+  "last_updated": "2026-10-28T19:37:36.927407"
 }
