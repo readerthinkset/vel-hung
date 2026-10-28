@@ -21454,7 +21454,42 @@
       "transliteration": "Ez a me-leg o-le-leesh, kel-let.",
       "category": "Gratitude",
       "generated_at": "2026-10-28T05:40:10.765209"
+    },
+    {
+      "english": "Moss grows, on old stones.",
+      "hungarian": "Mohos sziklák, patinás kövek.",
+      "transliteration": "MOH-osh SIK-laak, PAH-tee-naash KÖ-vek.",
+      "category": "Nature",
+      "generated_at": "2026-10-28T18:21:51.510262"
+    },
+    {
+      "english": "Sunlight paints, forest floor.",
+      "hungarian": "Napsugár fest, erdő talaját.",
+      "transliteration": "NAP-soo-gahr PESH-t, ER-dö TAH-lah-yaat.",
+      "category": "Nature",
+      "generated_at": "2026-10-28T18:21:51.510274"
+    },
+    {
+      "english": "Wildflowers bloom, unseen, unheard.",
+      "hungarian": "Vadvirág nyílik, rejtve, csendben.",
+      "transliteration": "VOD-vee-raahg NYEE-lik, REJ-tveh, CHEND-ben.",
+      "category": "Nature",
+      "generated_at": "2026-10-28T18:21:51.510276"
+    },
+    {
+      "english": "Clouds drift, slow parade.",
+      "hungarian": "Felhők vonulnak, lassú menet.",
+      "transliteration": "FEL-hök VON-ool-nok, LOSH-soo MEN-et.",
+      "category": "Nature",
+      "generated_at": "2026-10-28T18:21:51.510277"
+    },
+    {
+      "english": "Echoes linger, in the canyon.",
+      "hungarian": "Visszhangok csendülnek, a kanyonban.",
+      "transliteration": "VISH-khong-ok CHEND-ool-nek, ah KAH-nyon-bon.",
+      "category": "Nature",
+      "generated_at": "2026-10-28T18:21:51.510278"
     }
   ],
-  "last_updated": "2026-10-28T05:40:10.765211"
+  "last_updated": "2026-10-28T18:21:51.510280"
 }
