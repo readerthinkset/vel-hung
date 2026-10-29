@@ -21559,7 +21559,42 @@
       "transliteration": "Uht shee-mah kuh, ah floh-yoh pahrt-yahn",
       "category": "Numbers",
       "generated_at": "2026-10-28T21:40:03.304897"
+    },
+    {
+      "english": "That coat, is so warm.",
+      "hungarian": "Az a kabát, nagyon meleg.",
+      "transliteration": "Ahz ah kah-baht, nah-gyon meh-leg.",
+      "category": "Clothes",
+      "generated_at": "2026-10-29T00:03:24.018816"
+    },
+    {
+      "english": "My new shoes, fit perfectly.",
+      "hungarian": "Az új cipőim, tökéletesek.",
+      "transliteration": "Ahz ooy tsi-poh-yim, toh-keh-leh-teh-shek.",
+      "category": "Clothes",
+      "generated_at": "2026-10-29T00:03:24.018827"
+    },
+    {
+      "english": "Her blouse, has lace.",
+      "hungarian": "A blúzán, csipke van.",
+      "transliteration": "Ah bloo-zaahn, tsip-keh vahn.",
+      "category": "Clothes",
+      "generated_at": "2026-10-29T00:03:24.018829"
+    },
+    {
+      "english": "His jeans, are faded.",
+      "hungarian": "A farmerja, kopott.",
+      "transliteration": "Ah far-mahr-yah, koh-poht.",
+      "category": "Clothes",
+      "generated_at": "2026-10-29T00:03:24.018831"
+    },
+    {
+      "english": "This dress, is very elegant.",
+      "hungarian": "Ez a ruha, nagyon elegáns.",
+      "transliteration": "Ez ah roo-hah, nah-gyon eh-leh-gaans.",
+      "category": "Clothes",
+      "generated_at": "2026-10-29T00:03:24.018833"
     }
   ],
-  "last_updated": "2026-10-28T21:40:03.304898"
+  "last_updated": "2026-10-29T00:03:24.018834"
 }
