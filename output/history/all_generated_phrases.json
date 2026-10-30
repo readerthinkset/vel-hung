@@ -21769,7 +21769,42 @@
       "transliteration": "Hudd VEH-zehs-sehn uhz, uh NYELV-tahn, FEE-noh-mun.",
       "category": "Motivation",
       "generated_at": "2026-10-29T23:59:17.182069"
+    },
+    {
+      "english": "This Hungarian, I can taste it.",
+      "hungarian": "Ezt a magyart, megkóstolom.",
+      "transliteration": "Ezt a magyar't, meg-kohs-tol-om.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T18:00:23.099583"
+    },
+    {
+      "english": "New Hungarian, in my grasp.",
+      "hungarian": "Új magyar, a kezemben.",
+      "transliteration": "Ooj magyar, a ke-zem-ben.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T18:00:23.099592"
+    },
+    {
+      "english": "Hungarian words, dance for me.",
+      "hungarian": "Magyar szavak, táncolnak nekem.",
+      "transliteration": "Magyar sa-vak, tan-tsol-nak ne-kem.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T18:00:23.099594"
+    },
+    {
+      "english": "A Hungarian thought, taking flight.",
+      "hungarian": "Egy magyar gondolat, szárnyra kap.",
+      "transliteration": "Edj magyar gon-do-lat, saar-yra kap.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T18:00:23.099595"
+    },
+    {
+      "english": "My voice, finds Hungarian rhythm.",
+      "hungarian": "Hangom, megtalálja a magyar ritmust.",
+      "transliteration": "Hang-om, meg-ta-laal-ja a magyar rit-must.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T18:00:23.099597"
     }
   ],
-  "last_updated": "2026-10-29T23:59:17.182071"
+  "last_updated": "2026-10-30T18:00:23.099598"
 }
