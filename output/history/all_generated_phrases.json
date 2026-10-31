@@ -21979,7 +21979,42 @@
       "transliteration": "A kis jó tett, so-kat ér.",
       "category": "Hope",
       "generated_at": "2026-10-31T17:15:45.843136"
+    },
+    {
+      "english": "Cloud white, soft and silent.",
+      "hungarian": "Felhő fehér, puha, csendes.",
+      "transliteration": "Fel-ho feh-er, poo-ha, chen-desh.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T18:36:39.312121"
+    },
+    {
+      "english": "Volcanic ash, dark and deep.",
+      "hungarian": "Vulkáni hamu, sötét, mély.",
+      "transliteration": "Vool-ka-nee ha-moo, sho-teyt, meyl.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T18:36:39.312131"
+    },
+    {
+      "english": "Summer wheat, golden waves.",
+      "hungarian": "Nyári búza, arany hullámok.",
+      "transliteration": "Nyah-ree boo-za, o-ro-ny hool-la-mok.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T18:36:39.312132"
+    },
+    {
+      "english": "Winter sky, pale and vast.",
+      "hungarian": "Téli égbolt, halvány, tágas.",
+      "transliteration": "Tey-lee egg-bolt, hal-vahn-y, tah-gosh.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T18:36:39.312134"
+    },
+    {
+      "english": "Fallen leaf, crimson brown.",
+      "hungarian": "Lehullott levél, bíbor barna.",
+      "transliteration": "Le-hool-lot leh-veyl, bee-bor bar-na.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T18:36:39.312135"
     }
   ],
-  "last_updated": "2026-10-31T17:15:45.843138"
+  "last_updated": "2026-10-31T18:36:39.312136"
 }
