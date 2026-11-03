@@ -22469,7 +22469,42 @@
       "transliteration": "Elesetem, fáj a fejem, maradjon velem.",
       "category": "Emergency",
       "generated_at": "2026-11-03T19:30:24.490980"
+    },
+    {
+      "english": "Misty air wraps the valley, quietly.",
+      "hungarian": "A ködös levegő betakarja a völgyet, halkan.",
+      "transliteration": "A kodos levego betakarja a volgyet, halkan.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T20:32:43.026017"
+    },
+    {
+      "english": "A squirrel taps branches, checking the world.",
+      "hungarian": "A mókus kopogtat az ágakon, figyel.",
+      "transliteration": "A mokusz kopogtat az agakon, figyel.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T20:32:43.026027"
+    },
+    {
+      "english": "Autumn leaves tumble, seeking new corners.",
+      "hungarian": "Az őszi falevelek bukdácsolnak, új sarkokat keresnek.",
+      "transliteration": "Az oszi falevelek bukdacsoldnak, uj sarkokat keresnek.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T20:32:43.026029"
+    },
+    {
+      "english": "Pine needles carpet the path, step by step.",
+      "hungarian": "A fenyőtűk szőnyeget adnak az úton, lépésről lépésre.",
+      "transliteration": "A fenytuk zonyeget adnak az uton, lepesrol lepesre.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T20:32:43.026030"
+    },
+    {
+      "english": "Crows circle overhead, then glide away.",
+      "hungarian": "A varjak köröznek felettünk, aztán elsiklik.",
+      "transliteration": "A varjak koroznek felettunk, aztan elsiklik.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T20:32:43.026032"
     }
   ],
-  "last_updated": "2026-11-03T19:30:24.490982"
+  "last_updated": "2026-11-03T20:32:43.026034"
 }
