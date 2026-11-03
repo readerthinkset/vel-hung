@@ -22434,7 +22434,42 @@
       "transliteration": "Ezek a farmerek nyúlnak, amikor leülsz.",
       "category": "Clothes",
       "generated_at": "2026-11-03T06:45:27.207454"
+    },
+    {
+      "english": "Help, I’m having an allergic reaction, now.",
+      "hungarian": "Segítség, allergiás reakcióm van, most.",
+      "transliteration": "Segítség, allergiás reakcióm van, most.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T19:30:24.490960"
+    },
+    {
+      "english": "Stop the bleeding, please, apply pressure here.",
+      "hungarian": "Állítsuk el a vérzést, kérlek, nyomd ide.",
+      "transliteration": "Állítsuk el a vérzést, kérlek, nyomd ide.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T19:30:24.490975"
+    },
+    {
+      "english": "Call an ambulance, I can’t breathe well.",
+      "hungarian": "Hívj mentőt, rosszul kapok levegőt.",
+      "transliteration": "Hívj mentőt, rosszul kapok levegőt.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T19:30:24.490977"
+    },
+    {
+      "english": "I think I’m choking, someone help quickly.",
+      "hungarian": "Úgy érzem, megfulladok, segítsenek gyorsan.",
+      "transliteration": "Úgy érzem, megfulladok, segítsenek gyorsan.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T19:30:24.490979"
+    },
+    {
+      "english": "I fell, my head hurts, please stay with me.",
+      "hungarian": "Elesetem, fáj a fejem, maradjon velem.",
+      "transliteration": "Elesetem, fáj a fejem, maradjon velem.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T19:30:24.490980"
     }
   ],
-  "last_updated": "2026-11-03T06:45:27.207456"
+  "last_updated": "2026-11-03T19:30:24.490982"
 }
