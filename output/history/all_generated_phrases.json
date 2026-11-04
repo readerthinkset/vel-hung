@@ -22679,7 +22679,42 @@
       "transliteration": "Ketyeg-ketyeg, de a gondolataid csendesednek.",
       "category": "Time",
       "generated_at": "2026-11-04T20:50:55.544297"
+    },
+    {
+      "english": "Turn Wi Fi on, try again, please",
+      "hungarian": "Kapcsold be a Wi Fi-t, próbáld újra, kérlek",
+      "transliteration": "Kapcsold be a Wi Fi-t, probáld újra, kérlek",
+      "category": "Technology",
+      "generated_at": "2026-11-04T22:38:22.959968"
+    },
+    {
+      "english": "Type your email, press enter, slowly",
+      "hungarian": "Írd be az email címedet, nyomj Entert, lassan",
+      "transliteration": "Írd be az email címedet, nyomj Entert, lassan",
+      "category": "Technology",
+      "generated_at": "2026-11-04T22:38:22.959978"
+    },
+    {
+      "english": "Check the settings, save changes, then exit",
+      "hungarian": "Nézd meg a beállításokat, mentsd el a változtatást, aztán kilépsz",
+      "transliteration": "Nézd meg a beállításokat, mentsd el a változtatást, aztán kilépsz",
+      "category": "Technology",
+      "generated_at": "2026-11-04T22:38:22.959980"
+    },
+    {
+      "english": "Connect the cable, wait a moment, breathe",
+      "hungarian": "Csatlakoztasd a kábelt, várj egy percet, lélegezz",
+      "transliteration": "Csatlakoztasd a kábelt, várj egy percet, lélegezz",
+      "category": "Technology",
+      "generated_at": "2026-11-04T22:38:22.959982"
+    },
+    {
+      "english": "Restart the router, let it reboot",
+      "hungarian": "Indítsd újra a routert, hagyd újraindulni",
+      "transliteration": "Indítsd újra a routert, hagyd újraindulni",
+      "category": "Technology",
+      "generated_at": "2026-11-04T22:38:22.959983"
     }
   ],
-  "last_updated": "2026-11-04T20:50:55.544298"
+  "last_updated": "2026-11-04T22:38:22.959985"
 }
