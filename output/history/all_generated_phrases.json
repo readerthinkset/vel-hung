@@ -22539,7 +22539,42 @@
       "transliteration": "Szia, koszonjunk egymasnak, kedvesen.",
       "category": "Greetings",
       "generated_at": "2026-11-03T22:19:30.448532"
+    },
+    {
+      "english": "You try again, even when it stumbles.",
+      "hungarian": "Próbáld újra, akkor is, ha elakadnál.",
+      "transliteration": "Probáld újra, akkor is, ha elakadnál.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T00:40:30.635955"
+    },
+    {
+      "english": "Mistakes are maps, not walls.",
+      "hungarian": "A hibák térképek, nem falak.",
+      "transliteration": "A hibák térképek, nem falak.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T00:40:30.635971"
+    },
+    {
+      "english": "Slow down, and let words land.",
+      "hungarian": "Lassíts, és hagyd a szavakat megérkezni.",
+      "transliteration": "Lassíts, és hagyd a szavakat megérkezni.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T00:40:30.635973"
+    },
+    {
+      "english": "Breathe in vowels, and speak out clearly.",
+      "hungarian": "Vedd a levegőt a magánhangzóknál, mondd ki tisztán.",
+      "transliteration": "Vedd a levegőt a magánhangzóknál, mondd ki tisztán.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T00:40:30.635974"
+    },
+    {
+      "english": "Ask one question, unlock one answer.",
+      "hungarian": "Tegyél fel egy kérdést, egy választ nyits ki.",
+      "transliteration": "Tegyél fel egy kérdést, egy választ nyits ki.",
+      "category": "Strength",
+      "generated_at": "2026-11-04T00:40:30.635976"
     }
   ],
-  "last_updated": "2026-11-03T22:19:30.448534"
+  "last_updated": "2026-11-04T00:40:30.635977"
 }
