@@ -22854,7 +22854,42 @@
       "transliteration": "Olvasd a játékot, válaszd a következő passzt.",
       "category": "Sports",
       "generated_at": "2026-11-05T21:07:11.519495"
+    },
+    {
+      "english": "Hi there, how are you today?",
+      "hungarian": "Szia, hogy vagy ma?",
+      "transliteration": "Szia, hogy vagy ma?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T22:42:48.269205"
+    },
+    {
+      "english": "Please, show me the way, quickly.",
+      "hungarian": "Kérem, mutassa az utat, gyorsan.",
+      "transliteration": "Kérem, mutassa az utat, gyorsan.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T22:42:48.269217"
+    },
+    {
+      "english": "I would like tea, with lemon, please.",
+      "hungarian": "Kérek teát, citrommal, kérem.",
+      "transliteration": "Kérek teát, citrommal, kérem.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T22:42:48.269219"
+    },
+    {
+      "english": "Where is the nearest pharmacy, please?",
+      "hungarian": "Hol van a legközelebbi patika, kérem?",
+      "transliteration": "Hol van a legközelebbi patika, kérem?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T22:42:48.269221"
+    },
+    {
+      "english": "I understand a little, but please repeat.",
+      "hungarian": "Értem kicsit, de kérem, ismételje.",
+      "transliteration": "Értem kicsit, de kérem, ismételje.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-05T22:42:48.269222"
     }
   ],
-  "last_updated": "2026-11-05T21:07:11.519497"
+  "last_updated": "2026-11-05T22:42:48.269224"
 }
