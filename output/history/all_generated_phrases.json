@@ -23029,7 +23029,42 @@
       "transliteration": "A remény fellobban, és a kezem felmelegszik.",
       "category": "Feelings",
       "generated_at": "2026-11-06T22:39:38.351401"
+    },
+    {
+      "english": "Dad, fixes it fast, even at night",
+      "hungarian": "Apa, gyorsan megjavítja, még éjjel is",
+      "transliteration": "Apa, gyorsan megjavítja, megjjel is",
+      "category": "Family Terms",
+      "generated_at": "2026-11-07T00:09:29.340346"
+    },
+    {
+      "english": "Mom, brings warm soup, after school",
+      "hungarian": "Anya, meleg levest hoz, suli után",
+      "transliteration": "Anya, meleg levest hoz, suli utan",
+      "category": "Family Terms",
+      "generated_at": "2026-11-07T00:09:29.340356"
+    },
+    {
+      "english": "My parents, always coordinate our busy days",
+      "hungarian": "A szüleim, összerakják, a rohanós napokat",
+      "transliteration": "A szuleim, osszerakjak, a rohanos napokat",
+      "category": "Family Terms",
+      "generated_at": "2026-11-07T00:09:29.340358"
+    },
+    {
+      "english": "My brother, laughs first, then joins me",
+      "hungarian": "A bátyám, előbb nevet, aztán csatlakozik",
+      "transliteration": "A batyam, elobb nevet, aztan csatlakozik",
+      "category": "Family Terms",
+      "generated_at": "2026-11-07T00:09:29.340359"
+    },
+    {
+      "english": "My sister, writes notes, for tomorrow",
+      "hungarian": "A nővérem, üzeneteket ír, holnapra",
+      "transliteration": "A noverem, uzeneteket ir, holnapra",
+      "category": "Family Terms",
+      "generated_at": "2026-11-07T00:09:29.340361"
     }
   ],
-  "last_updated": "2026-11-06T22:39:38.351403"
+  "last_updated": "2026-11-07T00:09:29.340362"
 }
