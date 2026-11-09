@@ -23414,7 +23414,42 @@
       "transliteration": "Fogmosás most, friss, mentás érzés.",
       "category": "Daily Routine",
       "generated_at": "2026-11-08T23:47:16.936126"
+    },
+    {
+      "english": "Do you have this in beige, please?",
+      "hungarian": "Meg tudod mutatni, van-e bézsben?",
+      "transliteration": "Meg tudod mutatni, van-e bÉzsben?",
+      "category": "Shopping",
+      "generated_at": "2026-11-09T06:22:23.916724"
+    },
+    {
+      "english": "I’m looking for something warm, for winter.",
+      "hungarian": "Keresek valami meleg, télre.",
+      "transliteration": "Keresek valami meleg, télre",
+      "category": "Shopping",
+      "generated_at": "2026-11-09T06:22:23.916733"
+    },
+    {
+      "english": "Can I try this on, right now?",
+      "hungarian": "Fel tudom próbálni, most rögtön?",
+      "transliteration": "Fel tudom probálni, most rögtön",
+      "category": "Shopping",
+      "generated_at": "2026-11-09T06:22:23.916735"
+    },
+    {
+      "english": "How do I care for it, after washing?",
+      "hungarian": "Hogyan kell ápolni, mosás után?",
+      "transliteration": "Hogyan kell ápolni, mosás után",
+      "category": "Shopping",
+      "generated_at": "2026-11-09T06:22:23.916736"
+    },
+    {
+      "english": "Does it have pockets, for my phone?",
+      "hungarian": "Van zsebe, a telefonomnak?",
+      "transliteration": "Van zsebe, a telefonomnak",
+      "category": "Shopping",
+      "generated_at": "2026-11-09T06:22:23.916737"
     }
   ],
-  "last_updated": "2026-11-08T23:47:16.936128"
+  "last_updated": "2026-11-09T06:22:23.916738"
 }
