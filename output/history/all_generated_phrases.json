@@ -23729,7 +23729,42 @@
       "transliteration": "re-mény és öröm, együt-t, ma",
       "category": "Joy",
       "generated_at": "2026-11-10T20:41:24.086508"
+    },
+    {
+      "english": "We need a quick update, please.",
+      "hungarian": "Kell egy gyors frissítés, kérlek.",
+      "transliteration": "Kell egy gyors frissites, kerlek",
+      "category": "Work",
+      "generated_at": "2026-11-10T22:05:38.148773"
+    },
+    {
+      "english": "Can you share your progress so far?",
+      "hungarian": "Meg tudod osztani az előrehaladást?",
+      "transliteration": "Meg tudod osztani az elorehaladast",
+      "category": "Work",
+      "generated_at": "2026-11-10T22:05:38.148785"
+    },
+    {
+      "english": "Let’s review this before we send.",
+      "hungarian": "Nézzük át ezt, mielőtt elküldjük.",
+      "transliteration": "Nezzuk at ezt, mielott elkuldukjuk",
+      "category": "Work",
+      "generated_at": "2026-11-10T22:05:38.148786"
+    },
+    {
+      "english": "What’s the timeline for this task?",
+      "hungarian": "Mi a határidő ennél a feladatnál?",
+      "transliteration": "Mi a hatarido ennél a feladatnal",
+      "category": "Work",
+      "generated_at": "2026-11-10T22:05:38.148787"
+    },
+    {
+      "english": "I’ll handle the next steps from here.",
+      "hungarian": "Innen én intézem a következő lépéseket.",
+      "transliteration": "Innen en intezem a kovetkezo lepeseket",
+      "category": "Work",
+      "generated_at": "2026-11-10T22:05:38.148788"
     }
   ],
-  "last_updated": "2026-11-10T20:41:24.086510"
+  "last_updated": "2026-11-10T22:05:38.148789"
 }
