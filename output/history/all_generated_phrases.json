@@ -23659,7 +23659,42 @@
       "transliteration": "tengeri habzöld, könnyű és szellős",
       "category": "Colors",
       "generated_at": "2026-11-10T08:30:31.183224"
+    },
+    {
+      "english": "Breathe in slowly, and relax your jaw.",
+      "hungarian": "Lélegezz be lassan, és lazítsd el az állad.",
+      "transliteration": "Lélegezz be lassan, és lazytsd el az allad.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T19:27:11.838186"
+    },
+    {
+      "english": "Exhale longer, let worries fade.",
+      "hungarian": "Fújd ki tovább, és hagyd elhalványulni az aggodalmakat.",
+      "transliteration": "Fújd ki tovább, és hagyd elhalványulni az aggodalmakat.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T19:27:11.838201"
+    },
+    {
+      "english": "Feel your feet, pressing into the ground.",
+      "hungarian": "Érezd a talpadat, ahogy a talajba tapad.",
+      "transliteration": "Érezd a talpadat, ahogy a talajba tapad.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T19:27:11.838203"
+    },
+    {
+      "english": "Relax your shoulders, soften your grip.",
+      "hungarian": "Lazítsd le a vállaidat, engedd el a feszülést.",
+      "transliteration": "Lazýtsd le a vállaidat, engedd el a fészültséget.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T19:27:11.838204"
+    },
+    {
+      "english": "Notice your breath, without changing anything.",
+      "hungarian": "Figyeld a légzésedet, változtatás nélkül.",
+      "transliteration": "Figyeld a légzésedet, változtatás nélkül.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T19:27:11.838205"
     }
   ],
-  "last_updated": "2026-11-10T08:30:31.183226"
+  "last_updated": "2026-11-10T19:27:11.838208"
 }
