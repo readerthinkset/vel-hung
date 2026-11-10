@@ -23519,7 +23519,42 @@
       "transliteration": "Tegyel egy rovid setat, oszlasd a zajt",
       "category": "Health",
       "generated_at": "2026-11-09T23:28:18.855384"
+    },
+    {
+      "english": "I dropped my phone, can you call 112?",
+      "hungarian": "Leejtettem a telefonom, fel tudsz hívni a 112-t?",
+      "transliteration": "Leejtettem a telefonom, fel tudsz hivni a 112-t?",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T00:42:17.273152"
+    },
+    {
+      "english": "Emergency, there’s a fight near us, stop!",
+      "hungarian": "Sürgős, verekedés van közelünkben, állj meg!",
+      "transliteration": "Sürgős, verekedés van közelünkben, állj meg!",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T00:42:17.273162"
+    },
+    {
+      "english": "Someone stole my wallet, please help me.",
+      "hungarian": "Ellopták a pénztárcámat, kérlek segíts!",
+      "transliteration": "Ellopták a pénztárcámat, kérlek segíts!",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T00:42:17.273164"
+    },
+    {
+      "english": "I’m seeing sparks, the wiring might be burning.",
+      "hungarian": "Szétpattannak a szikrák, éghet a vezeték.",
+      "transliteration": "Szétpattannak a szikrák, éghet a vezeték.",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T00:42:17.273165"
+    },
+    {
+      "english": "There’s smoke in the hallway, get out now!",
+      "hungarian": "Füst van a folyosón, menjenek ki most!",
+      "transliteration": "Füst van a folyosón, menjenek ki most!",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T00:42:17.273166"
     }
   ],
-  "last_updated": "2026-11-09T23:28:18.855386"
+  "last_updated": "2026-11-10T00:42:17.273168"
 }
