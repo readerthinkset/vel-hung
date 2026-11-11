@@ -23834,7 +23834,42 @@
       "transliteration": "hiszek benned, oszinten",
       "category": "Kindness",
       "generated_at": "2026-11-11T04:24:59.163086"
+    },
+    {
+      "english": "I can say this part, smoothly.",
+      "hungarian": "Ezt a részt, könnyen elmondom.",
+      "transliteration": "Ezt a reszt, konnyen elmondom.",
+      "category": "Confidence",
+      "generated_at": "2026-11-11T19:22:53.267229"
+    },
+    {
+      "english": "I’m getting used to Hungarian sounds.",
+      "hungarian": "Hozzászokom a magyar hangokhoz.",
+      "transliteration": "Hozzaszokom a magyar hangokhoz.",
+      "category": "Confidence",
+      "generated_at": "2026-11-11T19:22:53.267242"
+    },
+    {
+      "english": "That question, I understand now.",
+      "hungarian": "Ezt a kérdést, most értem.",
+      "transliteration": "Ezt a kerdeszt, most ertem.",
+      "category": "Confidence",
+      "generated_at": "2026-11-11T19:22:53.267244"
+    },
+    {
+      "english": "My tongue learns the right way.",
+      "hungarian": "A nyelvem megtalálja a helyes utat.",
+      "transliteration": "A nyelvem megtalalja a helyes utat.",
+      "category": "Confidence",
+      "generated_at": "2026-11-11T19:22:53.267245"
+    },
+    {
+      "english": "I can hear the patterns clearly.",
+      "hungarian": "Jól hallom a mintákat.",
+      "transliteration": "Jol hallom a mintakat.",
+      "category": "Confidence",
+      "generated_at": "2026-11-11T19:22:53.267247"
     }
   ],
-  "last_updated": "2026-11-11T04:24:59.163088"
+  "last_updated": "2026-11-11T19:22:53.267248"
 }
