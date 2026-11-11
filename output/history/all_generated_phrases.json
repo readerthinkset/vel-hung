@@ -23869,7 +23869,42 @@
       "transliteration": "Jol hallom a mintakat.",
       "category": "Confidence",
       "generated_at": "2026-11-11T19:22:53.267247"
+    },
+    {
+      "english": "I want a fresh sandwich, please.",
+      "hungarian": "Egy friss szendvicset kérek, kérem.",
+      "transliteration": "ej friss szendvicszet kérém, kérém",
+      "category": "Food",
+      "generated_at": "2026-11-11T20:59:14.148186"
+    },
+    {
+      "english": "Can I get some bread, please?",
+      "hungarian": "Kaphatok egy kis kenyeret, kérem?",
+      "transliteration": "kaphatok ej kis kenyeret, kérém",
+      "category": "Food",
+      "generated_at": "2026-11-11T20:59:14.148202"
+    },
+    {
+      "english": "This soup smells amazing, honestly.",
+      "hungarian": "Ez a leves nagyon finom illatú.",
+      "transliteration": "ez a leves nagyon finom illatú",
+      "category": "Food",
+      "generated_at": "2026-11-11T20:59:14.148205"
+    },
+    {
+      "english": "More sauce, please, I beg you.",
+      "hungarian": "Még több szószt kérek, kérlek.",
+      "transliteration": "még több szó-szt kérék, kérlek",
+      "category": "Food",
+      "generated_at": "2026-11-11T20:59:14.148208"
+    },
+    {
+      "english": "The pasta is warm and comforting.",
+      "hungarian": "A tészta meleg, nagyon megnyugtató.",
+      "transliteration": "a téjszta meleg, nagyon megnyugtató",
+      "category": "Food",
+      "generated_at": "2026-11-11T20:59:14.148210"
     }
   ],
-  "last_updated": "2026-11-11T19:22:53.267248"
+  "last_updated": "2026-11-11T20:59:14.148213"
 }
