@@ -23904,7 +23904,42 @@
       "transliteration": "a téjszta meleg, nagyon megnyugtató",
       "category": "Food",
       "generated_at": "2026-11-11T20:59:14.148210"
+    },
+    {
+      "english": "Keep going, even if it feels hard.",
+      "hungarian": "Menj tovább, ha nehéz is.",
+      "transliteration": "Menj toväbb, ha nehéz is.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T23:15:48.283821"
+    },
+    {
+      "english": "You’ve got this, take it stepwise.",
+      "hungarian": "Megvan, csak lépésről lépésre.",
+      "transliteration": "Megvan, csak lépésről lépésre.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T23:15:48.283835"
+    },
+    {
+      "english": "Trust your practice, it will pay off.",
+      "hungarian": "Bízz a gyakorlásban, megéri.",
+      "transliteration": "Bízz a gyakorlásban, megárí.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T23:15:48.283838"
+    },
+    {
+      "english": "Say it again, with confidence.",
+      "hungarian": "Mondd el újra, magabiztosan.",
+      "transliteration": "Mondd el újra, magabiztosan.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T23:15:48.283839"
+    },
+    {
+      "english": "Small progress counts, don’t doubt yourself.",
+      "hungarian": "A kicsi fejlődés is számít.",
+      "transliteration": "A kicsi fejlődés is számít.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T23:15:48.283840"
     }
   ],
-  "last_updated": "2026-11-11T20:59:14.148213"
+  "last_updated": "2026-11-11T23:15:48.283842"
 }
