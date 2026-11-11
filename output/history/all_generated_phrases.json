@@ -23799,7 +23799,42 @@
       "transliteration": "Mozgasd a lábad, ne állj meg",
       "category": "Sports",
       "generated_at": "2026-11-11T00:27:57.408190"
+    },
+    {
+      "english": "Thank you, I really appreciate you.",
+      "hungarian": "Köszönöm, igazán sokat jelent.",
+      "transliteration": "koszonom, igazán sokat jelent",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T04:24:59.163066"
+    },
+    {
+      "english": "You matter, even on tough days.",
+      "hungarian": "Számítasz, még nehéz napokon is.",
+      "transliteration": "szamitassz, meg nehez napokon is",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T04:24:59.163081"
+    },
+    {
+      "english": "Can I help you with that?",
+      "hungarian": "Segíthetek abban, kérlek?",
+      "transliteration": "szegei thetek abban, kerlek",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T04:24:59.163083"
+    },
+    {
+      "english": "Slow down, take your time.",
+      "hungarian": "Lassíts, vedd könnyebben, oké?",
+      "transliteration": "lassits, vedd konnyebben, oke",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T04:24:59.163085"
+    },
+    {
+      "english": "I believe in you, truly.",
+      "hungarian": "Hiszek benned, őszintén.",
+      "transliteration": "hiszek benned, oszinten",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T04:24:59.163086"
     }
   ],
-  "last_updated": "2026-11-11T00:27:57.408192"
+  "last_updated": "2026-11-11T04:24:59.163088"
 }
