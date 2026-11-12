@@ -24009,7 +24009,42 @@
       "transliteration": "A falevelek ropognak a cipőm alatt.",
       "category": "Nature",
       "generated_at": "2026-11-12T05:31:12.019088"
+    },
+    {
+      "english": "I hurt my head, today.",
+      "hungarian": "Ma fáj a fejem.",
+      "transliteration": "Maa fáj a fejem",
+      "category": "Body Parts",
+      "generated_at": "2026-11-12T19:40:43.899453"
+    },
+    {
+      "english": "My neck feels tight, from stress.",
+      "hungarian": "A nyakam feszes, a stressztől.",
+      "transliteration": "A nyakam feszes, a stressztől",
+      "category": "Body Parts",
+      "generated_at": "2026-11-12T19:40:43.899466"
+    },
+    {
+      "english": "My shoulders are sore, from work.",
+      "hungarian": "Fájnak a vállaim, a munkától.",
+      "transliteration": "Fájnak a vállaim, a munkától",
+      "category": "Body Parts",
+      "generated_at": "2026-11-12T19:40:43.899467"
+    },
+    {
+      "english": "My back aches, after sitting long.",
+      "hungarian": "Fáj a hátam, sok ülés után.",
+      "transliteration": "Fáj a hátam, sok ülés után",
+      "category": "Body Parts",
+      "generated_at": "2026-11-12T19:40:43.899468"
+    },
+    {
+      "english": "My stomach is upset, I’m worried.",
+      "hungarian": "Felháborodott a gyomrom, aggódom.",
+      "transliteration": "Felháborodott a gyomrom, aggódom",
+      "category": "Body Parts",
+      "generated_at": "2026-11-12T19:40:43.899469"
     }
   ],
-  "last_updated": "2026-11-12T05:31:12.019090"
+  "last_updated": "2026-11-12T19:40:43.899470"
 }
