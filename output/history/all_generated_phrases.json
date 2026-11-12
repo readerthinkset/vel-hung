@@ -24044,7 +24044,42 @@
       "transliteration": "Felháborodott a gyomrom, aggódom",
       "category": "Body Parts",
       "generated_at": "2026-11-12T19:40:43.899469"
+    },
+    {
+      "english": "Nice, you nailed that pronunciation.",
+      "hungarian": "Szuper, ezt a kiejtést eltaláltad.",
+      "transliteration": "szuper, ezt a kiejtest eltalaltad",
+      "category": "Success",
+      "generated_at": "2026-11-12T21:15:55.698994"
+    },
+    {
+      "english": "Great, that word feels natural now.",
+      "hungarian": "Szuper, ez a szó most természetes.",
+      "transliteration": "szuper, ez a szo most termezetes",
+      "category": "Success",
+      "generated_at": "2026-11-12T21:15:55.699005"
+    },
+    {
+      "english": "Good job, you used it correctly.",
+      "hungarian": "Jó munka, jól használtad.",
+      "transliteration": "jo munka, jol hasznaltad",
+      "category": "Success",
+      "generated_at": "2026-11-12T21:15:55.699007"
+    },
+    {
+      "english": "Perfect, you said it without hesitation.",
+      "hungarian": "Tökéletes, habozás nélkül mondtad.",
+      "transliteration": "tokeletes, habozas nelkul mondtad",
+      "category": "Success",
+      "generated_at": "2026-11-12T21:15:55.699008"
+    },
+    {
+      "english": "Nice catch, you adjusted the tense.",
+      "hungarian": "Ügyes, kiigazítottad az igeidőt.",
+      "transliteration": "ugyes, kiigazittotad az igeidot",
+      "category": "Success",
+      "generated_at": "2026-11-12T21:15:55.699010"
     }
   ],
-  "last_updated": "2026-11-12T19:40:43.899470"
+  "last_updated": "2026-11-12T21:15:55.699012"
 }
