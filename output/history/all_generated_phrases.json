@@ -24079,7 +24079,42 @@
       "transliteration": "ugyes, kiigazittotad az igeidot",
       "category": "Success",
       "generated_at": "2026-11-12T21:15:55.699010"
+    },
+    {
+      "english": "Hello! How are you today?",
+      "hungarian": "Szia! Hogy vagy ma?",
+      "transliteration": "Szia! Hogy vagy ma?",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T22:30:38.158318"
+    },
+    {
+      "english": "Hi there, nice to meet you!",
+      "hungarian": "Szia, örülök, hogy megismerlek!",
+      "transliteration": "Szia, örülök, hogy megismerlek!",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T22:30:38.158329"
+    },
+    {
+      "english": "Good to see you again, friend.",
+      "hungarian": "Jó újra látni téged, barátom.",
+      "transliteration": "Jó újra látni téged, barátom.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T22:30:38.158331"
+    },
+    {
+      "english": "Welcome back! Let's talk a bit.",
+      "hungarian": "Üdvözöllek vissza! Beszélgessünk kicsit.",
+      "transliteration": "Üdvözöllek vissza! Beszélgessünk kicsit.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T22:30:38.158332"
+    },
+    {
+      "english": "Hey, how's your day going?",
+      "hungarian": "Szia, hogy megy a napod?",
+      "transliteration": "Szia, hogy megy a napod?",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T22:30:38.158334"
     }
   ],
-  "last_updated": "2026-11-12T21:15:55.699012"
+  "last_updated": "2026-11-12T22:30:38.158335"
 }
