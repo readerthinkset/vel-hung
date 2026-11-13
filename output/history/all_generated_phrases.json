@@ -24219,7 +24219,42 @@
       "transliteration": "A szavaid fennyel toltik a napom.",
       "category": "Friendship",
       "generated_at": "2026-11-13T19:22:10.370505"
+    },
+    {
+      "english": "Learn Hungarian slowly, and keep going.",
+      "hungarian": "Tanuld a magyart lassan, és haladj tovább.",
+      "transliteration": "TA-nuld a MÁ-gyart LAS-san, és HÁ-ladj TÁ-vább",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T20:42:47.710046"
+    },
+    {
+      "english": "Ask questions, practice answers, feel calmer.",
+      "hungarian": "Kérdezz bátran, gyakorolj, és nyugodtabb leszel.",
+      "transliteration": "KÉR-dezz BÁ-tran, gya-ko-rolj, és NYU-go-dabb leszel",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T20:42:47.710063"
+    },
+    {
+      "english": "Mistakes happen, just smile and restart.",
+      "hungarian": "A hibák megtörténnek, mosolyogj, és kezd elölről.",
+      "transliteration": "a HI-bák meg-TÖRT-én-nek, mo-so-lyogj, és KEZ-d el-öl-ről",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T20:42:47.710066"
+    },
+    {
+      "english": "Speak with others, not only alone.",
+      "hungarian": "Beszélj másokkal, ne csak egyedül.",
+      "transliteration": "BE-szélj MA-sok-kal, ne csak EGY-e-dül",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T20:42:47.710067"
+    },
+    {
+      "english": "Listen first, then answer in your turn.",
+      "hungarian": "Először figyelj, aztán válaszolj sorban.",
+      "transliteration": "EL-ő-ször FI-gyelj, aztán VÁ-la-szolj SOR-ban",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T20:42:47.710069"
     }
   ],
-  "last_updated": "2026-11-13T19:22:10.370506"
+  "last_updated": "2026-11-13T20:42:47.710071"
 }
