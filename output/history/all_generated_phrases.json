@@ -24114,7 +24114,42 @@
       "transliteration": "Szia, hogy megy a napod?",
       "category": "Greetings",
       "generated_at": "2026-11-12T22:30:38.158334"
+    },
+    {
+      "english": "One cup, please, for my tea.",
+      "hungarian": "Egy csésze kell, kérem, a teához.",
+      "transliteration": "Egy csésze kell, kérem, a teához.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T00:56:41.362832"
+    },
+    {
+      "english": "Two plates, coming right up, thanks.",
+      "hungarian": "Két tányér, mindjárt hozom, köszönöm.",
+      "transliteration": "Két tányér, mindjárt hozom, köszönöm.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T00:56:41.362849"
+    },
+    {
+      "english": "Three keys, in my pocket, today.",
+      "hungarian": "Három kulcs van a zsebemben ma.",
+      "transliteration": "Három kulcs van a zsebemben ma.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T00:56:41.362851"
+    },
+    {
+      "english": "Four friends, walking home together now.",
+      "hungarian": "Négy barát, hazafelé megyünk együtt.",
+      "transliteration": "Négy barát, hazafelé megyünk együtt.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T00:56:41.362852"
+    },
+    {
+      "english": "Five minutes, then we start.",
+      "hungarian": "Öt perc, és indulunk.",
+      "transliteration": "Öt perc, és indulunk.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T00:56:41.362854"
     }
   ],
-  "last_updated": "2026-11-12T22:30:38.158335"
+  "last_updated": "2026-11-13T00:56:41.362856"
 }
