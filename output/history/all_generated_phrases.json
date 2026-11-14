@@ -24464,7 +24464,42 @@
       "transliteration": "Szeretnenk rendelni, kerem.",
       "category": "Restaurant",
       "generated_at": "2026-11-14T21:01:22.778592"
+    },
+    {
+      "english": "My wife, she checks the bus schedule.",
+      "hungarian": "A feleségem, megnézi a buszmenetrendet.",
+      "transliteration": "a feleségem, méǵnēzi a buszmenetréndet",
+      "category": "Family Terms",
+      "generated_at": "2026-11-14T23:41:20.333634"
+    },
+    {
+      "english": "My husband, he grills sausages on weekends.",
+      "hungarian": "A férjem, hétvégén kolbászt süt.",
+      "transliteration": "a férjem, hétvégén kolbászt szüt",
+      "category": "Family Terms",
+      "generated_at": "2026-11-14T23:41:20.333646"
+    },
+    {
+      "english": "My son, he practices piano after dinner.",
+      "hungarian": "A fiam, vacsora után zongorázik.",
+      "transliteration": "a fíam, vacsora után zongorázik",
+      "category": "Family Terms",
+      "generated_at": "2026-11-14T23:41:20.333648"
+    },
+    {
+      "english": "My daughter, she rides her bike happily.",
+      "hungarian": "A lányom, vidáman teker a biciklijén.",
+      "transliteration": "a lányom, vidáman teker a biciklijén",
+      "category": "Family Terms",
+      "generated_at": "2026-11-14T23:41:20.333649"
+    },
+    {
+      "english": "My brother-in-law, he helps me carry boxes.",
+      "hungarian": "A sógorom, segít cipelni a dobozokat.",
+      "transliteration": "a sógorom, segét cipélni a dobozókat",
+      "category": "Family Terms",
+      "generated_at": "2026-11-14T23:41:20.333650"
     }
   ],
-  "last_updated": "2026-11-14T21:01:22.778594"
+  "last_updated": "2026-11-14T23:41:20.333652"
 }
