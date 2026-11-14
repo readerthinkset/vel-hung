@@ -24324,7 +24324,42 @@
       "transliteration": "Várj, mindjárt felhívlak.",
       "category": "Time",
       "generated_at": "2026-11-14T00:43:11.848750"
+    },
+    {
+      "english": "Where can I buy a transit card?",
+      "hungarian": "Hol lehet utazási kártyát venni?",
+      "transliteration": "Hol lehet utazási kártyát venni?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T04:41:39.938750"
+    },
+    {
+      "english": "How much is a single ticket?",
+      "hungarian": "Mennyibe kerül egy jegy?",
+      "transliteration": "Mennyiibe kerül egy jegy?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T04:41:39.938764"
+    },
+    {
+      "english": "Is this bus going to the center?",
+      "hungarian": "Ez a busz a belvárosba megy?",
+      "transliteration": "Ez a busz a belvárosba megy?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T04:41:39.938766"
+    },
+    {
+      "english": "When is the next train, please?",
+      "hungarian": "Mikor indul a következő vonat?",
+      "transliteration": "Mikor indul a következő vonat?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T04:41:39.938766"
+    },
+    {
+      "english": "Could you help me find platform two?",
+      "hungarian": "Segítene megtalálni a kettes vágányt?",
+      "transliteration": "Szegítene megtalálni a kettes vágányt?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T04:41:39.938767"
     }
   ],
-  "last_updated": "2026-11-14T00:43:11.848752"
+  "last_updated": "2026-11-14T04:41:39.938769"
 }
