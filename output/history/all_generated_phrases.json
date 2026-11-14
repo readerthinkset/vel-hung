@@ -24289,7 +24289,42 @@
       "transliteration": "Kitsit vedd lej-jebb a han-gerőt",
       "category": "Music",
       "generated_at": "2026-11-13T22:18:55.295446"
+    },
+    {
+      "english": "Now, let's start fresh, together.",
+      "hungarian": "Most, kezdjünk frissen, együtt.",
+      "transliteration": "Moszt, kezdjünk frissen, együtt.",
+      "category": "Time",
+      "generated_at": "2026-11-14T00:43:11.848728"
+    },
+    {
+      "english": "Right now, time feels different.",
+      "hungarian": "Pont most, másképp érzed az időt.",
+      "transliteration": "Pont most, maskepp erzed az idót.",
+      "category": "Time",
+      "generated_at": "2026-11-14T00:43:11.848746"
+    },
+    {
+      "english": "Hold on, wait a second.",
+      "hungarian": "Várj csak, egy pillanatot.",
+      "transliteration": "Várj csak, egy pillanatót.",
+      "category": "Time",
+      "generated_at": "2026-11-14T00:43:11.848747"
+    },
+    {
+      "english": "In a minute, I'll be there.",
+      "hungarian": "Egy perc múlva, ott leszek.",
+      "transliteration": "Egy perc múlva, ott leszek.",
+      "category": "Time",
+      "generated_at": "2026-11-14T00:43:11.848749"
+    },
+    {
+      "english": "Wait, I'll call you shortly.",
+      "hungarian": "Várj, mindjárt felhívlak.",
+      "transliteration": "Várj, mindjárt felhívlak.",
+      "category": "Time",
+      "generated_at": "2026-11-14T00:43:11.848750"
     }
   ],
-  "last_updated": "2026-11-13T22:18:55.295448"
+  "last_updated": "2026-11-14T00:43:11.848752"
 }
