@@ -24429,7 +24429,42 @@
       "transliteration": "Meg-iszom a ká-vét, nem si-e-tek.",
       "category": "Daily Routine",
       "generated_at": "2026-11-14T18:55:04.377686"
+    },
+    {
+      "english": "A menu, please, and a pen.",
+      "hungarian": "Kérek egy étlapot, és egy tollat.",
+      "transliteration": "Kerek egy etlapot, es egy tollat.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-14T21:01:22.778572"
+    },
+    {
+      "english": "Do you have today’s specials?",
+      "hungarian": "Vannak ma napi ajánlatok?",
+      "transliteration": "Vannak ma napi ajanlatok?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-14T21:01:22.778587"
+    },
+    {
+      "english": "Is the kitchen open right now?",
+      "hungarian": "Most nyitva van a konyha?",
+      "transliteration": "Most nyitva van a konyha?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-14T21:01:22.778589"
+    },
+    {
+      "english": "How long will the food take?",
+      "hungarian": "Mennyi idő, míg elkészül az étel?",
+      "transliteration": "Mennyi ido, mig elkeszul az etel?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-14T21:01:22.778591"
+    },
+    {
+      "english": "We’d like to order, please.",
+      "hungarian": "Szeretnénk rendelni, kérem.",
+      "transliteration": "Szeretnenk rendelni, kerem.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-14T21:01:22.778592"
     }
   ],
-  "last_updated": "2026-11-14T18:55:04.377688"
+  "last_updated": "2026-11-14T21:01:22.778594"
 }
