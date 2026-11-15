@@ -24604,7 +24604,42 @@
       "transliteration": "Mondd igent, ami igá́n számit.",
       "category": "Positive Life",
       "generated_at": "2026-11-15T19:30:57.135663"
+    },
+    {
+      "english": "I need a warmer jacket today, please.",
+      "hungarian": "Ma egy melegebb kabát kell, kérem.",
+      "transliteration": "Ma egy melegebb kabát kell, kérém.",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T21:25:54.745950"
+    },
+    {
+      "english": "Where is my missing sock, please?",
+      "hungarian": "Hol van a hiányzó zoknim, kérem?",
+      "transliteration": "Hol van a hianyzó zoknim, kérém?",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T21:25:54.745964"
+    },
+    {
+      "english": "These socks match my shoes nicely.",
+      "hungarian": "Ezek a zoknik szépen passzolnak a cipőmhöz.",
+      "transliteration": "Ezek a zoknik szépen passzolnak a cipőmhöz.",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T21:25:54.745966"
+    },
+    {
+      "english": "My belt feels a bit too tight.",
+      "hungarian": "A nadrágszíjam kicsit túl szoros.",
+      "transliteration": "A nadrágszíjam kicsit túl szoros.",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T21:25:54.745966"
+    },
+    {
+      "english": "This T-shirt is soft, and comfortable.",
+      "hungarian": "Ez a póló puha, és kényelmes.",
+      "transliteration": "Ez a póló puha, és kényelmes.",
+      "category": "Clothes",
+      "generated_at": "2026-11-15T21:25:54.745967"
     }
   ],
-  "last_updated": "2026-11-15T19:30:57.135667"
+  "last_updated": "2026-11-15T21:25:54.745969"
 }
