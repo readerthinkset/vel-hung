@@ -24499,7 +24499,42 @@
       "transliteration": "a sógorom, segét cipélni a dobozókat",
       "category": "Family Terms",
       "generated_at": "2026-11-14T23:41:20.333650"
+    },
+    {
+      "english": "How are you feeling today, really?",
+      "hungarian": "Hogy érzed magad ma, tényleg?",
+      "transliteration": "Hogy érzed magad ma, tényleg?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-15T04:32:26.899665"
+    },
+    {
+      "english": "I’m heading home now, okay?",
+      "hungarian": "Most megyek haza, jó?",
+      "transliteration": "Most megyek haza, jó?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-15T04:32:26.899680"
+    },
+    {
+      "english": "Can you help me, please?",
+      "hungarian": "Segítesz nekem, kérlek?",
+      "transliteration": "Segítesz nekem, kérlek?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-15T04:32:26.899681"
+    },
+    {
+      "english": "I don’t quite understand, yet.",
+      "hungarian": "Egyelőre nem igazán értem.",
+      "transliteration": "Egyelőre nem igazán értem.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-15T04:32:26.899683"
+    },
+    {
+      "english": "No worries, we’ll figure it out.",
+      "hungarian": "Semmi gond, megoldjuk.",
+      "transliteration": "Semmi gond, megoldjuk.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-15T04:32:26.899684"
     }
   ],
-  "last_updated": "2026-11-14T23:41:20.333652"
+  "last_updated": "2026-11-15T04:32:26.899686"
 }
