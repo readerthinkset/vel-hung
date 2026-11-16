@@ -24744,7 +24744,42 @@
       "transliteration": "Tegyél tobb zoldseget, erossebb leszel.",
       "category": "Health",
       "generated_at": "2026-11-16T21:45:13.269928"
+    },
+    {
+      "english": "Please, take your time. I’m here.",
+      "hungarian": "Kérlek, vedd a lehető időt. Itt vagyok.",
+      "transliteration": "Kerlek, vedd a lehető idot. Itt vagyok.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T23:08:13.930218"
+    },
+    {
+      "english": "No worries, we can figure it out.",
+      "hungarian": "Semmi gond, megoldjuk együtt.",
+      "transliteration": "Semmi gond, megoldjuk egyutt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T23:08:13.930236"
+    },
+    {
+      "english": "Would you like some help with that?",
+      "hungarian": "Szeretnél segítséget abban?",
+      "transliteration": "Szeretnel segitseget abban?",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T23:08:13.930237"
+    },
+    {
+      "english": "That was kind of you, really.",
+      "hungarian": "Ez igazán kedves tőled, komolyan.",
+      "transliteration": "Ez igazán kedves toled, komolyan.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T23:08:13.930238"
+    },
+    {
+      "english": "I noticed you, and I care.",
+      "hungarian": "Észrevettem téged, és számítok rád.",
+      "transliteration": "Eszrevettem teged, es szamitok rad.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T23:08:13.930239"
     }
   ],
-  "last_updated": "2026-11-16T21:45:13.269930"
+  "last_updated": "2026-11-16T23:08:13.930241"
 }
