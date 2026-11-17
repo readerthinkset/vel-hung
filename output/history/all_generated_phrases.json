@@ -24919,7 +24919,42 @@
       "transliteration": "Sajnálom, nem akartam.",
       "category": "Basic Phrases",
       "generated_at": "2026-11-17T20:36:53.341008"
+    },
+    {
+      "english": "Come in, the coffee is ready.",
+      "hungarian": "Gyere be, kész a kávé.",
+      "transliteration": "gyere be, kesz a kávé",
+      "category": "Culture",
+      "generated_at": "2026-11-17T21:58:25.379654"
+    },
+    {
+      "english": "Let’s go to the market this morning.",
+      "hungarian": "Menjünk a piacra ma reggel.",
+      "transliteration": "menyünk a piacra ma reggel",
+      "category": "Culture",
+      "generated_at": "2026-11-17T21:58:25.379671"
+    },
+    {
+      "english": "Try this, it’s homemade and fresh.",
+      "hungarian": "Kóstold meg, házi és friss.",
+      "transliteration": "kosztold meg, hazi es friss",
+      "category": "Culture",
+      "generated_at": "2026-11-17T21:58:25.379673"
+    },
+    {
+      "english": "We drink tea, and talk for hours.",
+      "hungarian": "Teázunk, és órákig beszélgetünk.",
+      "transliteration": "teázunk, es orakig beszelgetunk",
+      "category": "Culture",
+      "generated_at": "2026-11-17T21:58:25.379675"
+    },
+    {
+      "english": "In Hungary, Sunday is for family.",
+      "hungarian": "Magyarországon a vasárnap családi nap.",
+      "transliteration": "magyarországon a vasárnap csaladi nap",
+      "category": "Culture",
+      "generated_at": "2026-11-17T21:58:25.379677"
     }
   ],
-  "last_updated": "2026-11-17T20:36:53.341010"
+  "last_updated": "2026-11-17T21:58:25.379680"
 }
