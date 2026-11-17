@@ -24849,7 +24849,42 @@
       "transliteration": "Sürgősen orvos kell, kérem.",
       "category": "Emergency",
       "generated_at": "2026-11-17T02:49:17.262109"
+    },
+    {
+      "english": "I’ve got this sentence, today.",
+      "hungarian": "Ezt a mondatot, ma értem.",
+      "transliteration": "Ezt a mondatot, ma értem.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T06:15:37.609266"
+    },
+    {
+      "english": "I’m starting to feel confident.",
+      "hungarian": "Egyre magabiztosabb vagyok.",
+      "transliteration": "Egyre magabiztosabb vagyok.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T06:15:37.609279"
+    },
+    {
+      "english": "I can say it without panic.",
+      "hungarian": "Tudom mondani, pánik nélkül.",
+      "transliteration": "Tudom mondani, pánik nélkül.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T06:15:37.609281"
+    },
+    {
+      "english": "My pronunciation is improving fast.",
+      "hungarian": "Gyorsan javul a kiejtésem.",
+      "transliteration": "Gyorsan javul a kiejtésem.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T06:15:37.609282"
+    },
+    {
+      "english": "I know where the words go.",
+      "hungarian": "Tudom, hová kerülnek a szavak.",
+      "transliteration": "Tudom, hová kerülnek a szavak.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T06:15:37.609283"
     }
   ],
-  "last_updated": "2026-11-17T02:49:17.262111"
+  "last_updated": "2026-11-17T06:15:37.609287"
 }
