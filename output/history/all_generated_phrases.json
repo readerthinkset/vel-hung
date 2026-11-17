@@ -24884,7 +24884,42 @@
       "transliteration": "Tudom, hová kerülnek a szavak.",
       "category": "Confidence",
       "generated_at": "2026-11-17T06:15:37.609283"
+    },
+    {
+      "english": "Hello, how’s it going today?",
+      "hungarian": "Szia, hogy van ma?",
+      "transliteration": "Szia, hogy van ma?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T20:36:53.340988"
+    },
+    {
+      "english": "Good morning, see you later.",
+      "hungarian": "Jó reggelt, később találkozunk.",
+      "transliteration": "Jó reggelt, később találkozunk.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T20:36:53.341004"
+    },
+    {
+      "english": "Good evening, are you free now?",
+      "hungarian": "Jó estét, szabad vagy most?",
+      "transliteration": "Jó estét, szabad vagy most?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T20:36:53.341006"
+    },
+    {
+      "english": "Thanks a lot, I really appreciate it.",
+      "hungarian": "Nagyon köszönöm, tényleg sokat segítettél.",
+      "transliteration": "Nagyon köszönöm, tényleg sokat segítettél.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T20:36:53.341007"
+    },
+    {
+      "english": "Sorry, I didn’t mean to.",
+      "hungarian": "Sajnálom, nem akartam.",
+      "transliteration": "Sajnálom, nem akartam.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T20:36:53.341008"
     }
   ],
-  "last_updated": "2026-11-17T06:15:37.609287"
+  "last_updated": "2026-11-17T20:36:53.341010"
 }
