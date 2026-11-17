@@ -24814,7 +24814,42 @@
       "transliteration": "fa-hé-jas-bar-na, me-leg és hí-vo-ga-tó",
       "category": "Colors",
       "generated_at": "2026-11-17T00:35:55.041877"
+    },
+    {
+      "english": "Please call emergency services for me.",
+      "hungarian": "Kérem, hívjon segélyhívót nekem.",
+      "transliteration": "Kérem, hivjon segélyhívót nekem.",
+      "category": "Emergency",
+      "generated_at": "2026-11-17T02:49:17.262089"
+    },
+    {
+      "english": "I think someone is in danger.",
+      "hungarian": "Úgy érzem, valaki veszélyben van.",
+      "transliteration": "Ugy érzem, valaki vészélyben van.",
+      "category": "Emergency",
+      "generated_at": "2026-11-17T02:49:17.262104"
+    },
+    {
+      "english": "Stop, there is a threat here!",
+      "hungarian": "Állj meg, itt veszély van!",
+      "transliteration": "Állj meg, itt vészély van!",
+      "category": "Emergency",
+      "generated_at": "2026-11-17T02:49:17.262106"
+    },
+    {
+      "english": "Are you okay? I’m worried about you.",
+      "hungarian": "Jól vagy? Aggódom érted.",
+      "transliteration": "Jól vagy? Aggódom érted.",
+      "category": "Emergency",
+      "generated_at": "2026-11-17T02:49:17.262107"
+    },
+    {
+      "english": "I need a doctor urgently, please.",
+      "hungarian": "Sürgősen orvos kell, kérem.",
+      "transliteration": "Sürgősen orvos kell, kérem.",
+      "category": "Emergency",
+      "generated_at": "2026-11-17T02:49:17.262109"
     }
   ],
-  "last_updated": "2026-11-17T00:35:55.041879"
+  "last_updated": "2026-11-17T02:49:17.262111"
 }
