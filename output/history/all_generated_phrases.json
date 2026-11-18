@@ -25059,7 +25059,42 @@
       "transliteration": "Sia, olyan jó újra látni téged!",
       "category": "Greetings",
       "generated_at": "2026-11-18T05:42:42.158389"
+    },
+    {
+      "english": "Be patient, good things take time.",
+      "hungarian": "Légy türelmes, a jó dolgok időt kérnek.",
+      "transliteration": "legy tyurelmes, a jo dolgok idot kernek",
+      "category": "Patience",
+      "generated_at": "2026-11-18T20:08:46.212805"
+    },
+    {
+      "english": "Wait a bit, it will sort itself out.",
+      "hungarian": "Várj kicsit, magától elrendeződik.",
+      "transliteration": "varj kicsit, magatol elrendeződik",
+      "category": "Patience",
+      "generated_at": "2026-11-18T20:08:46.212821"
+    },
+    {
+      "english": "Don’t rush, the timing will come.",
+      "hungarian": "Ne siettesd, eljön a megfelelő idő.",
+      "transliteration": "ne sietesd, eljon a megfelelo ido",
+      "category": "Patience",
+      "generated_at": "2026-11-18T20:08:46.212823"
+    },
+    {
+      "english": "Let it be, and move one step.",
+      "hungarian": "Hagyd, és tegyél egy lépést.",
+      "transliteration": "hagyd, es tegyel egy lepest",
+      "category": "Patience",
+      "generated_at": "2026-11-18T20:08:46.212825"
+    },
+    {
+      "english": "Slow down, you’ll see the next step.",
+      "hungarian": "Lassíts, meglátod a következő lépést.",
+      "transliteration": "lassits, meglatod a kovetkezo lepest",
+      "category": "Patience",
+      "generated_at": "2026-11-18T20:08:46.212827"
     }
   ],
-  "last_updated": "2026-11-18T05:42:42.158391"
+  "last_updated": "2026-11-18T20:08:46.212829"
 }
