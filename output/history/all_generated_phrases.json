@@ -25024,7 +25024,42 @@
       "transliteration": "Használj egyszerű szavakat, minden nap.",
       "category": "Purpose",
       "generated_at": "2026-11-18T02:11:06.868555"
+    },
+    {
+      "english": "Hello, I’m happy you’re here today.",
+      "hungarian": "Szia, örülök, hogy ma itt vagy.",
+      "transliteration": "Sia, örülök, hogy ma itt vagy.",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T05:42:42.158368"
+    },
+    {
+      "english": "Hi there, ready to chat for a bit?",
+      "hungarian": "Szia, készen állsz egy kis beszélgetésre?",
+      "transliteration": "Sia, készen állsz egy kis beszélgetésre?",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T05:42:42.158384"
+    },
+    {
+      "english": "Good morning, let’s begin with a smile.",
+      "hungarian": "Jó reggelt, induljunk mosollyal.",
+      "transliteration": "Jo reggelt, induljunk mosollyal.",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T05:42:42.158386"
+    },
+    {
+      "english": "Welcome, let’s take it one step.",
+      "hungarian": "Üdvözlöm, haladjunk csak egy lépést.",
+      "transliteration": "Üdvözlöm, haladjunk csak egy lépést.",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T05:42:42.158388"
+    },
+    {
+      "english": "Hey, great to see you again!",
+      "hungarian": "Szia, olyan jó újra látni téged!",
+      "transliteration": "Sia, olyan jó újra látni téged!",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T05:42:42.158389"
     }
   ],
-  "last_updated": "2026-11-18T02:11:06.868556"
+  "last_updated": "2026-11-18T05:42:42.158391"
 }
