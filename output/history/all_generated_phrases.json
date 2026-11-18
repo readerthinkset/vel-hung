@@ -25094,7 +25094,42 @@
       "transliteration": "lassits, meglatod a kovetkezo lepest",
       "category": "Patience",
       "generated_at": "2026-11-18T20:08:46.212827"
+    },
+    {
+      "english": "I touched my forehead, just now.",
+      "hungarian": "Épp most megérintettem a homlokom.",
+      "transliteration": "Epp most megerintettem a homlokom",
+      "category": "Body Parts",
+      "generated_at": "2026-11-18T21:40:59.435194"
+    },
+    {
+      "english": "My hair is itchy, today.",
+      "hungarian": "Ma viszket a hajam.",
+      "transliteration": "Ma viszket a hajam",
+      "category": "Body Parts",
+      "generated_at": "2026-11-18T21:40:59.435210"
+    },
+    {
+      "english": "I have a sore throat, again.",
+      "hungarian": "Megint fáj a torkom.",
+      "transliteration": "Megint faj a torkom",
+      "category": "Body Parts",
+      "generated_at": "2026-11-18T21:40:59.435212"
+    },
+    {
+      "english": "My tongue tastes strange, suddenly.",
+      "hungarian": "Hirtelen furcsa íze van a nyelvemnek.",
+      "transliteration": "Hirtelen furcsa íze van a nyelvemnek",
+      "category": "Body Parts",
+      "generated_at": "2026-11-18T21:40:59.435214"
+    },
+    {
+      "english": "My gums hurt, when I chew.",
+      "hungarian": "Fáj az ínyem, ha rágok.",
+      "transliteration": "Faj az inyem, ha ragok",
+      "category": "Body Parts",
+      "generated_at": "2026-11-18T21:40:59.435216"
     }
   ],
-  "last_updated": "2026-11-18T20:08:46.212829"
+  "last_updated": "2026-11-18T21:40:59.435218"
 }
