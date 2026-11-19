@@ -25199,7 +25199,42 @@
       "transliteration": "Most valami edesre vazsom.",
       "category": "Food",
       "generated_at": "2026-11-19T02:08:40.030319"
+    },
+    {
+      "english": "Breathe in, then swing with control.",
+      "hungarian": "Vegyél egy levegőt, aztán lendíts kontrollal.",
+      "transliteration": "Vegyel egy levegot, aztan lendits kontrollal.",
+      "category": "Sports",
+      "generated_at": "2026-11-19T05:41:24.801791"
+    },
+    {
+      "english": "Keep your stance, stay ready.",
+      "hungarian": "Tartsd a tartást, maradj készen.",
+      "transliteration": "Tartsd a tartast, maradj keszen.",
+      "category": "Sports",
+      "generated_at": "2026-11-19T05:41:24.801803"
+    },
+    {
+      "english": "Nice save, you got it back!",
+      "hungarian": "Szép védés, visszaszedted!",
+      "transliteration": "Szep vedes, visszaszedted!",
+      "category": "Sports",
+      "generated_at": "2026-11-19T05:41:24.801805"
+    },
+    {
+      "english": "Move to the open space, now.",
+      "hungarian": "Mozogj a szabad helyre, most.",
+      "transliteration": "Mozogj a szabad helyre, most.",
+      "category": "Sports",
+      "generated_at": "2026-11-19T05:41:24.801807"
+    },
+    {
+      "english": "Watch their feet, predict the move.",
+      "hungarian": "Figyeld a lábukat, lásd előre a mozdulatot.",
+      "transliteration": "Figyeld a labukat, lásd elore a mozdulatot.",
+      "category": "Sports",
+      "generated_at": "2026-11-19T05:41:24.801808"
     }
   ],
-  "last_updated": "2026-11-19T02:08:40.030321"
+  "last_updated": "2026-11-19T05:41:24.801810"
 }
