@@ -25164,7 +25164,42 @@
       "transliteration": "A gondjaid most várhatnak egy kicsit.",
       "category": "Happiness",
       "generated_at": "2026-11-18T23:14:32.500416"
+    },
+    {
+      "english": "I’ll take a chicken soup, please.",
+      "hungarian": "Kérek egy csirkeleveset, kérem.",
+      "transliteration": "Keregy egy csirkeleveset, kérem.",
+      "category": "Food",
+      "generated_at": "2026-11-19T02:08:40.030295"
+    },
+    {
+      "english": "This bread is still warm, wow.",
+      "hungarian": "Ez a kenyér még meleg, jé.",
+      "transliteration": "Ez a kenyer meg meleg, je.",
+      "category": "Food",
+      "generated_at": "2026-11-19T02:08:40.030314"
+    },
+    {
+      "english": "Can I have butter with it?",
+      "hungarian": "Kérhetek mellé vajat?",
+      "transliteration": "Kerhetek melle vajat?",
+      "category": "Food",
+      "generated_at": "2026-11-19T02:08:40.030316"
+    },
+    {
+      "english": "Please, add some extra cheese.",
+      "hungarian": "Kérem, tegyen rá még egy kis sajtot.",
+      "transliteration": "Kerem, tegyen ra meg egy kis sajtot.",
+      "category": "Food",
+      "generated_at": "2026-11-19T02:08:40.030318"
+    },
+    {
+      "english": "I’m craving something sweet right now.",
+      "hungarian": "Most valami édesre vágyom.",
+      "transliteration": "Most valami edesre vazsom.",
+      "category": "Food",
+      "generated_at": "2026-11-19T02:08:40.030319"
     }
   ],
-  "last_updated": "2026-11-18T23:14:32.500418"
+  "last_updated": "2026-11-19T02:08:40.030321"
 }
