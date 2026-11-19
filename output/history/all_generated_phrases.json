@@ -25269,7 +25269,42 @@
       "transliteration": "A mell-ka-sod-ból szólj, ma-radj nyu-go-dott.",
       "category": "Strength",
       "generated_at": "2026-11-19T20:08:59.334898"
+    },
+    {
+      "english": "Use simple words, and keep going.",
+      "hungarian": "Használj egyszerű szavakat, és menj tovább.",
+      "transliteration": "HAS-nalj EGY-sze-rű sa-vá-kat, és menj TOV-ább.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T21:56:33.202389"
+    },
+    {
+      "english": "Ask one thing, then listen carefully.",
+      "hungarian": "Kérdezz valamit, aztán hallgass figyelmesen.",
+      "transliteration": "KÉR-dezz VA-mi-t, aztán HALL-gass FIG-ye-le-me-sen.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T21:56:33.202406"
+    },
+    {
+      "english": "Mistakes are normal, everyone learns differently.",
+      "hungarian": "A hibák természetesek, mindenki másképp tanul.",
+      "transliteration": "A hi-bák TER-mé-sze-te-sek, MIN-den-ki MÁS-képp ta-nul.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T21:56:33.202409"
+    },
+    {
+      "english": "Speak slowly, you’ll sound more confident.",
+      "hungarian": "Beszélj lassan, magabiztosabb leszel.",
+      "transliteration": "BE-szélj LÁ-sSAn, ma-ga-bíz-to-sabb leszel.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T21:56:33.202411"
+    },
+    {
+      "english": "Small progress counts, even on hard days.",
+      "hungarian": "A kis fejlődés is számít, nehéz napokon is.",
+      "transliteration": "A kis FEJ-lő-dé-s is SZÁ-mít, NÉ-héz na-po-kon is.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T21:56:33.202413"
     }
   ],
-  "last_updated": "2026-11-19T20:08:59.334900"
+  "last_updated": "2026-11-19T21:56:33.202415"
 }
