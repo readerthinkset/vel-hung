@@ -25409,7 +25409,42 @@
       "transliteration": "ha-gyd el a hi-bá-kat, be-szélj tovább",
       "category": "Motivation",
       "generated_at": "2026-11-20T05:29:32.024360"
+    },
+    {
+      "english": "Great job, you’re almost there.",
+      "hungarian": "Szuper, már majdnem ott vagy.",
+      "transliteration": "Szupĕr, mar majdnem ott vagy.",
+      "category": "Success",
+      "generated_at": "2026-11-20T19:44:21.847607"
+    },
+    {
+      "english": "Nice work, keep going today.",
+      "hungarian": "Jó munkát, folytasd ma is.",
+      "transliteration": "Jo munkät, folytd ma is.",
+      "category": "Success",
+      "generated_at": "2026-11-20T19:44:21.847621"
+    },
+    {
+      "english": "Good, now try it slowly.",
+      "hungarian": "Jól van, most próbáld lassan.",
+      "transliteration": "Jól van, most probald lassan.",
+      "category": "Success",
+      "generated_at": "2026-11-20T19:44:21.847622"
+    },
+    {
+      "english": "Excellent, that’s the right word.",
+      "hungarian": "Remek, ez az a jó szó.",
+      "transliteration": "Remek, ez az a jo szó.",
+      "category": "Success",
+      "generated_at": "2026-11-20T19:44:21.847623"
+    },
+    {
+      "english": "You’re improving, I can hear it.",
+      "hungarian": "Egyre jobban megy, hallom.",
+      "transliteration": "Egyre jobban megy, hallom.",
+      "category": "Success",
+      "generated_at": "2026-11-20T19:44:21.847624"
     }
   ],
-  "last_updated": "2026-11-20T05:29:32.024362"
+  "last_updated": "2026-11-20T19:44:21.847625"
 }
