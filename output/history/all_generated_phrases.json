@@ -25479,7 +25479,42 @@
       "transliteration": "Minden nap hálás vagyok neked.",
       "category": "Love",
       "generated_at": "2026-11-20T21:39:04.346841"
+    },
+    {
+      "english": "Say it slowly, then slightly faster.",
+      "hungarian": "Mondd lassan, aztán kicsit gyorsabban.",
+      "transliteration": "Mondd lassan, aztan kicsit gyorsaBBan.",
+      "category": "Directions",
+      "generated_at": "2026-11-20T22:53:22.701910"
+    },
+    {
+      "english": "Start with a clear beginning sound.",
+      "hungarian": "Kezdd egy tiszta kezdő hanggal.",
+      "transliteration": "Kezzd egy tiszta kezdo hanggal.",
+      "category": "Directions",
+      "generated_at": "2026-11-20T22:53:22.701926"
+    },
+    {
+      "english": "Keep your mouth relaxed, stay steady.",
+      "hungarian": "Tartsd lazán a szádat, maradj nyugodt.",
+      "transliteration": "Tartsd lazán a szád, maradj nyugodt.",
+      "category": "Directions",
+      "generated_at": "2026-11-20T22:53:22.701928"
+    },
+    {
+      "english": "Open the vowel a bit more.",
+      "hungarian": "Nyisd jobban a magánhangzót.",
+      "transliteration": "Nyisd jobban a maganhangzót.",
+      "category": "Directions",
+      "generated_at": "2026-11-20T22:53:22.701929"
+    },
+    {
+      "english": "End the word cleanly, no drag.",
+      "hungarian": "A szó végét ejtsd tisztán, húzás nélkül.",
+      "transliteration": "A szo veget ejtsd tisztan, huzas nelkul.",
+      "category": "Directions",
+      "generated_at": "2026-11-20T22:53:22.701931"
     }
   ],
-  "last_updated": "2026-11-20T21:39:04.346843"
+  "last_updated": "2026-11-20T22:53:22.701933"
 }
