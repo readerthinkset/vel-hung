@@ -25444,7 +25444,42 @@
       "transliteration": "Egyre jobban megy, hallom.",
       "category": "Success",
       "generated_at": "2026-11-20T19:44:21.847624"
+    },
+    {
+      "english": "I feel safe with you beside me.",
+      "hungarian": "Biztonságban érzem magam melletted.",
+      "transliteration": "Biztonságban érzem magam melletted.",
+      "category": "Love",
+      "generated_at": "2026-11-20T21:39:04.346822"
+    },
+    {
+      "english": "I want you, here, right now.",
+      "hungarian": "Itt akarlak téged, most, azonnal.",
+      "transliteration": "Itt akarlak téged, most, azonnal.",
+      "category": "Love",
+      "generated_at": "2026-11-20T21:39:04.346833"
+    },
+    {
+      "english": "You make my hard days softer.",
+      "hungarian": "Lágyabbá teszed a nehéz napjaimat.",
+      "transliteration": "Lágyabbá teszed a nehéz napjaimat.",
+      "category": "Love",
+      "generated_at": "2026-11-20T21:39:04.346835"
+    },
+    {
+      "english": "When you laugh, everything feels lighter.",
+      "hungarian": "Ha nevetsz, minden könnyebbnek tűnik.",
+      "transliteration": "Ha nevetsz, minden könnyebbnek tűnik.",
+      "category": "Love",
+      "generated_at": "2026-11-20T21:39:04.346839"
+    },
+    {
+      "english": "I’m grateful for you, every day.",
+      "hungarian": "Minden nap hálás vagyok neked.",
+      "transliteration": "Minden nap hálás vagyok neked.",
+      "category": "Love",
+      "generated_at": "2026-11-20T21:39:04.346841"
     }
   ],
-  "last_updated": "2026-11-20T19:44:21.847625"
+  "last_updated": "2026-11-20T21:39:04.346843"
 }
