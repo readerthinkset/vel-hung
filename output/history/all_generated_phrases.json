@@ -25339,7 +25339,42 @@
       "transliteration": "a csí́kos tigris, árnyé́kban hever",
       "category": "Animals",
       "generated_at": "2026-11-19T23:35:57.080469"
+    },
+    {
+      "english": "I feel calm, right in my chest.",
+      "hungarian": "Nyugodtnak érzem magam, a mellkasomban.",
+      "transliteration": "Nyo-god-t-nak ér-zem ma-gam, a meľ-kaszom-ban.",
+      "category": "Feelings",
+      "generated_at": "2026-11-20T01:41:37.243911"
+    },
+    {
+      "english": "Excitement builds up, like a drumbeat.",
+      "hungarian": "Izgalom gyűlik, mint egy dobpergés.",
+      "transliteration": "Iz-ga-lom gyü-lik, mint egy dob-per-gés.",
+      "category": "Feelings",
+      "generated_at": "2026-11-20T01:41:37.243923"
+    },
+    {
+      "english": "I feel shy, but I smile anyway.",
+      "hungarian": "Kicsit zavarban vagyok, mégis mosolygok.",
+      "transliteration": "Kichit za-var-ban va-gyok, még-is mo-so-ly-gok.",
+      "category": "Feelings",
+      "generated_at": "2026-11-20T01:41:37.243925"
+    },
+    {
+      "english": "My heart feels light, all at once.",
+      "hungarian": "Hirtelen könnyűnek érződik a szívem.",
+      "transliteration": "Hir-té-len ké-nyű-nek é-rző-dik a szí-ve-m.",
+      "category": "Feelings",
+      "generated_at": "2026-11-20T01:41:37.243926"
+    },
+    {
+      "english": "I feel nervous, like I might trip.",
+      "hungarian": "Ideges vagyok, mintha elbotlanék.",
+      "transliteration": "I-de-ges va-gyok, min-tha el-bot-la-nék.",
+      "category": "Feelings",
+      "generated_at": "2026-11-20T01:41:37.243928"
     }
   ],
-  "last_updated": "2026-11-19T23:35:57.080471"
+  "last_updated": "2026-11-20T01:41:37.243930"
 }
