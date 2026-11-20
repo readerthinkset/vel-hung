@@ -25374,7 +25374,42 @@
       "transliteration": "I-de-ges va-gyok, min-tha el-bot-la-nék.",
       "category": "Feelings",
       "generated_at": "2026-11-20T01:41:37.243928"
+    },
+    {
+      "english": "You can do this, one conversation at a time.",
+      "hungarian": "Meg tudod csinálni, egy beszélgetés egyszerre.",
+      "transliteration": "meg tu-dod csinál-ni, egy beszélgetés egyszerre",
+      "category": "Motivation",
+      "generated_at": "2026-11-20T05:29:32.024340"
+    },
+    {
+      "english": "Speak now, the rest will follow.",
+      "hungarian": "Beszélj most, a többi jön utána.",
+      "transliteration": "be-szélj most, a többi jön u-tá-na",
+      "category": "Motivation",
+      "generated_at": "2026-11-20T05:29:32.024355"
+    },
+    {
+      "english": "Stay curious, every day brings progress.",
+      "hungarian": "Maradj kíváncsi, minden nap haladást hoz.",
+      "transliteration": "ma-radj kí-ván-csi, min-den nap ha-la-dást hoz",
+      "category": "Motivation",
+      "generated_at": "2026-11-20T05:29:32.024357"
+    },
+    {
+      "english": "Confidence grows, with every honest try.",
+      "hungarian": "A magabiztosság nő, minden őszinte próbával.",
+      "transliteration": "a ma-ga-biz-tos-ság nő, min-den őszinte pró-bál",
+      "category": "Motivation",
+      "generated_at": "2026-11-20T05:29:32.024358"
+    },
+    {
+      "english": "Let mistakes pass, keep talking anyway.",
+      "hungarian": "Hagyd el a hibákat, beszélj tovább.",
+      "transliteration": "ha-gyd el a hi-bá-kat, be-szélj tovább",
+      "category": "Motivation",
+      "generated_at": "2026-11-20T05:29:32.024360"
     }
   ],
-  "last_updated": "2026-11-20T01:41:37.243930"
+  "last_updated": "2026-11-20T05:29:32.024362"
 }
