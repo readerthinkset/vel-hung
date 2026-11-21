@@ -25549,7 +25549,42 @@
       "transliteration": "beszelj emberekkel, ne a felelemmel",
       "category": "Growth",
       "generated_at": "2026-11-21T01:08:11.652575"
+    },
+    {
+      "english": "Thank you for your help today.",
+      "hungarian": "Köszönöm a segítségedet ma.",
+      "transliteration": "Kösönöm a segítsegedet ma.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T05:22:20.043218"
+    },
+    {
+      "english": "I really appreciate what you did.",
+      "hungarian": "Nagyon értékelem, amit tettél.",
+      "transliteration": "Nagyón értékelem, amit tettél.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T05:22:20.043230"
+    },
+    {
+      "english": "Thanks, you made my day better.",
+      "hungarian": "Köszi, jobb lett tőled a napom.",
+      "transliteration": "Koszi, jobb lett töled a napom.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T05:22:20.043231"
+    },
+    {
+      "english": "I’m thankful for your quick response.",
+      "hungarian": "Hálás vagyok a gyors válaszodért.",
+      "transliteration": "Hálás vagyok a gyors válaszodért.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T05:22:20.043233"
+    },
+    {
+      "english": "Thank you for being so patient.",
+      "hungarian": "Köszönöm, hogy ilyen türelmes vagy.",
+      "transliteration": "Kösönöm, hogy ilyen türelmes vagy.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T05:22:20.043235"
     }
   ],
-  "last_updated": "2026-11-21T01:08:11.652577"
+  "last_updated": "2026-11-21T05:22:20.043236"
 }
