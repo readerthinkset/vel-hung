@@ -25759,7 +25759,42 @@
       "transliteration": "rád gondolok, mint az otthonra",
       "category": "Relationships",
       "generated_at": "2026-11-22T04:47:55.498353"
+    },
+    {
+      "english": "Let me help, if you want.",
+      "hungarian": "Segíthetek, ha szeretnéd.",
+      "transliteration": "se-git-he-ték, ha sze-ret-néd",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T19:14:36.405438"
+    },
+    {
+      "english": "You’re doing great, keep going.",
+      "hungarian": "Nagyon jól csinálod, csak így tovább.",
+      "transliteration": "na-gyon jól csinálod, csak így tovább",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T19:14:36.405455"
+    },
+    {
+      "english": "I’m proud of you, today.",
+      "hungarian": "Ma büszke vagyok rád.",
+      "transliteration": "ma büsz-ke va-gyok rád",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T19:14:36.405456"
+    },
+    {
+      "english": "Take a breath, everything’s okay.",
+      "hungarian": "Vegyél egy levegőt, minden rendben.",
+      "transliteration": "vegyél egy le-ve-gőt, min-den rend-ben",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T19:14:36.405457"
+    },
+    {
+      "english": "Here’s a smile, just for you.",
+      "hungarian": "Ez egy mosoly neked.",
+      "transliteration": "e-z egy mo-so-ly ne-ked",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T19:14:36.405458"
     }
   ],
-  "last_updated": "2026-11-22T04:47:55.498357"
+  "last_updated": "2026-11-22T19:14:36.405460"
 }
