@@ -25794,7 +25794,42 @@
       "transliteration": "e-z egy mo-so-ly ne-ked",
       "category": "Kindness",
       "generated_at": "2026-11-22T19:14:36.405458"
+    },
+    {
+      "english": "Hello, nice to meet you.",
+      "hungarian": "Szia, örülök, hogy találkozunk.",
+      "transliteration": "Szia, örülök, hogy találkozunk.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:32:32.342953"
+    },
+    {
+      "english": "Where are you from?",
+      "hungarian": "Honnan jöttél?",
+      "transliteration": "Hon-nan jöttél?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:32:32.342964"
+    },
+    {
+      "english": "Could you help me, please?",
+      "hungarian": "Tudnál segíteni, kérlek?",
+      "transliteration": "Tudnál se-gí-teni, kérlek?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:32:32.342966"
+    },
+    {
+      "english": "Where is the bus stop?",
+      "hungarian": "Hol van a buszmegálló?",
+      "transliteration": "Hol van a busz-megálló?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:32:32.342967"
+    },
+    {
+      "english": "Is there a restroom nearby?",
+      "hungarian": "Van a közelben mosdó?",
+      "transliteration": "Van a közelben mosdó?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:32:32.342969"
     }
   ],
-  "last_updated": "2026-11-22T19:14:36.405460"
+  "last_updated": "2026-11-22T20:32:32.342971"
 }
