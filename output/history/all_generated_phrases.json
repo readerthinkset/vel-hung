@@ -25829,7 +25829,42 @@
       "transliteration": "Van a közelben mosdó?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-22T20:32:32.342969"
+    },
+    {
+      "english": "How do you say this in Hungarian?",
+      "hungarian": "Hogy mondod ezt magyarul?",
+      "transliteration": "Hogyan mondod ezt magyarul?",
+      "category": "Education",
+      "generated_at": "2026-11-22T22:15:42.696654"
+    },
+    {
+      "english": "Please repeat that a little slower.",
+      "hungarian": "Kérlek, ismételd kicsit lassabban.",
+      "transliteration": "Kerlek,ismeteld kicsit lassabban.",
+      "category": "Education",
+      "generated_at": "2026-11-22T22:15:42.696666"
+    },
+    {
+      "english": "I don’t understand yet, sorry.",
+      "hungarian": "Még nem értem, elnézést.",
+      "transliteration": "Meg nem eritem, elnezest.",
+      "category": "Education",
+      "generated_at": "2026-11-22T22:15:42.696668"
+    },
+    {
+      "english": "What does this word mean?",
+      "hungarian": "Mit jelent ez a szó?",
+      "transliteration": "Mit jelent ez a szo?",
+      "category": "Education",
+      "generated_at": "2026-11-22T22:15:42.696670"
+    },
+    {
+      "english": "Can you help me with the grammar?",
+      "hungarian": "Tudsz segíteni a nyelvtanban?",
+      "transliteration": "Tudsz segiteni a nyelvtanban?",
+      "category": "Education",
+      "generated_at": "2026-11-22T22:15:42.696671"
     }
   ],
-  "last_updated": "2026-11-22T20:32:32.342971"
+  "last_updated": "2026-11-22T22:15:42.696673"
 }
