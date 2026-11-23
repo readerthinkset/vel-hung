@@ -25934,7 +25934,42 @@
       "transliteration": "Engedd el finoman, lépj tovább halkan.",
       "category": "Positive Life",
       "generated_at": "2026-11-23T05:26:48.275074"
+    },
+    {
+      "english": "Help me, I’m lost and scared.",
+      "hungarian": "Segíts, elvesztem magam, félek.",
+      "transliteration": "Seh-its, e-lvesz-tem ma-gam, fé-lem.",
+      "category": "Emergency",
+      "generated_at": "2026-11-23T23:33:28.083798"
+    },
+    {
+      "english": "I think I hit my head.",
+      "hungarian": "Szerintem fejsérülést szenvedtem.",
+      "transliteration": "Sze-rint-em fej-sé-rü-lés-t szenved-tem.",
+      "category": "Emergency",
+      "generated_at": "2026-11-23T23:33:28.083812"
+    },
+    {
+      "english": "Please call 112 for me.",
+      "hungarian": "Kérem, hívja a 112-t.",
+      "transliteration": "Ké-rem, hi-vja a tiz-en-kettőt.",
+      "category": "Emergency",
+      "generated_at": "2026-11-23T23:33:28.083813"
+    },
+    {
+      "english": "Is there a first aid kit here?",
+      "hungarian": "Van itt elsősegély-doboz?",
+      "transliteration": "Van itt eőső-se-gél-do-boz?",
+      "category": "Emergency",
+      "generated_at": "2026-11-23T23:33:28.083815"
+    },
+    {
+      "english": "I need help, I feel dizzy.",
+      "hungarian": "Segítség kell, szédülök.",
+      "transliteration": "Seh-gít-sé-g kell, sédü-lök.",
+      "category": "Emergency",
+      "generated_at": "2026-11-23T23:33:28.083816"
     }
   ],
-  "last_updated": "2026-11-23T05:26:48.275076"
+  "last_updated": "2026-11-23T23:33:28.083818"
 }
