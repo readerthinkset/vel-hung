@@ -26074,7 +26074,42 @@
       "transliteration": "Köszönöm, hogy meghallgatsz engem.",
       "category": "Friendship",
       "generated_at": "2026-11-24T05:01:51.605876"
+    },
+    {
+      "english": "I bumped my elbow, it hurts.",
+      "hungarian": "Megütöttem a könyököm, fáj.",
+      "transliteration": "megütöttem a könyökömet, fáj",
+      "category": "Body Parts",
+      "generated_at": "2026-11-24T08:05:00.052420"
+    },
+    {
+      "english": "My wrist is stiff, from lifting.",
+      "hungarian": "A csuklóm merev, emeléstől.",
+      "transliteration": "a csuklóm merev, emeléstől",
+      "category": "Body Parts",
+      "generated_at": "2026-11-24T08:05:00.052432"
+    },
+    {
+      "english": "My thumb aches when I type.",
+      "hungarian": "A hüvelykujjam fáj gépeléskor.",
+      "transliteration": "a hüvelykujjám fáj gépeléskor",
+      "category": "Body Parts",
+      "generated_at": "2026-11-24T08:05:00.052434"
+    },
+    {
+      "english": "I can’t move my fingers, today.",
+      "hungarian": "Ma nem tudom mozgatni az ujjaim.",
+      "transliteration": "ma nem tudom mozgatni az ujjaim",
+      "category": "Body Parts",
+      "generated_at": "2026-11-24T08:05:00.052435"
+    },
+    {
+      "english": "My knuckles are sore after gaming.",
+      "hungarian": "A csülkeim fájnak játék után.",
+      "transliteration": "a csülkeim fájnak játék után",
+      "category": "Body Parts",
+      "generated_at": "2026-11-24T08:05:00.052437"
     }
   ],
-  "last_updated": "2026-11-24T05:01:51.605878"
+  "last_updated": "2026-11-24T08:05:00.052439"
 }
