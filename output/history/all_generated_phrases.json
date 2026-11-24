@@ -26144,7 +26144,42 @@
       "transliteration": "Kapcsold be az értesítéseket, ne maradj le.",
       "category": "Finance",
       "generated_at": "2026-11-24T22:03:03.001806"
+    },
+    {
+      "english": "Hi! How are you today, really?",
+      "hungarian": "Szia! Hogy vagy ma igazán?",
+      "transliteration": "Sia! Hogy vagy ma igazán?",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T23:21:08.513061"
+    },
+    {
+      "english": "Hello, good to see you!",
+      "hungarian": "Jó napot, örülök, hogy láttalak!",
+      "transliteration": "Jo napot, örülök, hogy láttalak!",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T23:21:08.513078"
+    },
+    {
+      "english": "Hey, hope your day is going well.",
+      "hungarian": "Szia, remélem, jól alakul a napod.",
+      "transliteration": "Szia, remélem, jól alakul a napod.",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T23:21:08.513080"
+    },
+    {
+      "english": "Welcome, come in, take a seat.",
+      "hungarian": "Üdvözöllek, gyere be, foglalj helyet.",
+      "transliteration": "Üdvözöllek, gyere be, foglalj helyet.",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T23:21:08.513081"
+    },
+    {
+      "english": "Good morning, have a great start.",
+      "hungarian": "Jó reggelt, legyen szép a reggeled!",
+      "transliteration": "Jo reggelt, legyen szép a reggeled!",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T23:21:08.513082"
     }
   ],
-  "last_updated": "2026-11-24T22:03:03.001808"
+  "last_updated": "2026-11-24T23:21:08.513084"
 }
