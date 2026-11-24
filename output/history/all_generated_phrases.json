@@ -26109,7 +26109,42 @@
       "transliteration": "a csülkeim fájnak játék után",
       "category": "Body Parts",
       "generated_at": "2026-11-24T08:05:00.052437"
+    },
+    {
+      "english": "Read your statements, spot mistakes early.",
+      "hungarian": "Nézd át a számlakivonatod, korán találd a hibákat.",
+      "transliteration": "Nézd át a számlakivonatod, korán találd a hibákat.",
+      "category": "Finance",
+      "generated_at": "2026-11-24T22:03:03.001788"
+    },
+    {
+      "english": "Compare fees, choose the cheaper option.",
+      "hungarian": "Nézd meg a díjakat, válaszd a kedvezőbbet.",
+      "transliteration": "Nézd meg a díjakat, válaszd a kedvezőbbet.",
+      "category": "Finance",
+      "generated_at": "2026-11-24T22:03:03.001801"
+    },
+    {
+      "english": "Pay in full, avoid nasty interest.",
+      "hungarian": "Fizess ki teljesen, kerüld a drága kamatot.",
+      "transliteration": "Fizess ki teljesen, kerüld a drága kamatot.",
+      "category": "Finance",
+      "generated_at": "2026-11-24T22:03:03.001803"
+    },
+    {
+      "english": "Use a separate account for bills.",
+      "hungarian": "Külön számlán intézd a számlákat.",
+      "transliteration": "Külön számlán intézd a számlákat.",
+      "category": "Finance",
+      "generated_at": "2026-11-24T22:03:03.001805"
+    },
+    {
+      "english": "Set alerts, don’t miss card charges.",
+      "hungarian": "Kapcsold be az értesítéseket, ne maradj le.",
+      "transliteration": "Kapcsold be az értesítéseket, ne maradj le.",
+      "category": "Finance",
+      "generated_at": "2026-11-24T22:03:03.001806"
     }
   ],
-  "last_updated": "2026-11-24T08:05:00.052439"
+  "last_updated": "2026-11-24T22:03:03.001808"
 }
