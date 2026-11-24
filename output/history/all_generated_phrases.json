@@ -25969,7 +25969,42 @@
       "transliteration": "Seh-gít-sé-g kell, sédü-lök.",
       "category": "Emergency",
       "generated_at": "2026-11-23T23:33:28.083816"
+    },
+    {
+      "english": "Let’s get started right away, please.",
+      "hungarian": "Kezdjük el rögtön, kérlek.",
+      "transliteration": "kez-djük el rögtön, kérlek",
+      "category": "Work",
+      "generated_at": "2026-11-24T01:44:35.355254"
+    },
+    {
+      "english": "Can you tell me your plan, briefly?",
+      "hungarian": "El tudod mondani röviden a terved?",
+      "transliteration": "el tudod mondani röviden a terved",
+      "category": "Work",
+      "generated_at": "2026-11-24T01:44:35.355269"
+    },
+    {
+      "english": "We should set priorities for today.",
+      "hungarian": "Ma érdemes rangsorolni a feladatokat.",
+      "transliteration": "ma érdemes rangsorolni a feladatokat",
+      "category": "Work",
+      "generated_at": "2026-11-24T01:44:35.355271"
+    },
+    {
+      "english": "I’ll check the details, then confirm.",
+      "hungarian": "Megnézem a részleteket, aztán megerősítem.",
+      "transliteration": "meg-nézem a részleteket, aztán megerősítem",
+      "category": "Work",
+      "generated_at": "2026-11-24T01:44:35.355272"
+    },
+    {
+      "english": "Please keep me updated as you go.",
+      "hungarian": "Kérlek, jelezz folyamatosan menet közben.",
+      "transliteration": "kérlek, jelezz folyamatosan menet közben",
+      "category": "Work",
+      "generated_at": "2026-11-24T01:44:35.355274"
     }
   ],
-  "last_updated": "2026-11-23T23:33:28.083818"
+  "last_updated": "2026-11-24T01:44:35.355276"
 }
