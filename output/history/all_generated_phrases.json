@@ -26459,7 +26459,42 @@
       "transliteration": "Tartsd magasra az allad, szolj batran.",
       "category": "Strength",
       "generated_at": "2026-11-26T06:37:18.843696"
+    },
+    {
+      "english": "I feel safe, like everything slows down.",
+      "hungarian": "Biztonságban érzem magam, mintha lelassulna minden.",
+      "transliteration": "biztonságban érzem magam, mintha lelassulna minden",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T21:05:09.582414"
+    },
+    {
+      "english": "My worries fade, and I can breathe.",
+      "hungarian": "A gondjaim elcsitulnak, és tudok lélegezni.",
+      "transliteration": "a gondjaim elcsitulnak, és tudok lélegezni",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T21:05:09.582431"
+    },
+    {
+      "english": "Happiness comes softly, right behind my smile.",
+      "hungarian": "A boldogság halkan jön, a mosolyom mögött.",
+      "transliteration": "a boldogság halkan jön, a mosolyom mögött",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T21:05:09.582432"
+    },
+    {
+      "english": "I feel brave, like I can try.",
+      "hungarian": "Bátornak érzem magam, mintha bármit megpróbálhatnék.",
+      "transliteration": "bátornak érzem magam, mintha bármit megpróbálhatnék",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T21:05:09.582433"
+    },
+    {
+      "english": "A little thrill runs through me.",
+      "hungarian": "Egy kis izgalom végigfut bennem.",
+      "transliteration": "egy kis izgalom végigfut bennem",
+      "category": "Feelings",
+      "generated_at": "2026-11-26T21:05:09.582434"
     }
   ],
-  "last_updated": "2026-11-26T06:37:18.843697"
+  "last_updated": "2026-11-26T21:05:09.582436"
 }
