@@ -26354,7 +26354,42 @@
       "transliteration": "Be szélj hal kan, és tartsd a ritmust.",
       "category": "Wisdom",
       "generated_at": "2026-11-25T22:53:00.492892"
+    },
+    {
+      "english": "Drink water, now, before you forget.",
+      "hungarian": "Igyál vizet, most, ha még nem késő.",
+      "transliteration": "Igyal vizet, most, ha meg nem keso.",
+      "category": "Health",
+      "generated_at": "2026-11-26T00:47:58.461938"
+    },
+    {
+      "english": "Take a sip, let it settle.",
+      "hungarian": "Igyál egy kortyot, hadd rendeződjön.",
+      "transliteration": "Igyal egy kortyot, hadd rendezodjon.",
+      "category": "Health",
+      "generated_at": "2026-11-26T00:47:58.461955"
+    },
+    {
+      "english": "Eat slowly, listen to your hunger.",
+      "hungarian": "Egyél lassan, hallgasd meg a tested.",
+      "transliteration": "Egyel lassan, hallgasd meg a tested.",
+      "category": "Health",
+      "generated_at": "2026-11-26T00:47:58.461957"
+    },
+    {
+      "english": "Choose fruit, for a quick boost.",
+      "hungarian": "Válassz gyümölcsöt, gyors feltöltéshez.",
+      "transliteration": "Valassz gyumolcsot, gyors feltolteshez.",
+      "category": "Health",
+      "generated_at": "2026-11-26T00:47:58.461958"
+    },
+    {
+      "english": "Add some greens, feel the difference.",
+      "hungarian": "Tegyél a tányérba zöldet, meglátod.",
+      "transliteration": "Tegyel a tenyérba zöldet, meglatod.",
+      "category": "Health",
+      "generated_at": "2026-11-26T00:47:58.461960"
     }
   ],
-  "last_updated": "2026-11-25T22:53:00.492894"
+  "last_updated": "2026-11-26T00:47:58.461962"
 }
