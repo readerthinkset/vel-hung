@@ -26389,7 +26389,42 @@
       "transliteration": "Tegyel a tenyérba zöldet, meglatod.",
       "category": "Health",
       "generated_at": "2026-11-26T00:47:58.461960"
+    },
+    {
+      "english": "I love you, and I mean it.",
+      "hungarian": "Szeretlek, és komolyan gondolom.",
+      "transliteration": "Seretlek, es komolyan gondolom",
+      "category": "Love",
+      "generated_at": "2026-11-26T02:41:47.442539"
+    },
+    {
+      "english": "You make my day feel lighter.",
+      "hungarian": "Te könnyebbé teszed a napom.",
+      "transliteration": "Te konnyebbe teszed a napom",
+      "category": "Love",
+      "generated_at": "2026-11-26T02:41:47.442559"
+    },
+    {
+      "english": "When I think of you, smile.",
+      "hungarian": "Ha rád gondolok, mosolygok.",
+      "transliteration": "Ha rad gondolok, mosolygok",
+      "category": "Love",
+      "generated_at": "2026-11-26T02:41:47.442561"
+    },
+    {
+      "english": "I want you, right beside me.",
+      "hungarian": "Akarlak, pont mellettem.",
+      "transliteration": "Akar-lak, pont mel-lettem",
+      "category": "Love",
+      "generated_at": "2026-11-26T02:41:47.442563"
+    },
+    {
+      "english": "Stay with me, please, tonight.",
+      "hungarian": "Maradj velem, kérlek, ma este.",
+      "transliteration": "Maradj velem, kerlek, ma este",
+      "category": "Love",
+      "generated_at": "2026-11-26T02:41:47.442564"
     }
   ],
-  "last_updated": "2026-11-26T00:47:58.461962"
+  "last_updated": "2026-11-26T02:41:47.442567"
 }
