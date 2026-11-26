@@ -26494,7 +26494,42 @@
       "transliteration": "egy kis izgalom végigfut bennem",
       "category": "Feelings",
       "generated_at": "2026-11-26T21:05:09.582434"
+    },
+    {
+      "english": "The sun breaks through the clouds.",
+      "hungarian": "A nap áttör a felhőkön.",
+      "transliteration": "A nap attőr a fele̋kkön.",
+      "category": "Weather",
+      "generated_at": "2026-11-26T22:42:50.368849"
+    },
+    {
+      "english": "The wind picks up, then eases.",
+      "hungarian": "A szél felélénkül, aztán lecsillapodik.",
+      "transliteration": "A szél felélenïkȕl, aztán lecsillapodik.",
+      "category": "Weather",
+      "generated_at": "2026-11-26T22:42:50.368863"
+    },
+    {
+      "english": "It starts to drizzle near noon.",
+      "hungarian": "Dél körül elkezd szitálni.",
+      "transliteration": "Dél körül elkezd sitalázni.",
+      "category": "Weather",
+      "generated_at": "2026-11-26T22:42:50.368865"
+    },
+    {
+      "english": "Clouds roll in from the west.",
+      "hungarian": "Felhők érkeznek nyugat felől.",
+      "transliteration": "Fele̋k érkeznek nyugat felől.",
+      "category": "Weather",
+      "generated_at": "2026-11-26T22:42:50.368866"
+    },
+    {
+      "english": "The rain stops, and everything smells fresh.",
+      "hungarian": "Abbahagyja az eső, minden friss illatú.",
+      "transliteration": "Abbahagyja az eső, minden friss illatú.",
+      "category": "Weather",
+      "generated_at": "2026-11-26T22:42:50.368867"
     }
   ],
-  "last_updated": "2026-11-26T21:05:09.582436"
+  "last_updated": "2026-11-26T22:42:50.368868"
 }
