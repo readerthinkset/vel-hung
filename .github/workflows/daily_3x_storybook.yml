@@ -2,9 +2,9 @@ name: Velocity Hungarian - Storybook Publish
 
 on:
   schedule:
-    - cron: '00:47 * * *'
-    - cron: '08:47 * * *'
-    - cron: '16:47 * * *'
+    - cron: '47 0 * * *'
+    - cron: '47 8 * * *'
+    - cron: '47 16 * * *'
   workflow_dispatch:
     inputs:
       category:
